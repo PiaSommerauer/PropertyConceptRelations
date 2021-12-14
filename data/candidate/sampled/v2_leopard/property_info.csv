@@ -1,0 +1,198 @@
+property,category,scale,link
+swim,movements,F,do
+roll,movements,F,do
+lay_eggs,activities,F,do
+fly,movements,F,do
+warm,temperatures,T,have
+hot,temperatures,T,have
+red,colors,F,have
+square,shapes,F,have
+green,colors,F,have
+cold,temperatures,T,have
+sweet,tastes,F,have
+blue,colors,F,have
+yellow,colors,F,have
+round,shapes,F,have
+black,colors,F,have
+juicy,qualities,F,have
+dangerous,properties,T,have
+used_in_cooking,uses,F,have
+female,genders,F,have
+wheels,parts,F,have
+wings,parts,F,have
+wood,materials,F,be made of
+light,weight,T,have
+bright,appearances,T,have
+pointy,shapes,F,have
+heavy,qualities,T,have
+grey,colors,F,have
+white,colors,F,have
+solid,states,F,have
+liquid,states,F,have
+sharp,shapes,T,have
+alcoholic,quality,T,have
+frozen,states,T,have
+soft,qualities,F,have
+transparent,qualities,T,have
+salty,tastes,F,have
+furry,qualities,F,have
+bitter,tastes,F,have
+dark,appearances,T,have
+savory,tastes,F,have
+dry,qualities,T,have
+orange,colors,F,have
+melting,qualities,F,have
+brown,colors,F,have
+purple,colors,F,have
+small,sizes,T,have
+pink,colors,F,have
+colorful,qualities,F,have
+spicy,tastes,F,have
+shining,qualities,F,have
+batteries,parts,F,have
+handle,parts,F,have
+engine,parts,F,have
+face,parts,F,have
+plastic,materials,F,be made of
+paper,materials,F,be made of
+metal,materials,F,be made of
+cotton,materials,F,be made of
+voice,qualities,T,have
+pockets,parts,F,have
+gold,qualities,F,have
+healthy,qualities,T,have
+sweet,tastes,F,have
+sattle,parts,F,have
+mammal,qualities,F,have
+hunt,activities,F,have
+French,origins,F,have
+speak,abitlities,F,have
+fabric,materials,F,be made of
+Italian,qualities,F,have
+hard,qualities,F,have
+legs,parts,F,have
+crystal,materials,F,be made of
+blade,parts,F,have
+study,activities,F,do
+innocent,qualities,F,have
+glow,qualities,F,have
+head,parts,F,have
+read,activities,F,do
+smile,activities,F,do
+breathe,activities,F,do
+protect_from_water,uses,F,do
+icing,parts,F,have
+play,activities,F,do
+teach,activities,F,do
+famous,qualities,F,have
+intelligent,qualities,F,have
+teeth,parts,F,have
+party,activities,F,do
+eyes,parts,F,have
+wool,materials,F,have
+walk,activities,F,do
+cook,activities,F,do
+dying,states,F,have
+ink,materials,F,have
+alive,states,F,have
+sour,tastes,F,have
+expensive,prices,F,have
+waterproof,qualities,F,have
+smoke,activities,F,do
+work,activities,F,do
+cap,parts,F,have
+keyboard,parts,F,have
+point,parts,F,have
+crawl,movements,F,do
+educational,qualities,F,have
+china,materials,F,be made of
+albino,kinds,F,be
+antlers,parts,F,have
+exit,parts,F,have
+fur,materials,F,have
+beak,parts,F,have
+busy,states,T,have
+valuable,qualities,T,have
+kill,abitlities,F,do
+beautiful,qualities,T,have
+cry,activities,F,do
+rot,activities,F,do
+chocolate,materials,F,be made of
+bark,activities,F,do
+high,qualities,T,have
+grow,activities,F,do
+tip,parts,F,have
+cheap,prices,F,have
+lungs,parts,F,have
+nose,parts,F,have
+mane,parts,F,have
+lid,parts,T,have
+eraser,parts,T,have
+wood,materials,T,be made of
+toxic,qualities,T,have
+sick,states,T,have
+purr,activities,F,do
+painting,parts,F,have
+bow,parts,F,have
+pattern,parts,F,have
+cut,activities,F,do
+move,activities,F,do
+run,activities,F,do
+paint,activities,F,do
+poke,activities,F,do
+float,activities,F,do
+pierce,activities,F,do
+burn,activities,F,do
+heat,activities,F,do
+act,activities,F,do
+hunt,activities,F,do
+cook,activities,F,do
+read,activities,F,do
+breathe,activities,F,do
+melt,activities,F,do
+stab,abitlities,F,do
+tablecloth,things,F,have
+sleep,activities,F,do
+clean,activities,F,do
+fight,activities,F,do
+pocket,parts,F,have
+sleep,activites,F,do
+wrap,activites,F,do
+clean,activites,F,do
+meow,activites,F,do
+made_of_cotton,fibers,F,be made of
+wool,materials,F,be made of
+throw,activites,F,do
+human,kinds,F,be
+metal,materials,F,be made of
+gold,materials,F,be made of
+paper,materials,F,be made of
+china,materials,F,be made of
+fabric,materials,F,be made of
+chocolate,materials,F,be made of
+plastic,materials,F,be made of
+eye,body_part,F,have
+emergency vehicle light,parts,F,have
+curtain,parts,F,have
+page,parts,F,have
+glass,materials,F,have
+sugar,materials,F,have
+emergency light,parts,F,have
+spare_wheel,parts,F,have
+removable roof,parts,F,have
+handle bar,parts,F,have
+sail,parts,F,have
+seat,parts,F,have
+grain,materials,F,be made of
+wheat,substances,F,be made of
+roof,parts,F,have
+tail,parts,F,have
+fruit_bowl,parts,F,have
+fin,parts,F,have
+roses,flowers,F,be made of
+daisies,flowers,F,be made of
+silicon,materials,F,be made of
+leather,materials,F,be made of
+draw,activities,F,do
+flour,materials,F,be made of
+lentils,substances,F,be made of

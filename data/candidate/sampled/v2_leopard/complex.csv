@@ -1,0 +1,437 @@
+property,lemma,label,certainty,sources_str
+dangerous,fork,neg,certain,wn_hypernym manually_included
+dangerous,stamper,neg,not_certain,wn_hypernym
+dangerous,cure,neg,not_certain,wn_hypernym
+dangerous,mop,neg,certain,cslb_crowd_neg
+dangerous,ciprofloxacin,neg,not_certain,wn_hypernym
+dangerous,nitrazepam,neg,not_certain,wn_hypernym
+dangerous,blender,neg,certain,cslb cslb_crowd_neg
+dangerous,isoniazid,neg,not_certain,wn_hypernym
+dangerous,mattock,neg,not_certain,wn_hypernym
+dangerous,hack,neg,not_certain,wn_hypernym
+dangerous,mandrill,neg,certain,cslb_crowd_neg
+dangerous,slice,neg,not_certain,wn_hypernym
+dangerous,penicillin,neg,not_certain,wn_hypernym
+dangerous,unction,neg,not_certain,wn_hypernym
+dangerous,radiopharmaceutical,neg,not_certain,wn_hypernym
+dangerous,aspirin,neg,not_certain,wn_hypernym
+dangerous,mallet,neg,not_certain,wn_hypernym
+dangerous,adze,neg,not_certain,wn_hypernym
+dangerous,bolo,neg,not_certain,wn_hypernym
+dangerous,jack,neg,not_certain,wn_hypernym
+dangerous,rabbit,neg,certain,cslb_crowd_neg
+dangerous,iodine,neg,not_certain,wn_hypernym
+dangerous,laxative,neg,not_certain,wn_hypernym
+dangerous,soup,neg,certain,cslb_crowd_neg
+dangerous,starter,neg,not_certain,wn_hypernym
+dangerous,gutter,neg,not_certain,wn_hypernym
+dangerous,gang,neg,not_certain,wn_hypernym
+dangerous,clipper,neg,not_certain,wn_hypernym
+dangerous,sulfonamide,neg,not_certain,wn_hypernym
+dangerous,toad,neg,certain,cslb_crowd_neg
+dangerous,tap,neg,not_certain,wn_hypernym
+dangerous,naproxen,neg,not_certain,wn_hypernym
+dangerous,goat,neg,certain,cslb_crowd_neg
+dangerous,spud,neg,not_certain,wn_hypernym
+dangerous,bucket,neg,certain,cslb_crowd_neg
+dangerous,morphine,neg,not_certain,wn_hypernym
+dangerous,pestle,neg,not_certain,wn_hypernym
+dangerous,opener,neg,not_certain,wn_hypernym
+dangerous,hammer,neg,not_certain,wn_hypernym
+dangerous,bit,neg,not_certain,wn_hypernym
+dangerous,file,neg,not_certain,wn_hypernym
+dangerous,ointment,neg,not_certain,wn_hypernym
+dangerous,pentobarbital,neg,not_certain,wn_hypernym
+dangerous,glove,neg,certain,cslb_crowd_neg
+dangerous,dose,neg,not_certain,wn_hypernym
+dangerous,hornbill,neg,certain,cslb_crowd_neg
+dangerous,bill,neg,not_certain,wn_hypernym
+dangerous,elixir,neg,not_certain,wn_hypernym
+dangerous,remedy,neg,not_certain,wn_hypernym
+dangerous,plier,neg,not_certain,wn_hypernym
+dangerous,hoe,neg,certain,cslb_crowd_neg wn_hypernym
+dangerous,marlinspike,neg,not_certain,wn_hypernym
+dangerous,buffer,neg,not_certain,wn_hypernym
+dangerous,colchicine,neg,not_certain,wn_hypernym
+dangerous,turtle,neg,certain,cslb_crowd_neg
+dangerous,lister,neg,not_certain,wn_hypernym
+dangerous,beetle,neg,not_certain,wn_hypernym
+dangerous,gentamicin,neg,not_certain,wn_hypernym
+dangerous,menthol,neg,not_certain,wn_hypernym
+dangerous,plane,neg,not_certain,wn_hypernym
+dangerous,langur,neg,certain,cslb_crowd_neg
+dangerous,malaria,pos,certain,manually_included
+dangerous,fire,pos,certain,manually_included
+dangerous,attack,pos,certain,manually_included
+dangerous,virus,pos,certain,manually_included
+dangerous,gun,pos,certain,cslb wn_hypernym manually_included
+dangerous,conspiracy,pos,certain,manually_included
+dangerous,terrorism,pos,certain,manually_included
+dangerous,war,pos,certain,manually_included
+dangerous,tiger,pos,certain,cslb manually_included
+dangerous,knife,pos,certain,cslb_crowd_pos
+dangerous,plot,pos,certain,manually_included
+dangerous,shaft,pos,not_certain,wn_hypernym
+dangerous,mafioso,pos,not_certain,wn_hypernym
+dangerous,club,pos,not_certain,cslb
+dangerous,crease,pos,not_certain,wn_hypernym
+dangerous,harpoon,pos,not_certain,cslb
+dangerous,weapon,pos,certain,wikipedia_sgns_model cslb_crowd_pos wn_hypernym
+dangerous,methamphetamine,pos,certain,cslb_crowd_pos
+dangerous,venom,pos,not_certain,wn_hypernym
+dangerous,scalpel,pos,certain,cslb_crowd_pos wn_hypernym
+dangerous,punk,pos,not_certain,wn_hypernym
+dangerous,blade,pos,certain,cslb_crowd_pos wn_hypernym
+dangerous,saxitoxin,pos,not_certain,wn_hypernym
+dangerous,dip,pos,not_certain,wn_hypernym
+dangerous,scimitar,pos,not_certain,wn_hypernym
+dangerous,alligator,pos,not_certain,cslb
+dangerous,blunderbuss,pos,not_certain,wn_hypernym
+dangerous,freebooter,pos,not_certain,wn_hypernym
+dangerous,snake,pos,certain,cslb_crowd_pos
+dangerous,torpedo,pos,not_certain,wn_hypernym
+dangerous,coyote,pos,not_certain,wn_hypernym
+dangerous,hijacker,pos,not_certain,wn_hypernym
+dangerous,bayonet,pos,not_certain,cslb wn_hypernym
+dangerous,pusher,pos,not_certain,wn_hypernym
+dangerous,doodlebug,pos,not_certain,wn_hypernym
+dangerous,arm,pos,not_certain,wn_hypernym
+dangerous,arrow,pos,not_certain,cslb wn_hypernym
+dangerous,gunman,pos,not_certain,wn_hypernym
+dangerous,tuck,pos,not_certain,wn_hypernym
+dangerous,buckshot,pos,not_certain,wn_hypernym
+dangerous,scorpion,pos,not_certain,cslb
+dangerous,thief,pos,not_certain,wn_hypernym
+dangerous,henchman,pos,not_certain,wn_hypernym
+dangerous,sword,pos,not_certain,cslb wn_hypernym
+dangerous,neurotoxin,pos,not_certain,wn_hypernym
+dangerous,raper,pos,not_certain,wn_hypernym
+dangerous,bootlegger,pos,not_certain,wn_hypernym
+dangerous,grapeshot,pos,not_certain,wn_hypernym
+dangerous,flack,pos,not_certain,wn_hypernym
+dangerous,rod,pos,not_certain,wn_hypernym
+dangerous,bow,pos,not_certain,wn_hypernym
+dangerous,missile,pos,not_certain,wn_hypernym
+dangerous,fusil,pos,not_certain,wn_hypernym
+dangerous,conspirator,pos,not_certain,wn_hypernym
+dangerous,traitor,pos,not_certain,wn_hypernym
+dangerous,looter,pos,not_certain,wn_hypernym
+dangerous,racketeer,pos,not_certain,wn_hypernym
+dangerous,hippopotamus,pos,certain,cslb_crowd_pos
+dangerous,poison,pos,not_certain,cslb wn_hypernym
+dangerous,crowbar,pos,not_certain,cslb
+dangerous,tegu,pos,certain,cslb_crowd_pos
+dangerous,killer,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,typhlopidae,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,cardinalate,pos/neg,not_certain,wn_hypernym
+dangerous,handgun,pos,certain,wikipedia_sgns_model cslb_crowd_pos wn_hypernym
+dangerous,prelacy,pos/neg,not_certain,wn_hypernym
+dangerous,bar,pos/neg,not_certain,wn_hypernym
+dangerous,revolver,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+dangerous,nursing,pos/neg,not_certain,wn_hypernym
+dangerous,nightstick,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,grenade,neg/pos/pos,uncertain,wikipedia_sgns_model cslb
+dangerous,businessman,pos/neg,not_certain,wn_hypernym
+dangerous,reduviidae,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,shotgun,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+dangerous,phencyclidine,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,sniper,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,pistol,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+dangerous,firearm,pos,certain,wikipedia_sgns_model cslb_crowd_pos wn_hypernym
+dangerous,acaridae,neg/pos,not_certain,wikipedia_sgns_model
+dangerous,warhead,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,sparrow,neg,certain,manually_included
+used_in_cooking,canary,neg,certain,manually_included
+used_in_cooking,violin,neg,certain,manually_included
+used_in_cooking,hammer,neg,not_certain,wn_hypernym
+used_in_cooking,shovel,neg,not_certain,wn_hypernym
+used_in_cooking,jack,neg,not_certain,wn_hypernym
+used_in_cooking,plier,neg,not_certain,wn_hypernym
+used_in_cooking,blade,neg,not_certain,wn_hypernym
+used_in_cooking,trowel,neg,not_certain,wn_hypernym
+used_in_cooking,rake,neg,not_certain,wn_hypernym
+used_in_cooking,chainsaw,neg,not_certain,wn_hypernym
+used_in_cooking,ripsaw,neg,not_certain,wn_hypernym
+used_in_cooking,auger,neg,not_certain,wn_hypernym
+used_in_cooking,pestle,neg,not_certain,wn_hypernym
+used_in_cooking,screwdriver,neg,not_certain,wn_hypernym
+used_in_cooking,stamper,neg,not_certain,wn_hypernym
+used_in_cooking,bit,neg,not_certain,wn_hypernym
+used_in_cooking,drill,neg,not_certain,wn_hypernym
+used_in_cooking,style,neg,not_certain,wn_hypernym
+used_in_cooking,tap,neg,not_certain,wn_hypernym
+used_in_cooking,opener,neg,not_certain,wn_hypernym
+used_in_cooking,jigsaw,neg,not_certain,wn_hypernym
+used_in_cooking,pincer,neg,not_certain,wn_hypernym
+used_in_cooking,hacksaw,neg,not_certain,wn_hypernym
+used_in_cooking,toothpick,neg,not_certain,wn_hypernym
+used_in_cooking,spade,neg,not_certain,wn_hypernym
+used_in_cooking,pounder,neg,not_certain,wn_hypernym
+used_in_cooking,gimlet,neg,not_certain,wn_hypernym
+used_in_cooking,hack,neg,not_certain,wn_hypernym
+used_in_cooking,gutter,neg,not_certain,wn_hypernym
+used_in_cooking,scraper,neg,not_certain,wn_hypernym
+used_in_cooking,tool,neg,not_certain,wn_hypernym
+used_in_cooking,gavel,neg,not_certain,wn_hypernym
+used_in_cooking,file,neg,not_certain,wn_hypernym
+used_in_cooking,pallet,neg,not_certain,wn_hypernym
+used_in_cooking,planer,neg,not_certain,wn_hypernym
+used_in_cooking,rasp,neg,not_certain,wn_hypernym
+used_in_cooking,comb,neg,not_certain,wn_hypernym
+used_in_cooking,slice,neg/neg/pos,uncertain,wn_hypernym wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,sawmill,neg,not_certain,wn_hypernym
+used_in_cooking,mallet,neg,not_certain,wn_hypernym
+used_in_cooking,scoop,neg,not_certain,wn_hypernym
+used_in_cooking,starter,neg,not_certain,wn_hypernym
+used_in_cooking,clincher,neg,not_certain,wn_hypernym
+used_in_cooking,burr,neg,not_certain,wn_hypernym
+used_in_cooking,borer,neg,not_certain,wn_hypernym
+used_in_cooking,reamer,neg,not_certain,wn_hypernym
+used_in_cooking,corkscrew,neg,not_certain,wn_hypernym
+used_in_cooking,stamp,neg,not_certain,wn_hypernym
+used_in_cooking,grappler,neg,not_certain,wn_hypernym
+used_in_cooking,hayfork,neg,not_certain,wn_hypernym
+used_in_cooking,mower,neg,not_certain,wn_hypernym
+used_in_cooking,bevel,neg,not_certain,wn_hypernym
+used_in_cooking,spanner,neg,not_certain,wn_hypernym
+used_in_cooking,beetle,neg,not_certain,wn_hypernym
+used_in_cooking,polisher,neg,not_certain,wn_hypernym
+used_in_cooking,wrench,neg,not_certain,wn_hypernym
+used_in_cooking,pitchfork,neg,not_certain,wn_hypernym
+used_in_cooking,gang,neg,not_certain,wn_hypernym
+used_in_cooking,stylus,neg,not_certain,wn_hypernym
+used_in_cooking,router,neg,not_certain,wn_hypernym
+used_in_cooking,chicken,pos,certain,cslb_crowd_pos manually_included
+used_in_cooking,shrimp,pos,certain,manually_included
+used_in_cooking,bass,pos,certain,manually_included
+used_in_cooking,chisel,pos,not_certain,wn_hypernym
+used_in_cooking,lancet,pos,not_certain,wn_hypernym
+used_in_cooking,broccoli,pos,not_certain,cslb
+used_in_cooking,cauliflower,pos,not_certain,cslb
+used_in_cooking,lime,pos,not_certain,cslb
+used_in_cooking,pickaxe,pos,not_certain,wn_hypernym
+used_in_cooking,pimento,pos,certain,cslb_crowd_pos
+used_in_cooking,barong,pos,not_certain,wn_hypernym
+used_in_cooking,carrot,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+used_in_cooking,microwave,pos,not_certain,cslb
+used_in_cooking,shear,pos,not_certain,wn_hypernym wn_hypernym
+used_in_cooking,adze,pos,not_certain,wn_hypernym
+used_in_cooking,blender,pos,not_certain,cslb
+used_in_cooking,mussel,pos,not_certain,cslb
+used_in_cooking,scalpel,pos,not_certain,wn_hypernym
+used_in_cooking,cleaver,pos,not_certain,wn_hypernym
+used_in_cooking,fork,pos,not_certain,wn_hypernym
+used_in_cooking,sickle,pos,not_certain,wn_hypernym
+used_in_cooking,hatchet,pos,not_certain,wn_hypernym
+used_in_cooking,oven,pos,not_certain,cslb
+used_in_cooking,corn,pos,not_certain,cslb
+used_in_cooking,mattock,pos,not_certain,wn_hypernym
+used_in_cooking,mayonnaise,pos,certain,cslb_crowd_pos
+used_in_cooking,snip,pos,not_certain,wn_hypernym
+used_in_cooking,clipper,pos,not_certain,wn_hypernym
+used_in_cooking,butter,pos,not_certain,cslb
+used_in_cooking,turnip,pos,not_certain,cslb
+used_in_cooking,plane,pos,not_certain,wn_hypernym
+used_in_cooking,bacon,pos,not_certain,cslb
+used_in_cooking,coconut,pos,not_certain,cslb
+used_in_cooking,ax,pos,not_certain,wn_hypernym
+used_in_cooking,cutter,pos,not_certain,wn_hypernym
+used_in_cooking,pea,pos,certain,cslb_crowd_pos
+used_in_cooking,aubergine,pos,not_certain,cslb
+used_in_cooking,tablespoon,pos,not_certain,wn_hypernym
+used_in_cooking,spatula,pos,not_certain,cslb wn_hypernym
+used_in_cooking,shaver,pos,not_certain,wn_hypernym
+used_in_cooking,burrito,pos,certain,cslb_crowd_pos
+used_in_cooking,asparagus,pos,certain,cslb_crowd_pos
+used_in_cooking,cutlery,pos,not_certain,wn_hypernym
+used_in_cooking,switchblade,pos,not_certain,wn_hypernym
+used_in_cooking,stove,pos,not_certain,cslb
+used_in_cooking,tomato,pos,not_certain,cslb
+used_in_cooking,taco,pos,certain,cslb_crowd_pos
+used_in_cooking,slicer,pos,not_certain,wn_hypernym
+used_in_cooking,artichoke,pos,not_certain,cslb
+used_in_cooking,axe,pos,not_certain,wn_hypernym
+used_in_cooking,potato,neg/pos/pos,uncertain,wikipedia_sgns_model cslb
+used_in_cooking,lobster,pos,not_certain,cslb
+used_in_cooking,adz,pos,not_certain,wn_hypernym
+used_in_cooking,rice,pos,not_certain,cslb
+used_in_cooking,prawn,pos,not_certain,cslb
+used_in_cooking,apron,pos,not_certain,cslb
+used_in_cooking,lance,pos,not_certain,wn_hypernym
+used_in_cooking,jackknife,pos,not_certain,wn_hypernym
+used_in_cooking,knife,pos,not_certain,cslb wn_hypernym
+used_in_cooking,mushroom,pos,not_certain,cslb
+used_in_cooking,penknife,pos,not_certain,wn_hypernym
+used_in_cooking,cutlet,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,cheese,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,flannel,pos/neg,not_certain,cslb
+used_in_cooking,gravy,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,dish,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,onion,neg/pos/pos,uncertain,cslb wikipedia_sgns_model
+used_in_cooking,tortilla,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,beef,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,marinade,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,sauce,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,radish,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,cake,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,steak,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,chutney,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,salad,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,congee,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,vegetable,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,pigweed,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,stew,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,vinegar,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,pasta,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,cream,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,soup,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,fritter,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,confit,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,dough,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,casserole,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,pastry,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,enchiladas,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,condiment,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,bread,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,lentil,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,chorizo,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,sausage,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,oregano,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,galangal,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,mustard,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,flatbread,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,cucumber,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,acaridae,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,almond,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,breadcrumb,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,lettuce,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,meat,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+used_in_cooking,soursop,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,vinaigrette,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,sapodilla,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,dessert,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,slaw,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,omelette,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,chickpea,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,pudding,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,sundae,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,pepperoni,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,cornmeal,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,celery,neg/pos,not_certain,wikipedia_sgns_model
+used_in_cooking,noodle,neg/pos,not_certain,wikipedia_sgns_model
+female,man,neg,certain,manually_included
+female,actor,neg,certain,manually_included
+female,prince,neg,certain,manually_included
+female,king,neg,certain,manually_included
+female,human,neg,not_certain,conceptnet
+female,cockerel,neg,not_certain,cslb
+female,robert,neg,not_certain,conceptnet
+female,bull,neg,not_certain,conceptnet
+female,peacock,neg,not_certain,cslb
+female,uncle,neg,not_certain,conceptnet
+female,brother,neg,not_certain,conceptnet
+female,bitch,pos,certain,manually_included
+female,actress,pos,certain,wikipedia_sgns_model manually_included
+female,queen,pos,certain,conceptnet manually_included
+female,woman,pos,certain,wn_hypernym manually_included
+female,princess,pos,certain,wikipedia_sgns_model manually_included
+female,nanny,pos,not_certain,wn_hypernym
+female,beauty,pos,not_certain,wn_hypernym
+female,knockout,pos,not_certain,wn_hypernym
+female,sexpot,pos,not_certain,wn_hypernym
+female,girl,pos,not_certain,wn_hypernym
+female,sylph,pos,not_certain,wn_hypernym
+female,cyprian,pos,not_certain,wn_hypernym
+female,amazon,pos,not_certain,wn_hypernym
+female,vamp,pos,not_certain,wn_hypernym
+female,housewife,pos,not_certain,wn_hypernym
+female,siren,pos,not_certain,wn_hypernym
+female,coquette,pos,not_certain,wn_hypernym
+female,nymph,pos,not_certain,wn_hypernym
+female,dame,pos,not_certain,wn_hypernym
+female,dowager,pos,not_certain,wn_hypernym
+female,baggage,pos,not_certain,wn_hypernym
+female,widow,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+female,mistress,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym wikipedia_sgns_model wn_hypernym
+female,missus,pos,not_certain,wn_hypernym
+female,chit,pos,not_certain,wn_hypernym
+female,lass,pos,not_certain,wn_hypernym
+female,concubine,pos,not_certain,wn_hypernym
+female,courtesan,pos,not_certain,wn_hypernym
+female,flapper,pos,not_certain,wn_hypernym
+female,maiden,pos,not_certain,wn_hypernym
+female,dish,pos,not_certain,wn_hypernym
+female,damsel,pos,not_certain,wn_hypernym
+female,granny,pos,not_certain,wn_hypernym
+female,witch,pos,not_certain,wn_hypernym
+female,temptress,pos,not_certain,wn_hypernym
+female,looker,pos,not_certain,wn_hypernym
+female,marchioness,pos,not_certain,wn_hypernym
+female,gentlewoman,pos,not_certain,wn_hypernym
+female,peri,pos,not_certain,wn_hypernym
+female,begum,pos,not_certain,wn_hypernym
+female,wife,pos,not_certain,wn_hypernym
+female,baby,pos,not_certain,wn_hypernym
+female,bird,pos,not_certain,wn_hypernym
+female,giraffe,pos,not_certain,conceptnet
+female,cat,pos,not_certain,wn_hypernym
+female,lassie,pos,not_certain,wn_hypernym
+female,maid,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym wikipedia_sgns_model wn_hypernym
+female,wench,pos,not_certain,wn_hypernym
+female,minx,pos,not_certain,wn_hypernym
+female,tomboy,pos,not_certain,wn_hypernym
+female,lady,pos,not_certain,wn_hypernym
+female,babe,pos,not_certain,wn_hypernym
+female,scouter,pos,not_certain,wn_hypernym
+female,harlot,pos,not_certain,wn_hypernym
+female,skirt,pos,not_certain,wn_hypernym
+female,rover,pos,not_certain,wn_hypernym
+female,bachelorette,pos,not_certain,wn_hypernym
+female,mother,pos,not_certain,wn_hypernym
+female,gal,pos,not_certain,wn_hypernym
+female,doll,pos,not_certain,wn_hypernym
+female,ballerina,neg/pos,not_certain,wikipedia_sgns_model
+female,countess,neg/pos,not_certain,wikipedia_sgns_model
+female,murderess,neg/pos,not_certain,wikipedia_sgns_model
+female,girlfriend,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+female,daughter,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+female,duchess,neg/pos,not_certain,wikipedia_sgns_model
+female,love,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+female,niece,neg/pos,not_certain,wikipedia_sgns_model
+female,aunt,neg/pos,not_certain,wikipedia_sgns_model
+female,heiress,neg/pos,not_certain,wikipedia_sgns_model
+female,socialite,neg/pos,not_certain,wikipedia_sgns_model
+female,molly,neg/pos,not_certain,wikipedia_sgns_model
+female,millionairess,neg/pos,not_certain,wikipedia_sgns_model
+female,housekeeper,neg/pos,not_certain,wikipedia_sgns_model
+female,diva,neg/pos,not_certain,wikipedia_sgns_model
+female,mademoiselle,neg/pos,not_certain,wikipedia_sgns_model
+female,nun,neg/pos,not_certain,wikipedia_sgns_model
+female,cinderella,neg/pos,not_certain,wikipedia_sgns_model
+female,lover,neg/pos,not_certain,wikipedia_sgns_model
+female,adventuress,neg/pos,not_certain,wikipedia_sgns_model
+female,governess,neg/pos,not_certain,wikipedia_sgns_model
+female,stepmother,neg/pos,not_certain,wikipedia_sgns_model
+female,stepsister,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+female,bride,neg/pos,not_certain,wikipedia_sgns_model
+female,grandmother,neg/pos,not_certain,wikipedia_sgns_model
+female,hostess,neg/pos,not_certain,wikipedia_sgns_model
+female,ogress,neg/pos,not_certain,wikipedia_sgns_model
+female,dancer,neg/pos,not_certain,wikipedia_sgns_model
+female,inanna,neg/pos,not_certain,wikipedia_sgns_model
+female,landlady,neg/pos,not_certain,wikipedia_sgns_model
+female,granddaughter,neg/pos,not_certain,wikipedia_sgns_model
+female,boyfriend,neg/pos,not_certain,wikipedia_sgns_model
+female,fanny,neg/pos,not_certain,wikipedia_sgns_model
+female,waitress,neg/pos,not_certain,wikipedia_sgns_model
+female,stepdaughter,neg/pos,not_certain,wikipedia_sgns_model
+female,suitor,neg/pos,not_certain,wikipedia_sgns_model
+female,fiance,neg/pos,not_certain,wikipedia_sgns_model
+female,heroine,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+female,husband,neg/pos,not_certain,wikipedia_sgns_model
+female,barmaid,neg/pos,not_certain,wikipedia_sgns_model
+female,housemaid,neg/pos,not_certain,wikipedia_sgns_model
+female,seductress,neg/pos,not_certain,wikipedia_sgns_model
+female,noblewoman,neg/pos,not_certain,wikipedia_sgns_model
+female,showgirl,neg/pos,not_certain,wikipedia_sgns_model
+female,godmother,neg/pos,not_certain,wikipedia_sgns_model

@@ -1,0 +1,3070 @@
+concept-lemma, candidate for properties
+forest, warm
+space, warm hot cold
+people, warm hot cold
+river, warm hot cold
+dragon, warm swim lay_eggs
+telephone, warm
+water, warm hot red green cold blue yellow black
+moon, warm hot cold
+ice, warm hot cold
+basement, warm hot cold
+winter, warm hot cold
+fun, warm
+tile, warm hot cold roll
+beer, warm hot red green cold blue yellow black
+pound, warm
+lemonade, warm hot cold sweet yellow
+sun, warm red green blue yellow black
+heat, warm
+head, warm
+cape, warm
+tea, warm hot cold
+dad, warm
+soup, warm hot hot cold sweet sweet round juicy dangerous used_in_cooking used_in_cooking
+vinyl, warm hot cold
+sword, warm dangerous made_of_wood
+fridge, warm hot cold
+coffee, warm hot red green cold sweet blue yellow black juicy
+surfboard, warm roll made_of_wood
+icicle, warm hot cold
+nose, warm hot cold cold
+toe, warm hot cold
+bed, warm made_of_wood
+comforter, warm
+helmet, warm
+feather, warm blue blue
+necklace, warm
+bodice, warm warm
+glove, warm warm dangerous
+wig, warm warm
+galosh, warm
+flannel, warm warm used_in_cooking
+woollen, warm
+epaulet, warm
+bootie, warm
+vest, warm warm
+cheesecloth, warm hot cold round
+brogue, warm
+chemise, warm
+cloak, warm warm red green blue yellow black
+cincture, warm
+bandana, warm
+collar, warm
+outerwear, warm
+jumpsuit, warm
+taffeta, warm
+pajama, warm
+chiffon, warm
+wool, warm
+footwear, warm
+undergarment, warm warm
+hairstyle, warm
+spandex, warm
+shoelace, warm
+leotard, warm warm
+miniskirt, warm
+deerskin, warm
+corset, warm
+shoulder, warm
+kimono, warm warm
+bathrobe, warm
+mortarboard, warm
+forelock, warm
+outfit, warm
+lace, warm
+suit, warm red green blue yellow black
+coverall, warm
+calfskin, warm
+salwar, warm
+headgear, warm
+towel, warm warm
+wearer, warm
+goggle, warm
+turban, warm
+sheepskin, warm
+anklet, warm
+garter, warm
+neckerchief, warm
+frock, warm
+poncho, warm
+coat, warm warm
+denim, warm
+cassock, warm
+parka, warm red green blue yellow black
+blanket, warm
+pyjama, warm
+skirt, warm warm female
+tunic, warm warm
+kerchief, warm
+breech, warm
+earmuff, warm
+turtleneck, warm
+overall, warm
+uniform, warm
+earring, warm
+nightgown, warm
+shalwar, warm
+greatcoat, warm
+headdress, warm
+jean, warm red green blue yellow black
+linen, warm
+cuff, warm
+strap, warm made_of_wood made_of_wood
+sock, warm warm
+loincloth, warm warm
+neckline, warm warm
+sealskin, warm
+necktie, warm
+bag, warm warm
+handkerchief, warm
+hat, warm warm
+undershirt, warm
+cummerbund, warm
+costume, warm
+grosgrain, warm
+waistband, warm
+pullover, warm
+waist, warm
+robe, warm warm
+pantie, warm
+tailcoat, warm
+waistcoat, warm warm
+lapel, warm
+surcoat, warm
+jacket, warm warm
+blouse, warm warm
+gown, warm warm red green blue yellow black
+topcoat, warm
+scarf, warm warm
+sunglass, warm
+leather, warm roll
+sandal, warm
+mitten, warm
+stocking, warm red green blue yellow black
+hair, warm red green cold blue yellow black
+sweater, warm warm
+sporran, warm made_of_wood
+attire, warm
+garment, warm warm
+tight, warm red green blue yellow black
+legging, warm
+sleeve, warm
+cloth, warm
+shawl, warm
+overcoat, warm
+shirt, warm warm
+slipper, warm
+underwear, warm
+dress, warm warm red green blue yellow black
+boot, warm red green cold blue yellow black
+clothing, warm red green blue yellow black
+shoe, warm cold round roll roll
+clothe, warm
+pant, warm
+trouser, warm
+jungle, hot cold
+summertime, hot cold
+bath, hot cold
+lightning, hot cold
+countertop, hot square cold
+puree, hot red green sweet round juicy used_in_cooking
+sawdust, hot cold
+meat, hot hot cold used_in_cooking used_in_cooking
+sorbet, hot cold sweet juicy
+brew, hot
+porridge, hot
+geyser, hot
+biscuit, hot square sweet sweet round round juicy
+fruitcake, hot
+coal, hot red green blue yellow black
+pastry, hot hot sweet sweet round round used_in_cooking
+firebox, hot roll
+pipe, hot roll made_of_wood
+furnace, hot hot
+campfire, hot
+recipe, hot
+ember, hot
+charcoal, hot
+utensil, hot
+vapor, hot
+pasta, hot round used_in_cooking
+grill, hot
+tamale, hot
+lava, hot cold
+fire, hot hot cold
+bulb, hot
+garlic, hot red green sweet yellow juicy used_in_cooking
+flowerpot, hot
+volcano, hot
+snack, hot hot sweet round used_in_cooking
+pomade, hot cold round
+pancake, hot round used_in_cooking
+syrup, hot red sweet sweet yellow round juicy
+cheese, hot red green sweet blue yellow round black juicy used_in_cooking
+yogurt, hot red sweet sweet
+skillet, hot
+laundry, hot square
+cookware, hot
+casserole, hot hot cold round round used_in_cooking used_in_cooking
+fondue, hot
+baguette, hot used_in_cooking
+cauldron, hot
+tub, hot hot
+cream, hot red cold sweet yellow round juicy used_in_cooking
+wok, hot
+kitchen, hot hot square square
+condiment, hot sweet round used_in_cooking used_in_cooking
+toast, hot
+soot, hot
+cupcake, hot
+juice, hot hot red cold sweet sweet yellow juicy
+freezer, hot cold
+glass, hot red green cold cold blue yellow black
+bean, hot red red green green sweet sweet blue blue yellow yellow round black black juicy juicy used_in_cooking used_in_cooking
+popcorn, hot round
+vegetable, hot red red green green sweet sweet blue yellow yellow round black juicy juicy used_in_cooking used_in_cooking
+spiciness, hot red cold sweet used_in_cooking
+firewood, hot
+toilet, hot square square cold cold
+pizza, hot round
+ingredient, hot
+sauna, hot
+chutney, hot red green sweet juicy used_in_cooking
+dish, hot hot used_in_cooking used_in_cooking female
+bathtub, hot cold
+custard, hot red cold sweet yellow round juicy
+tortilla, hot square cold round used_in_cooking
+sandwich, hot sweet juicy
+candy, hot red cold sweet sweet yellow round round
+kerosene, hot
+heater, hot hot
+roast, hot used_in_cooking
+dessert, hot red sweet sweet round juicy juicy used_in_cooking
+jug, hot
+jar, hot
+seasoning, hot sweet round used_in_cooking
+shower, hot square
+noodle, hot sweet used_in_cooking
+cooker, hot hot
+lamp, hot hot
+hearth, hot
+tray, hot square square round made_of_wood
+flatbread, hot used_in_cooking
+steam, hot cold
+pot, hot hot red green blue yellow black
+tandoor, hot
+can, hot cold round
+refrigerator, hot cold
+barbecue, hot
+enchiladas, hot cold sweet round used_in_cooking
+kiln, hot
+drink, hot cold
+marinade, hot sweet used_in_cooking used_in_cooking
+butter, hot red green cold sweet blue yellow round black juicy used_in_cooking
+chocolate, hot red cold sweet yellow round juicy
+pie, hot hot cold sweet sweet round juicy used_in_cooking used_in_cooking
+vaporizer, hot
+sauce, hot red green sweet sweet round juicy used_in_cooking used_in_cooking
+percolator, hot
+atole, hot cold sweet round used_in_cooking
+bottle, hot red green cold cold blue yellow round round black roll
+sundae, hot cold round used_in_cooking
+pudding, hot red sweet sweet round round juicy used_in_cooking
+heating, hot
+dough, hot round used_in_cooking
+burner, hot
+oven, hot hot red green cold blue yellow black used_in_cooking
+boiler, hot
+candle, hot hot cold
+vinaigrette, hot red green sweet round used_in_cooking
+griddle, hot
+mug, hot cold
+quesadilla, hot red green cold sweet yellow round used_in_cooking
+chimney, hot made_of_wood
+smoke, hot
+bread, hot sweet round juicy used_in_cooking
+stove, hot hot cold used_in_cooking
+fireplace, hot hot square square cold made_of_wood
+toaster, hot cold used_in_cooking
+cake, hot hot red cold cold sweet sweet round round juicy juicy used_in_cooking used_in_cooking
+kettle, hot cold
+flame, hot red green cold blue yellow black
+recorder, red green blue yellow black made_of_wood
+newspaper, red yellow black
+football, red green blue yellow round black
+crypt, red blue black
+tyre, red green blue yellow black roll roll
+human, red green blue yellow black swim lay_eggs fly female
+cricket, red green blue yellow black wings
+night, red green blue yellow black
+tank, red green blue yellow black fly dangerous wheels wings
+pyramid, red green blue yellow black
+bus, red green blue yellow black fly wheels wheels wings
+clarinet, red green blue yellow black made_of_wood
+cannon, red green blue yellow black dangerous made_of_wood
+pit, red green blue yellow black
+tar, red green blue yellow black
+kingfisher, red green blue yellow black swim lay_eggs fly wings
+panther, red green blue yellow black swim lay_eggs fly dangerous
+ring, red green blue yellow black
+jaguar, red green blue yellow black swim lay_eggs fly dangerous
+leopard, red red green green blue blue yellow yellow black black swim lay_eggs fly dangerous
+nightmare, red green blue yellow black
+taxi, red green blue yellow black fly wheels wings
+wand, red green blue yellow black made_of_wood
+miner, red green blue yellow black
+robin, red green blue yellow black swim lay_eggs fly wings
+hose, red green blue yellow black roll
+piano, red green blue yellow black made_of_wood
+sunbeam, red green blue yellow black
+fox, red green blue yellow black swim lay_eggs fly
+leafs, red green blue yellow black
+blackboard, red green blue yellow black
+heart, red green blue yellow black
+sky, red green blue yellow black fly
+lagoon, red green blue yellow black
+ambulance, red green blue yellow black fly wheels wings
+tire, red green blue yellow black roll roll wheels
+diamond, red green blue yellow black
+moss, red green blue yellow black
+raven, red green blue yellow black swim lay_eggs fly wings
+dolphin, red green blue yellow black swim swim lay_eggs fly
+calf, red green blue yellow black
+eye, red red green green blue blue yellow yellow black black
+starling, red green blue yellow black swim lay_eggs fly wings
+iceberg, red green cold sweet blue yellow black juicy
+lark, red green blue yellow black swim lay_eggs fly wings
+sandpaper, red green blue yellow black
+tiger, red green blue yellow black swim lay_eggs fly dangerous
+bra, red green blue yellow black
+hornet, red green blue yellow black fly dangerous wings
+chameleon, red green blue blue yellow black swim lay_eggs
+car, red red green green blue blue yellow yellow black black roll fly wheels wheels wings
+cheetah, red green blue yellow black swim lay_eggs fly dangerous
+rhino, red green blue yellow black swim lay_eggs fly dangerous
+gorilla, red green blue yellow black swim lay_eggs fly dangerous
+jeep, red red green green blue blue yellow yellow black black fly wheels wheels wings
+scorpion, red green blue yellow black dangerous
+couch, red green blue yellow black
+giraffe, red green blue yellow black swim lay_eggs fly dangerous female
+wasp, red green blue yellow black fly wings
+crow, red green blue yellow black swim lay_eggs fly wings
+lion, red green blue yellow black swim lay_eggs fly dangerous dangerous
+lawn, red green blue yellow black
+peacock, red green blue blue yellow black swim lay_eggs fly female wings
+limousine, red green blue yellow black fly wheels wings
+bear, red green blue yellow black swim lay_eggs fly
+bloodstone, red green blue yellow black
+pelican, red green blue yellow black swim lay_eggs fly wings
+cat, red green blue yellow black black swim lay_eggs fly female wheels wings
+lantern, red green blue yellow black
+buzzard, red green blue yellow black swim lay_eggs fly wings
+emerald, red green blue yellow black
+sand, red green blue yellow black
+thundercloud, red green blue yellow black
+ink, red green blue yellow black
+bat, red green blue yellow black swim lay_eggs fly wings
+tongue, red green blue yellow black
+crocodile, red green blue yellow black swim lay_eggs dangerous
+sapphire, red green blue yellow black
+umbrella, red green blue yellow black
+daisy, red red green green blue blue yellow yellow black black
+jade, red green blue yellow black swim lay_eggs fly
+blackbird, red green blue yellow black swim lay_eggs fly wings
+magpie, red green blue yellow black swim lay_eggs fly wings
+whale, red green blue blue yellow black swim swim lay_eggs fly found_in_seas found_in_seas
+barn, red green blue yellow black
+fir, red green blue yellow black made_of_wood
+brick, red green blue yellow black roll
+budgie, red green blue yellow black swim lay_eggs fly wings
+zebra, red green blue yellow black swim lay_eggs fly dangerous
+penguin, red green blue yellow black swim lay_eggs fly wings
+pansy, red green blue yellow black
+tarantula, red green blue yellow black
+iguana, red green blue blue yellow black swim lay_eggs
+slug, red green blue yellow black dangerous
+spider, red green blue yellow black
+millipede, red green blue yellow black
+elm, red green blue yellow black made_of_wood
+locust, red green blue yellow black swim fly wings
+cockroach, red green blue yellow black wings
+grasshopper, red green blue yellow black used_in_cooking wings
+balloon, red green cold blue yellow round black fly
+alligator, red green blue yellow black swim lay_eggs dangerous
+tortoise, red green blue yellow black swim lay_eggs dangerous
+herring, red green blue yellow black swim lay_eggs fly
+turtle, red green blue blue yellow black swim lay_eggs dangerous
+housefly, red green blue yellow black fly wings
+raccoon, red green blue yellow black swim lay_eggs fly
+ant, red green blue yellow black wings
+caterpillar, red green blue yellow black
+toad, red green blue yellow black swim dangerous
+lizard, red green blue blue yellow black black swim lay_eggs
+rooster, red green blue yellow black swim lay_eggs fly wings
+frog, red red green green blue blue yellow yellow black black swim swim lay_eggs
+parakeet, red green blue yellow black swim lay_eggs fly wings
+flea, red green blue yellow black lay_eggs wings
+dog, red green blue yellow black swim lay_eggs fly
+daffodil, red green blue yellow black
+willow, red green blue yellow black made_of_wood
+lip, red green cold blue yellow black
+corncob, red green blue yellow black
+insect, red green blue yellow black black wings
+lipstick, red green blue yellow black
+weed, red green blue yellow black
+sycamore, red green blue yellow black made_of_wood
+champagne, red green blue yellow black
+sheep, red green blue yellow black swim lay_eggs fly
+ladybird, red green blue yellow black fly wings
+marigold, red green blue yellow black
+gherkin, red green sweet blue yellow black juicy
+beetle, red green blue yellow black black fly dangerous used_in_cooking wings
+lime, red red green green sweet blue blue yellow yellow black black juicy used_in_cooking
+ruby, red green blue yellow black
+carnation, red green blue yellow black
+mussel, red green sweet blue yellow black juicy found_in_seas found_in_seas used_in_cooking
+cow, red green blue yellow black swim swim lay_eggs lay_eggs fly fly
+bee, red green blue yellow black fly dangerous wings
+jam, red green sweet blue yellow black
+skunk, red green blue yellow black swim lay_eggs fly
+squirrel, red green blue yellow black swim lay_eggs fly found_in_seas
+buttercup, red green blue yellow black
+yolk, red green blue yellow black
+violet, red green blue blue yellow black
+goldfish, red green blue yellow black swim lay_eggs fly
+pine, red green blue yellow black made_of_wood
+peony, red green blue yellow black
+fern, red green blue yellow black
+raisin, red red green sweet sweet blue yellow black juicy juicy
+eucalyptus, red green blue yellow black
+berry, red red green green cold sweet sweet blue yellow yellow round black juicy juicy
+rice, red green sweet blue yellow black juicy used_in_cooking
+aubergine, red green sweet blue yellow black juicy used_in_cooking
+orchid, red green blue yellow black
+seaweed, red green blue yellow black
+saffron, red green blue yellow black
+sunflower, red red green green blue blue yellow yellow black black
+egg, red square green blue yellow round round black
+dandelion, red green blue yellow black
+lobster, red green sweet blue yellow black juicy found_in_seas used_in_cooking
+broccoli, red green sweet blue yellow black juicy used_in_cooking
+geranium, red green blue yellow black
+truffle, red green sweet blue yellow black juicy
+wine, red red green green sweet sweet blue blue yellow yellow black black juicy
+olive, red red green sweet blue yellow black juicy juicy
+cider, red green sweet blue yellow black
+clover, red green blue yellow black
+flower, red red green green blue blue yellow yellow black black
+crab, red green sweet blue blue yellow black juicy swim found_in_seas found_in_seas wings
+artichoke, red red green green sweet blue blue yellow yellow black black juicy used_in_cooking
+pomegranate, red red green green sweet blue blue yellow yellow black black juicy
+avocado, red red green sweet blue yellow black juicy juicy
+pear, red red green green sweet blue blue yellow yellow black black juicy juicy
+peach, red red green sweet sweet blue yellow yellow black juicy juicy female
+cherry, red red green green sweet sweet blue yellow yellow round black juicy juicy
+currant, red red green sweet sweet blue yellow black juicy juicy
+corn, red green sweet blue yellow black juicy used_in_cooking
+pea, red green sweet sweet blue yellow black juicy used_in_cooking
+beet, red red green green sweet blue blue yellow yellow round black black juicy juicy
+mango, red red green sweet sweet blue yellow yellow black juicy juicy
+spice, red
+chicken, red green sweet round swim lay_eggs fly used_in_cooking wings
+lentil, red sweet juicy used_in_cooking
+lavandula, red green yellow
+wheat, red
+papaya, red sweet yellow juicy juicy
+nectarine, red green sweet blue yellow black juicy
+photinia, red green yellow
+vine, red juicy
+mushroom, red green sweet juicy used_in_cooking
+coriander, red
+loquat, red sweet yellow juicy
+pistachio, red red sweet sweet yellow juicy
+actinidia, red green yellow juicy
+lemon, red red green sweet sweet blue yellow black juicy juicy
+mangifera, red green yellow juicy
+mayonnaise, red sweet round juicy used_in_cooking
+cowpeas, red green yellow
+apricot, red red green sweet sweet blue yellow yellow black juicy juicy
+pignut, red green
+eggplant, red red green sweet juicy used_in_cooking
+vanilla, red sweet yellow juicy
+huckleberry, red green sweet yellow juicy juicy
+pigweed, red green sweet yellow juicy used_in_cooking
+mamey, red green sweet yellow juicy
+drupe, red sweet yellow juicy
+shallot, red red green green sweet sweet juicy juicy used_in_cooking
+ageratina, red green yellow juicy
+lewisia, red green yellow
+chili, red sweet juicy
+dogwood, red green cold blue yellow juicy
+sausage, red sweet round fly used_in_cooking used_in_cooking
+peanut, red red green sweet sweet yellow yellow round round juicy juicy used_in_cooking
+sauteed, red green sweet used_in_cooking
+blueberry, red red green green sweet blue yellow round black juicy juicy
+pecan, red green sweet sweet yellow round juicy juicy
+rhagoletis, red green yellow black juicy
+citrus, red green sweet yellow juicy
+bulgur, red green sweet round used_in_cooking
+cereal, red sweet yellow
+blackberry, red green sweet juicy juicy
+coconut, red green sweet yellow round juicy juicy used_in_cooking
+pepper, red red green green sweet blue blue yellow yellow black black juicy
+colocasia, red green yellow juicy used_in_cooking
+salad, red green sweet sweet blue yellow round black juicy used_in_cooking used_in_cooking
+balsamic, red sweet
+ginger, red sweet yellow juicy
+beetroot, red green sweet blue yellow black juicy
+herb, red green yellow
+tomato, red red green green sweet blue blue yellow yellow round black black juicy used_in_cooking
+gooseberry, red sweet yellow juicy juicy
+ketchup, red green sweet blue yellow round black used_in_cooking
+shiitake, red green sweet yellow juicy used_in_cooking
+dogbane, red green yellow black
+lemongrass, red yellow juicy used_in_cooking
+melon, red red green green sweet sweet blue yellow yellow black juicy juicy
+allspice, red green sweet yellow juicy used_in_cooking
+grapefruit, red green sweet blue yellow black juicy
+turmeric, red juicy
+cilantro, red green sweet juicy used_in_cooking
+echinocereus, red green yellow black juicy
+hazelnut, red sweet sweet juicy juicy
+cinnamon, red sweet juicy
+apple, red red square green green sweet sweet blue blue yellow yellow round round black black juicy
+leucaena, red green yellow juicy used_in_cooking
+carrot, red red green green sweet sweet yellow yellow juicy juicy used_in_cooking used_in_cooking
+guava, red green sweet yellow juicy
+maraschino, red sweet juicy
+banana, red red green green sweet sweet blue blue yellow yellow round black black juicy juicy
+mentzelia, red green blue yellow round black juicy
+spinach, red green sweet blue yellow black juicy used_in_cooking
+mustard, red green sweet blue yellow black juicy used_in_cooking
+cucurbit, red green yellow round juicy used_in_cooking
+celery, red green sweet blue yellow black juicy used_in_cooking
+raspberry, red red green sweet sweet blue yellow yellow black juicy juicy
+plum, red green sweet yellow juicy
+galangal, red green sweet yellow juicy used_in_cooking
+oregano, red green juicy used_in_cooking
+sapodilla, red green sweet yellow round juicy used_in_cooking
+orange, red square sweet yellow round juicy
+lingonberry, red sweet juicy
+rhubarb, red green sweet blue yellow black juicy used_in_cooking
+watermelon, red green sweet blue yellow round black juicy
+lettuce, red green sweet blue yellow black juicy used_in_cooking
+pumpkin, red green sweet yellow round juicy used_in_cooking
+fenugreek, red green sweet juicy
+asparagus, red green sweet blue yellow black juicy used_in_cooking
+pineapple, red green sweet blue yellow round black juicy juicy used_in_cooking
+radish, red green sweet blue yellow black juicy used_in_cooking
+almond, red green sweet sweet yellow round juicy juicy used_in_cooking
+soursop, red green sweet yellow round juicy used_in_cooking
+walnut, red green sweet sweet yellow juicy juicy
+honey, red sweet yellow black juicy
+cucumber, red green green sweet blue yellow black juicy used_in_cooking
+strawberry, red red green green sweet sweet blue yellow yellow black juicy juicy
+fruit, red red green green sweet sweet yellow yellow round round juicy juicy
+onion, red red green green sweet sweet blue blue yellow yellow round black black juicy juicy used_in_cooking used_in_cooking
+chive, red green sweet yellow round juicy used_in_cooking
+cabbage, red green sweet blue yellow round black juicy used_in_cooking
+potato, red red green green sweet sweet yellow yellow round round juicy juicy used_in_cooking used_in_cooking
+grape, red red green green sweet sweet blue blue yellow yellow black black juicy juicy dangerous
+frisbee, square square round round fly
+cantaloupe, square sweet round juicy
+barrel, square round roll roll made_of_wood
+bracelet, square round
+marble, square square round round roll roll
+button, square round made_of_wood
+sphere, square round
+ball, square square round round roll roll dangerous
+cds, square round
+ashtray, square round
+bucket, square square cold round round roll roll dangerous made_of_wood
+planet, square round
+table, square round made_of_wood
+tart, square round
+floor, square square
+tetrad, square
+door, square
+playroom, square
+parlor, square
+wallpaper, square
+cottage, square
+maisonette, square
+pantry, square
+stair, square square
+bracteole, square
+calliper, square roll
+wheel, square round roll roll fly wheels wheels wings made_of_wood made_of_wood
+disc, square square round round
+workstation, square
+hallway, square square
+hexagon, square
+rectangle, square
+porch, square
+stiffener, square
+woofer, square
+server, square
+pew, square
+octahedron, square
+polyhedron, square
+balcony, square
+refectory, square
+idempotent, square
+closet, square square
+cylinder, square roll roll
+atrium, square
+integer, square
+cubicle, square square
+courtyard, square
+vertex, square
+floppy, square
+pentagram, square
+pixel, square
+polygon, square
+outhouse, square
+suite, square
+gimbal, square
+doorknob, square made_of_wood
+shelf, square cold
+peg, square made_of_wood made_of_wood
+classroom, square
+isometry, square
+dodecahedron, square
+bookshelf, square
+attic, square
+restroom, square
+lounge, square
+partition, square
+window, square made_of_wood
+chamfer, square roll made_of_wood
+foyer, square
+footrest, square roll roll wheels made_of_wood made_of_wood
+fanlight, square made_of_wood
+row, square
+rack, square
+stairwell, square
+clapboard, square made_of_wood
+ceiling, square
+lavatory, square
+apartment, square
+simplex, square
+drawer, square
+triangle, square
+gameboard, square
+cabin, square
+kitchenette, square
+diskette, square
+workroom, square
+rhombi, square
+billiard, square
+cupboard, square made_of_wood
+subdirectory, square
+locker, square
+box, square round made_of_wood
+bathroom, square square cold
+dining, square
+room, square square round
+disk, square square round round
+cube, square square round round
+bedroom, square square round
+dresser, square round made_of_wood
+toadflax, green yellow
+sterculia, green yellow
+helenium, green yellow
+crassula, green yellow black
+schefflera, green
+hibbertia, green
+antennaria, green yellow
+trifoliata, green
+plantain, green green sweet yellow juicy
+elaeocarpus, green
+shrub, green
+shrimp, green sweet juicy swim found_in_seas found_in_seas
+phaseolus, green
+platanthera, green yellow
+teucrium, green yellow
+myriophyllum, green
+tanacetum, green yellow
+lolium, green
+maize, green juicy
+ebenaceae, green
+gaultheria, green
+cassava, green sweet juicy
+umbellifer, green yellow
+serviceberry, green sweet yellow juicy
+manilkara, green
+palaquium, green yellow
+milkwort, green yellow
+combretum, green black
+soapberry, green yellow juicy
+rink, cold
+pad, cold
+aerator, cold made_of_wood
+snowdrift, cold
+mantrap, cold female
+teliospore, cold
+joint, cold
+axil, cold
+snowfield, cold
+kipper, cold
+freshener, cold
+cellar, cold
+roof, cold made_of_wood
+styrofoam, cold
+cirrocumulus, cold
+whiskey, cold
+spray, cold
+slime, cold
+smoothie, cold
+permafrost, cold
+pavement, cold roll
+forepaw, cold black made_of_wood
+beverage, cold
+sniffle, cold
+milk, cold sweet
+leg, cold
+manhole, cold
+grate, cold
+vodka, cold
+iliamna, cold
+tummy, cold
+lolly, cold
+mouth, cold
+doll, cold female
+foot, cold
+pillow, cold
+boulder, cold
+rathskeller, cold
+growler, cold
+soda, cold
+curd, cold round
+popsicle, cold cold round
+udder, cold
+rock, cold made_of_wood
+areolate, cold blue
+bentwood, cold
+forefoot, cold
+finger, cold
+foam, cold
+snow, cold
+emperor, sweet wings
+edda, sweet
+marang, sweet juicy
+pulse, sweet juicy
+mast, sweet juicy
+date, sweet sweet juicy made_of_wood
+kail, sweet juicy
+windfall, sweet juicy
+mangold, sweet juicy
+capitulum, sweet juicy
+pip, sweet juicy
+saskatoon, sweet juicy
+chile, sweet juicy
+pyrene, sweet juicy
+jack, sweet juicy swim lay_eggs fly dangerous
+hip, sweet juicy
+spike, sweet juicy
+swede, sweet juicy
+anjou, sweet juicy
+blackheart, sweet juicy
+freestone, sweet juicy
+bacca, sweet juicy
+pyxis, sweet juicy
+clementine, sweet juicy
+flageolet, sweet juicy
+green, sweet juicy
+buckeye, sweet juicy
+kernel, sweet juicy
+barleycorn, sweet juicy
+marrow, sweet juicy
+peeler, sweet dangerous
+spud, sweet juicy dangerous used_in_cooking
+pod, sweet juicy
+filbert, sweet juicy
+muscat, sweet juicy
+goober, sweet juicy
+ham, sweet juicy used_in_cooking
+veg, sweet juicy
+morello, sweet juicy
+sultana, sweet juicy
+kale, sweet juicy
+cob, sweet juicy swim lay_eggs fly wings
+cayenne, sweet juicy
+chard, sweet juicy
+conker, sweet juicy
+tabasco, sweet juicy
+dewberry, sweet juicy
+chinquapin, sweet juicy
+grain, sweet juicy
+citron, sweet juicy
+hackberry, sweet juicy
+seed, sweet juicy
+satsuma, sweet juicy
+pome, sweet juicy
+scallop, sweet juicy found_in_seas used_in_cooking
+cress, sweet juicy
+cocoanut, sweet juicy
+mandarin, sweet juicy
+wintergreen, sweet juicy
+parsnip, sweet juicy
+sardine, sweet juicy swim lay_eggs fly
+ananas, sweet juicy
+chip, sweet juicy
+acorn, sweet juicy
+sorrel, sweet juicy swim lay_eggs fly
+kiwi, sweet juicy swim lay_eggs fly wings
+yam, sweet juicy
+amaranth, sweet juicy
+squash, sweet juicy
+chipotle, sweet juicy
+oyster, sweet juicy
+oilseed, sweet juicy
+legume, sweet juicy
+tamarindo, sweet juicy
+calabash, sweet juicy
+crabapple, sweet juicy
+watercress, sweet juicy
+cottonseed, sweet juicy
+fig, sweet juicy
+linseed, sweet juicy
+soya, sweet juicy
+rapeseed, sweet juicy
+gumbo, sweet juicy
+taro, sweet juicy
+bacon, sweet juicy used_in_cooking
+flaxseed, sweet juicy
+achene, sweet juicy
+medlar, sweet juicy
+rye, sweet juicy
+groundnut, sweet juicy
+honeydew, sweet juicy
+gourd, sweet round juicy
+durian, sweet juicy
+cumin, sweet juicy
+damson, sweet juicy
+veggie, sweet juicy
+fry, sweet juicy
+rutabaga, sweet juicy
+bilberry, sweet juicy
+mulberry, sweet juicy
+cauliflower, sweet juicy used_in_cooking
+butternut, sweet juicy
+tater, sweet juicy
+tangerine, sweet juicy juicy
+turnip, sweet juicy used_in_cooking
+fennel, sweet juicy
+quince, sweet juicy
+elderberry, sweet juicy
+breadfruit, sweet juicy
+rambutan, sweet juicy
+jujube, sweet juicy
+pomelo, sweet juicy
+scallion, sweet juicy
+kumquat, sweet juicy
+zucchini, sweet juicy
+doughnut, sweet round round juicy
+chicory, sweet juicy
+tamarind, sweet juicy
+persimmon, sweet juicy juicy
+soy, sweet juicy
+cashew, sweet juicy
+donut, sweet round juicy
+okra, sweet juicy
+chickpea, sweet juicy used_in_cooking
+litchi, sweet juicy
+soybean, sweet juicy
+yoghurt, sweet juicy
+mangosteen, sweet juicy
+cranberry, sweet juicy
+nut, sweet round juicy roll
+chilli, sweet juicy
+lychee, sweet juicy
+pimento, sweet juicy used_in_cooking
+jackfruit, sweet yellow juicy
+pawpaw, sweet yellow juicy
+liquorice, sweet
+carob, sweet juicy
+flavoring, sweet
+beef, sweet swim lay_eggs fly used_in_cooking
+scone, sweet round
+cornmeal, sweet round used_in_cooking
+aperitif, sweet
+aniseed, sweet
+sauerkraut, sweet
+vinegar, sweet used_in_cooking
+pepperoni, sweet round used_in_cooking
+tofu, sweet used_in_cooking
+flavour, sweet
+fritter, sweet round used_in_cooking
+sweet, sweet
+liqueur, sweet
+cookie, sweet round juicy
+flavor, sweet sweet juicy
+caramel, sweet
+pork, sweet juicy used_in_cooking
+sugar, sweet juicy
+world, blue round swim lay_eggs
+chickadee, blue
+spoonbill, blue swim lay_eggs fly wings
+monkey, blue blue black swim lay_eggs fly dangerous
+procellariidae, blue lay_eggs fly wings
+scoter, blue swim lay_eggs fly wings
+hummingbird, blue blue swim lay_eggs fly wings
+cuckoo, blue swim lay_eggs fly wings
+ostrich, blue swim lay_eggs fly wings
+swiftlet, blue swim lay_eggs fly wings
+snailfish, blue swim lay_eggs fly found_in_seas
+potoroo, blue swim lay_eggs fly
+frogfish, blue swim lay_eggs fly
+lorikeet, blue blue swim lay_eggs fly wings
+yellowthroat, blue swim lay_eggs fly wings
+scorpionfish, blue swim lay_eggs fly found_in_seas
+bowerbird, blue swim lay_eggs fly wings
+flamingo, blue blue swim lay_eggs fly wings
+grebe, blue swim lay_eggs fly wings
+parrotfish, blue swim lay_eggs fly
+haliaeetus, blue lay_eggs fly wings
+wagtail, blue swim lay_eggs fly wings
+pipefish, blue blue black swim swim lay_eggs lay_eggs fly found_in_seas found_in_seas
+cormorant, blue swim lay_eggs fly wings
+thornbill, blue black swim lay_eggs fly wings
+parrot, blue blue black swim lay_eggs fly wings
+owl, blue black swim lay_eggs lay_eggs fly found_in_seas wings
+bushbaby, blue swim lay_eggs fly
+merganser, blue swim lay_eggs lay_eggs fly fly found_in_seas wings wings
+fish, blue swim swim lay_eggs fly found_in_seas found_in_seas
+anhinga, blue swim lay_eggs fly wings
+coucal, blue swim lay_eggs fly wings
+seedpod, blue yellow round
+quail, blue swim lay_eggs fly wings
+crossbill, blue swim lay_eggs fly wings
+charadrius, blue black lay_eggs fly wings
+shark, blue swim lay_eggs fly dangerous found_in_seas
+plumage, blue
+dove, blue
+trogon, blue swim lay_eggs lay_eggs fly fly wings wings
+sapsucker, blue black swim lay_eggs fly wings
+nuthatch, blue swim lay_eggs fly fly wings
+turaco, blue swim lay_eggs fly wings
+grackle, blue swim lay_eggs lay_eggs fly fly wings wings
+immature, blue
+bluebird, blue swim lay_eggs fly wings
+gorgonian, blue swim found_in_seas
+snake, blue blue black black swim lay_eggs dangerous
+pratincole, blue swim lay_eggs fly wings
+avocet, blue swim lay_eggs lay_eggs fly fly wings
+beak, blue
+tropicbird, blue lay_eggs fly wings
+pleuronectidae, blue swim lay_eggs found_in_seas
+frogmouth, blue black swim lay_eggs fly wings
+grosbeak, blue swim lay_eggs fly fly wings wings
+toucanet, blue black swim lay_eggs fly wings
+currawong, blue black swim lay_eggs lay_eggs fly fly wings wings
+scaup, blue swim lay_eggs fly wings
+bird, blue blue black swim lay_eggs lay_eggs fly fly found_in_seas female wings wings
+cactus, yellow
+adansonia, yellow
+cultivar, yellow juicy juicy
+liatris, yellow
+meconopsis, yellow
+barley, yellow
+blossom, yellow juicy juicy
+plumeria, yellow
+gentianella, yellow
+baton, round
+globe, round
+circle, round round
+basketball, round
+banjo, round made_of_wood
+baseball, round
+bowl, round
+croquette, round used_in_cooking
+cutlet, round used_in_cooking used_in_cooking
+acaridae, round black lay_eggs dangerous used_in_cooking
+quoit, round roll
+marzipan, round
+shape, round
+matzah, round
+pilaf, round
+corkscrew, round roll dangerous used_in_cooking made_of_wood
+hubcap, round roll
+marshmallow, round
+creamer, round
+nutlet, round
+omelette, round used_in_cooking
+indehiscent, round
+fondant, round
+patty, round used_in_cooking
+samosa, round
+cheeseburger, round
+mozzarella, round
+breadcrumb, round used_in_cooking
+coleslaw, round
+plunger, round roll roll dangerous used_in_cooking made_of_wood made_of_wood
+opossum, black swim lay_eggs fly
+paridae, black lay_eggs fly wings
+coatis, black
+rabbit, black black swim lay_eggs fly dangerous
+woodpecker, black swim lay_eggs fly wings
+civet, black swim lay_eggs fly
+weasel, black swim lay_eggs fly
+viscacha, black swim lay_eggs fly
+pig, black swim roll lay_eggs fly
+longan, juicy
+psidium, juicy
+cucurbita, juicy
+sugarcane, juicy
+prunus, juicy
+grade, swim lay_eggs
+poll, swim lay_eggs fly wings
+humankind, swim lay_eggs
+poster, swim lay_eggs
+pacesetter, swim lay_eggs
+mankind, swim lay_eggs fly
+humanity, swim lay_eggs
+pollard, swim lay_eggs fly
+bellwether, swim lay_eggs fly
+permit, swim lay_eggs
+watchdog, swim lay_eggs fly
+hack, swim lay_eggs fly dangerous wheels wings
+frier, swim lay_eggs fly
+cur, swim lay_eggs fly
+daw, swim lay_eggs fly wings
+cochin, swim lay_eggs fly wings
+mouser, swim lay_eggs fly
+dobbin, swim lay_eggs
+pen, swim lay_eggs fly wings
+hackney, swim lay_eggs fly wheels wings
+gib, swim lay_eggs
+jaeger, swim lay_eggs fly wings
+queen, swim lay_eggs fly female wings
+sweeper, swim lay_eggs
+shire, swim lay_eggs fly
+runner, swim lay_eggs fly dangerous
+urus, swim lay_eggs fly
+stablemate, swim lay_eggs fly
+mutt, swim lay_eggs fly
+nanny, swim lay_eggs fly female
+pointer, swim lay_eggs fly
+snowbird, swim lay_eggs fly wings
+ram, swim lay_eggs fly dangerous
+reeve, swim lay_eggs fly wings
+stint, swim lay_eggs fly wings
+palfrey, swim lay_eggs fly
+turtledove, swim lay_eggs fly wings
+bullock, swim lay_eggs fly
+workhorse, swim lay_eggs fly
+man, swim lay_eggs fly
+schoolmaster, swim lay_eggs fly
+basset, swim lay_eggs fly
+oxen, swim lay_eggs fly
+marabout, swim lay_eggs fly wings
+painter, swim lay_eggs fly
+ass, swim lay_eggs fly
+rail, swim roll lay_eggs fly wings made_of_wood
+sitter, swim lay_eggs fly wings
+turkey, swim lay_eggs fly wings
+kaki, swim lay_eggs fly wings
+mollie, swim lay_eggs fly
+catamount, swim lay_eggs fly
+tumbler, swim lay_eggs fly wings
+bronco, swim lay_eggs fly
+tatu, swim lay_eggs fly
+moorcock, swim lay_eggs fly wings
+donkey, swim lay_eggs fly
+pasang, swim lay_eggs fly
+blower, swim lay_eggs fly
+stud, swim lay_eggs fly
+boxer, swim lay_eggs fly
+pooch, swim lay_eggs fly
+pacemaker, swim lay_eggs fly
+steed, swim lay_eggs fly
+hanuman, swim lay_eggs fly
+cairn, swim lay_eggs fly
+knot, swim lay_eggs fly wings
+fitch, swim lay_eggs fly
+merle, swim lay_eggs fly wings
+prancer, swim lay_eggs fly
+wheeler, swim lay_eggs fly wheels
+gnu, swim lay_eggs fly
+pacer, swim lay_eggs fly
+chimp, swim lay_eggs fly
+setter, swim lay_eggs fly
+wolfhound, swim lay_eggs fly
+loir, swim lay_eggs fly
+roller, swim roll lay_eggs fly wings
+stock, swim lay_eggs fly made_of_wood
+kob, swim lay_eggs fly
+varan, swim lay_eggs
+phoebe, swim lay_eggs fly wings
+merino, swim lay_eggs fly
+whistler, swim lay_eggs fly wings
+cockerel, swim lay_eggs fly female wings
+bruin, swim lay_eggs fly
+yak, swim lay_eggs fly
+jennet, swim lay_eggs fly
+moloch, swim lay_eggs
+lioness, swim lay_eggs fly
+mudder, swim lay_eggs fly
+pekan, swim lay_eggs fly
+whiff, swim lay_eggs fly
+gamecock, swim lay_eggs fly wings
+drill, swim lay_eggs fly dangerous used_in_cooking
+barker, swim lay_eggs fly
+redbird, swim lay_eggs fly wings
+cayuse, swim lay_eggs fly
+kitty, swim lay_eggs fly
+fryer, swim lay_eggs fly
+gander, swim lay_eggs fly wings
+weaver, swim lay_eggs fly wings
+screamer, swim lay_eggs fly wings
+chow, swim lay_eggs fly
+bitch, swim lay_eggs fly
+layer, swim lay_eggs fly wings
+mademoiselle, swim lay_eggs fly female
+ermine, swim lay_eggs fly
+scooter, swim lay_eggs fly wheels wheels wings
+pussy, swim lay_eggs fly
+stirk, swim lay_eggs fly
+topi, swim lay_eggs fly
+firebird, swim lay_eggs fly wings
+roaster, swim lay_eggs fly
+monitor, swim lay_eggs
+palomino, swim lay_eggs fly
+charger, swim lay_eggs fly
+grindle, swim lay_eggs fly
+nightingale, swim lay_eggs fly wings
+toy, swim lay_eggs fly
+horsehead, swim lay_eggs fly
+rhea, swim lay_eggs fly wings
+mustang, swim lay_eggs fly
+broncho, swim lay_eggs fly
+liger, swim lay_eggs fly dangerous
+tusker, swim lay_eggs fly
+emu, swim lay_eggs fly wings
+ridley, swim lay_eggs
+caracal, swim lay_eggs fly
+mavis, swim lay_eggs fly wings
+hobby, swim lay_eggs fly wings
+heifer, swim lay_eggs fly
+cony, swim lay_eggs fly
+cimarron, swim lay_eggs fly
+puss, swim lay_eggs fly
+nutcracker, swim lay_eggs fly wings
+pinscher, swim lay_eggs fly
+brant, swim lay_eggs fly wings
+springer, swim lay_eggs fly
+capuchin, swim lay_eggs fly
+flicker, swim lay_eggs fly wings
+kid, swim lay_eggs fly
+swine, swim lay_eggs fly
+llama, swim lay_eggs fly
+sheepdog, swim lay_eggs fly
+caribe, swim lay_eggs fly
+dachshund, swim lay_eggs fly
+coon, swim lay_eggs fly
+livestock, swim lay_eggs fly
+griffon, swim lay_eggs fly wings
+cock, swim lay_eggs fly wings
+hen, swim lay_eggs fly wings
+falcon, swim lay_eggs fly wings
+rhesus, swim lay_eggs fly
+buck, swim lay_eggs fly
+pony, swim lay_eggs fly
+roebuck, swim lay_eggs fly
+bronc, swim lay_eggs fly
+trotter, swim lay_eggs fly
+fisher, swim lay_eggs fly
+stepper, swim lay_eggs fly
+tomcat, swim lay_eggs fly
+warhorse, swim lay_eggs fly
+poodle, swim lay_eggs fly
+horse, swim lay_eggs fly
+ratel, swim lay_eggs fly
+cattle, swim lay_eggs fly
+bloodhound, swim lay_eggs fly
+buffalo, swim lay_eggs fly
+broodmare, swim lay_eggs fly
+kea, swim lay_eggs fly wings
+margate, swim lay_eggs fly
+pussycat, swim lay_eggs fly
+camel, swim lay_eggs fly dangerous
+equine, swim lay_eggs fly
+ounce, swim lay_eggs fly
+parr, swim lay_eggs fly
+saki, swim lay_eggs fly
+genet, swim lay_eggs fly
+bongo, swim lay_eggs fly
+groundhog, swim lay_eggs fly
+redhead, swim lay_eggs fly wings
+steeplechaser, swim lay_eggs fly
+cayman, swim lay_eggs
+willet, swim lay_eggs fly wings
+tarpan, swim lay_eggs fly
+foxhound, swim lay_eggs fly
+dalmatian, swim lay_eggs fly
+peewee, swim lay_eggs fly wings
+glutton, swim lay_eggs fly
+taira, swim lay_eggs
+sleeper, swim lay_eggs fly wheels wings
+cobra, swim lay_eggs
+bunny, swim lay_eggs fly
+bull, swim lay_eggs fly female
+packhorse, swim lay_eggs fly wheels
+greyhound, swim lay_eggs fly
+chinchilla, swim lay_eggs fly
+stallion, swim lay_eggs fly
+stag, swim lay_eggs fly
+sheldrake, swim lay_eggs fly wings
+titi, swim lay_eggs fly
+gator, swim lay_eggs
+pollack, swim lay_eggs fly
+springbok, swim lay_eggs fly
+dipper, swim lay_eggs fly wings
+seal, swim lay_eggs fly
+silverback, swim lay_eggs fly dangerous
+roadrunner, swim lay_eggs fly wings
+snowflake, swim lay_eggs fly wings
+burro, swim lay_eggs fly
+hippo, swim lay_eggs fly dangerous
+collie, swim lay_eggs fly
+oryx, swim lay_eggs fly
+corgi, swim lay_eggs fly
+orangutan, swim lay_eggs fly
+yearling, swim lay_eggs fly
+roan, swim lay_eggs fly
+beagle, swim lay_eggs fly
+skylark, swim lay_eggs fly wings
+condor, swim lay_eggs fly wings
+meadowlark, swim lay_eggs fly wings
+cygnet, swim lay_eggs fly wings
+woodcock, swim lay_eggs fly wings
+hominid, swim lay_eggs fly
+gaur, swim lay_eggs fly
+wombat, swim lay_eggs fly
+hind, swim lay_eggs fly
+redwing, swim lay_eggs fly wings
+chick, swim lay_eggs fly female wings
+puppy, swim lay_eggs fly
+redbone, swim lay_eggs fly
+whippet, swim lay_eggs fly
+canary, swim lay_eggs fly wings
+ape, swim lay_eggs fly
+molly, swim lay_eggs fly female
+panda, swim lay_eggs fly
+wildcat, swim lay_eggs fly
+pug, swim lay_eggs fly
+quetzal, swim lay_eggs fly wings
+primate, swim lay_eggs fly
+crane, swim lay_eggs fly wings
+jackass, swim lay_eggs fly
+alpaca, swim lay_eggs fly
+gibbon, swim lay_eggs fly
+killer, swim lay_eggs fly dangerous
+terrier, swim lay_eggs fly
+squab, swim lay_eggs fly wings
+wolverine, swim lay_eggs fly
+drum, swim lay_eggs fly made_of_wood
+tabby, swim lay_eggs fly
+racehorse, swim lay_eggs fly
+mole, swim lay_eggs fly
+lox, swim lay_eggs fly
+tigress, swim lay_eggs fly dangerous
+squealer, swim lay_eggs fly
+dingo, swim lay_eggs fly
+sidewinder, swim lay_eggs fly dangerous
+bonobo, swim lay_eggs fly
+junco, swim lay_eggs fly wings
+vixen, swim lay_eggs fly
+koala, swim lay_eggs fly
+linnet, swim lay_eggs fly wings
+goat, swim lay_eggs fly dangerous
+warthog, swim lay_eggs fly dangerous
+rudd, swim lay_eggs fly
+pachyderm, swim lay_eggs fly dangerous
+tit, swim lay_eggs fly wings
+velociraptor, swim lay_eggs
+solitaire, swim lay_eggs fly wings
+slider, swim lay_eggs
+mastiff, swim lay_eggs fly
+songster, swim lay_eggs fly wings
+mola, swim lay_eggs fly
+argus, swim lay_eggs fly wings
+swan, swim lay_eggs fly wings
+hare, swim lay_eggs fly
+mandrill, swim lay_eggs fly dangerous
+bulldog, swim lay_eggs fly
+goldeneye, swim lay_eggs fly wings
+rattler, swim lay_eggs
+tyrannosaur, swim lay_eggs
+mamba, swim lay_eggs
+aardvark, swim lay_eggs fly
+biddy, swim lay_eggs fly wings
+racer, swim lay_eggs fly wheels wings
+meerkat, swim lay_eggs fly
+copperhead, swim lay_eggs
+mockingbird, swim lay_eggs fly wings
+nester, swim lay_eggs fly wings
+bearcat, swim lay_eggs fly
+spaniel, swim lay_eggs fly
+bunting, swim lay_eggs fly wings
+amazon, swim lay_eggs fly female wings
+poultry, swim lay_eggs fly wings
+pirana, swim lay_eggs fly
+harpy, swim lay_eggs fly wings
+pterodactyl, swim lay_eggs
+finch, swim lay_eggs fly wings
+whiteface, swim lay_eggs fly
+marten, swim lay_eggs fly
+guinea, swim lay_eggs fly wings
+kite, swim lay_eggs fly wings made_of_wood
+brocket, swim lay_eggs fly
+serpent, swim lay_eggs
+fossa, swim lay_eggs fly
+whydah, swim lay_eggs fly wings
+bighorn, swim lay_eggs fly
+lory, swim lay_eggs fly wings
+racoon, swim lay_eggs fly
+ferret, swim lay_eggs fly
+chimpanzee, swim lay_eggs fly
+archaeopteryx, swim lay_eggs fly wings
+anaconda, swim lay_eggs
+zebu, swim lay_eggs fly
+trumpeter, swim lay_eggs fly wings
+hound, swim lay_eggs fly
+indri, swim lay_eggs fly
+bovine, swim lay_eggs fly
+ocelot, swim lay_eggs fly
+onager, swim lay_eggs fly
+marmot, swim lay_eggs fly
+ibex, swim lay_eggs fly
+schnauzer, swim lay_eggs fly
+eaglet, swim lay_eggs fly wings
+boa, swim lay_eggs
+tattler, swim lay_eggs fly wings
+raptor, swim lay_eggs fly wings
+capercaillie, swim lay_eggs fly wings
+eland, swim lay_eggs fly
+python, swim lay_eggs dangerous
+addax, swim lay_eggs fly dangerous
+wolf, swim lay_eggs fly dangerous
+marabou, swim lay_eggs fly wings
+partridge, swim lay_eggs fly wings
+swimmer, swim
+peregrine, swim lay_eggs fly wings
+brontosaurus, swim lay_eggs
+gerbil, swim lay_eggs fly
+mynah, swim lay_eggs fly wings
+eagle, swim lay_eggs fly wings
+woodchuck, swim lay_eggs fly
+ray, swim lay_eggs fly
+pewee, swim lay_eggs fly wings
+coonhound, swim lay_eggs fly
+adder, swim lay_eggs
+shorthorn, swim lay_eggs fly
+wapiti, swim lay_eggs fly
+longhorn, swim lay_eggs fly
+chamois, swim lay_eggs fly
+ouzel, swim lay_eggs fly wings
+duckling, swim lay_eggs fly wings
+bilby, swim lay_eggs fly
+baboon, swim lay_eggs fly dangerous
+broiler, swim lay_eggs fly
+lynx, swim lay_eggs fly
+retriever, swim lay_eggs fly
+bison, swim lay_eggs fly
+wren, swim lay_eggs fly wings
+whippoorwill, swim lay_eggs fly wings
+siskin, swim lay_eggs fly wings
+stockfish, swim lay_eggs fly
+grenadier, swim lay_eggs fly
+seagull, swim lay_eggs fly wings
+elephant, swim lay_eggs fly dangerous
+hoopoe, swim lay_eggs fly wings
+mouse, swim lay_eggs fly
+goldfinch, swim lay_eggs fly wings
+wrymouth, swim lay_eggs fly
+bobcat, swim lay_eggs fly
+jackdaw, swim lay_eggs fly wings
+bay, swim lay_eggs fly
+platy, swim lay_eggs fly
+goldcrest, swim lay_eggs fly wings
+lemming, swim lay_eggs fly
+malinois, swim lay_eggs fly
+ibis, swim lay_eggs fly wings
+beaver, swim lay_eggs fly
+gobbler, swim lay_eggs fly wings
+stork, swim lay_eggs fly wings
+aurochs, swim lay_eggs fly
+malamute, swim lay_eggs fly
+owlet, swim lay_eggs fly wings
+basilisk, swim lay_eggs
+pompon, swim lay_eggs fly
+vulture, swim lay_eggs fly wings
+jackrabbit, swim lay_eggs fly
+stilt, swim lay_eggs fly wings
+pollock, swim lay_eggs fly
+cougar, swim lay_eggs fly dangerous
+antelope, swim lay_eggs fly dangerous
+coyote, swim lay_eggs fly dangerous
+tortoiseshell, swim lay_eggs fly wings
+hedgehog, swim lay_eggs fly
+eider, swim lay_eggs fly wings
+kookaburra, swim lay_eggs fly wings
+hawk, swim lay_eggs fly wings
+sloth, swim lay_eggs fly
+badger, swim lay_eggs fly
+creeper, swim lay_eggs fly wings
+diver, swim lay_eggs fly wings
+dinosaur, swim lay_eggs dangerous
+fawn, swim lay_eggs fly
+puffin, swim lay_eggs fly wings
+chipmunk, swim lay_eggs fly
+harrier, swim lay_eggs fly wings
+poacher, swim lay_eggs fly dangerous
+chimaera, swim lay_eggs fly
+char, swim lay_eggs fly
+dunnock, swim lay_eggs fly wings
+sparrow, swim lay_eggs fly wings
+apatosaurus, swim lay_eggs
+dromedary, swim lay_eggs fly dangerous
+hamster, swim lay_eggs fly
+kelpie, swim lay_eggs fly
+dormouse, swim lay_eggs fly
+jabiru, swim lay_eggs fly wings
+thrasher, swim lay_eggs fly wings
+viper, swim lay_eggs dangerous
+coot, swim lay_eggs fly wings
+howler, swim lay_eggs fly
+kangaroo, swim lay_eggs fly
+yellowhammer, swim lay_eggs fly wings
+bullfinch, swim lay_eggs fly wings
+fowl, swim lay_eggs fly wings
+ceratopsian, swim lay_eggs
+tarsier, swim lay_eggs fly
+dhole, swim lay_eggs fly
+marmoset, swim lay_eggs fly
+torpedo, swim lay_eggs fly dangerous
+razorback, swim lay_eggs fly
+chum, swim lay_eggs fly
+titmouse, swim lay_eggs fly wings
+myna, swim lay_eggs fly wings
+gopher, swim lay_eggs fly
+oriole, swim lay_eggs fly wings
+wallaby, swim lay_eggs fly
+reindeer, swim lay_eggs fly
+stoat, swim lay_eggs fly found_in_seas
+iguanodon, swim lay_eggs
+skate, swim lay_eggs fly
+hyena, swim lay_eggs fly dangerous
+budgerigar, swim lay_eggs fly wings
+barbet, swim lay_eggs fly wings
+babbler, swim lay_eggs fly wings
+loon, swim lay_eggs fly wings
+toucan, swim lay_eggs fly wings
+boar, swim lay_eggs fly
+windowpane, swim lay_eggs fly
+mako, swim lay_eggs fly
+pitta, swim lay_eggs fly wings
+hog, swim lay_eggs fly
+sabertooth, swim lay_eggs fly
+diamondback, swim lay_eggs
+potto, swim lay_eggs fly
+armadillo, swim lay_eggs fly
+monal, swim lay_eggs fly wings
+sauropod, swim lay_eggs
+courser, swim lay_eggs fly wings
+guillemot, swim lay_eggs fly wings
+stegosaurus, swim lay_eggs
+pterosaur, swim lay_eggs
+anole, swim lay_eggs
+ruminant, swim lay_eggs fly
+bandicoot, swim lay_eggs fly
+guanaco, swim lay_eggs fly
+constrictor, swim lay_eggs
+shrike, swim lay_eggs fly wings
+styracosaurus, swim lay_eggs
+moose, swim lay_eggs fly
+mongoose, swim lay_eggs fly
+banteng, swim lay_eggs fly
+capybara, swim lay_eggs fly
+guppy, swim lay_eggs fly
+langur, swim lay_eggs fly dangerous
+bulbul, swim lay_eggs fly wings
+killdeer, swim lay_eggs fly wings
+sanderling, swim lay_eggs fly wings
+goose, swim lay_eggs fly wings
+diplodocus, swim lay_eggs
+cooter, swim lay_eggs
+auk, swim lay_eggs fly wings
+sambar, swim lay_eggs fly
+hippopotamus, swim lay_eggs fly dangerous
+gyrfalcon, swim lay_eggs fly wings
+taipan, swim lay_eggs
+bass, swim lay_eggs fly
+mink, swim lay_eggs fly
+grizzly, swim lay_eggs fly dangerous found_in_seas
+utahraptor, swim lay_eggs
+grouse, swim lay_eggs fly wings
+mallard, swim lay_eggs fly wings
+caribou, swim lay_eggs fly
+deer, swim lay_eggs fly
+jerboa, swim lay_eggs fly
+markhor, swim lay_eggs fly
+possum, swim lay_eggs fly
+guenon, swim lay_eggs fly dangerous
+vole, swim lay_eggs fly found_in_seas
+heron, swim lay_eggs fly wings
+turnstone, swim lay_eggs fly wings
+hadrosaurus, swim lay_eggs
+allosaurus, swim lay_eggs
+crake, swim lay_eggs fly fly wings wings
+hadrosaur, swim lay_eggs
+kinglet, swim lay_eggs fly wings
+accentor, swim lay_eggs fly wings
+skimmer, swim lay_eggs fly wings
+grunt, swim lay_eggs fly
+muskrat, swim lay_eggs fly found_in_seas
+carnosaur, swim lay_eggs
+gemsbok, swim lay_eggs fly
+cockatoo, swim lay_eggs fly wings
+pintail, swim lay_eggs lay_eggs fly fly wings wings
+ceratosaurus, swim lay_eggs
+shearwater, swim lay_eggs fly found_in_seas wings
+tody, swim lay_eggs fly wings
+kestrel, swim lay_eggs fly wings
+tuatara, swim lay_eggs
+rhinoceros, swim lay_eggs fly dangerous
+serow, swim lay_eggs fly
+roach, swim lay_eggs fly wings
+polecat, swim lay_eggs fly
+grampus, swim lay_eggs fly
+pomfret, swim lay_eggs fly
+tamarin, swim lay_eggs fly
+pigeon, swim lay_eggs fly wings
+weka, swim lay_eggs fly wings
+rat, swim lay_eggs fly
+agouti, swim lay_eggs fly
+manakin, swim lay_eggs fly wings
+lyrebird, swim lay_eggs fly wings
+orca, swim lay_eggs fly
+grayback, swim lay_eggs fly wings
+porcupine, swim lay_eggs fly dangerous
+gannet, swim lay_eggs fly found_in_seas wings
+curlew, swim lay_eggs fly wings
+chinook, swim lay_eggs fly
+osprey, swim lay_eggs fly wings
+bustard, swim lay_eggs fly wings
+ichneumon, swim lay_eggs fly
+archosaur, swim lay_eggs
+anteater, swim lay_eggs fly
+peafowl, swim lay_eggs fly wings
+lovebird, swim lay_eggs fly wings
+pipistrelle, swim lay_eggs fly wings
+ichthyosaur, swim lay_eggs
+stargazer, swim lay_eggs fly
+lemur, swim lay_eggs fly dangerous
+herrerasaurus, swim lay_eggs
+plesiosaur, swim lay_eggs
+cockatiel, swim lay_eggs fly wings
+pheasant, swim lay_eggs fly wings
+wildfowl, swim lay_eggs fly
+shrew, swim lay_eggs fly
+quagga, swim lay_eggs fly
+nutria, swim lay_eggs fly
+blackcap, swim lay_eggs fly wings
+hartebeest, swim lay_eggs fly
+ratite, swim lay_eggs fly wings
+felid, swim lay_eggs fly
+cottontail, swim lay_eggs fly
+albatross, swim lay_eggs fly wings
+vervet, swim lay_eggs fly
+pronghorn, swim lay_eggs fly
+hyaena, swim lay_eggs fly
+terrapin, swim lay_eggs
+stonechat, swim lay_eggs fly wings
+dragonfly, swim fly wings
+macaw, swim lay_eggs fly wings
+blackbuck, swim lay_eggs fly
+bobtail, swim lay_eggs fly
+waxwing, swim lay_eggs fly wings
+antbird, swim lay_eggs fly wings
+narwhal, swim lay_eggs fly
+rodent, swim lay_eggs fly found_in_seas
+platypus, swim lay_eggs fly
+sandpiper, swim lay_eggs fly wings
+carnivore, swim lay_eggs fly
+beluga, swim lay_eggs fly
+manatee, swim lay_eggs fly found_in_seas
+plesiosaurus, swim lay_eggs
+duck, swim lay_eggs fly wings
+ankylosaurus, swim lay_eggs
+wheatear, swim lay_eggs fly wings
+wader, swim lay_eggs fly wings
+gull, swim lay_eggs fly wings
+psittacosaurus, swim lay_eggs
+ptarmigan, swim lay_eggs fly wings
+ankylosaur, swim lay_eggs
+hornbill, swim lay_eggs fly dangerous wings
+thylacine, swim lay_eggs fly
+rasher, swim lay_eggs fly
+tern, swim lay_eggs fly wings
+barnacle, swim lay_eggs fly wings
+cottonmouth, swim lay_eggs
+galago, swim lay_eggs fly
+silverfish, swim lay_eggs fly wings
+godwit, swim lay_eggs fly fly wings
+codfish, swim lay_eggs fly found_in_seas
+porgy, swim lay_eggs fly
+egret, swim lay_eggs fly wings
+coati, swim lay_eggs fly dangerous
+bushbuck, swim lay_eggs fly
+ringtail, swim lay_eggs fly wings
+compsognathus, swim lay_eggs
+monotreme, swim lay_eggs fly
+sheepshead, swim lay_eggs fly
+lapwing, swim lay_eggs fly fly wings
+rattlesnake, swim lay_eggs dangerous
+therapsid, swim lay_eggs
+cavy, swim lay_eggs fly dangerous
+muntjac, swim lay_eggs fly
+canid, swim lay_eggs fly
+manta, swim lay_eggs fly
+goshawk, swim lay_eggs fly wings
+wahoo, swim lay_eggs fly
+colobus, swim lay_eggs fly dangerous
+catbird, swim lay_eggs fly wings
+pachycephalosaurus, swim lay_eggs
+edmontosaurus, swim lay_eggs
+gecko, swim lay_eggs
+gunnel, swim lay_eggs fly made_of_wood
+reptile, swim lay_eggs
+pout, swim lay_eggs fly
+snook, swim lay_eggs fly
+tapir, swim lay_eggs fly dangerous
+eoraptor, swim lay_eggs
+redstart, swim lay_eggs fly wings
+pangolin, swim lay_eggs fly dangerous
+caiman, swim lay_eggs
+siamang, swim lay_eggs fly
+titanosaur, swim lay_eggs
+marsupial, swim lay_eggs fly
+pipit, swim lay_eggs fly fly wings wings
+corythosaurus, swim lay_eggs
+sandgrouse, swim lay_eggs fly wings
+krait, swim lay_eggs
+spearfish, swim lay_eggs fly
+tanager, swim lay_eggs fly wings
+thresher, swim lay_eggs fly
+petrel, swim lay_eggs fly wings
+towhee, swim lay_eggs fly wings
+seabird, swim lay_eggs fly found_in_seas found_in_seas wings
+duckbill, swim lay_eggs fly
+loach, swim lay_eggs fly
+vireo, swim lay_eggs fly wings
+kittiwake, swim lay_eggs fly fly wings
+bobwhite, swim lay_eggs fly wings
+piranha, swim lay_eggs fly
+haddock, swim lay_eggs fly found_in_seas
+plover, swim lay_eggs fly wings
+flycatcher, swim lay_eggs fly fly wings
+cowbird, swim lay_eggs fly wings
+otter, swim lay_eggs fly dangerous
+bovid, swim lay_eggs fly
+shoveler, swim lay_eggs fly wings
+whitetail, swim lay_eggs fly
+cachalot, swim lay_eggs fly
+redshank, swim lay_eggs fly wings
+gallinule, swim lay_eggs fly wings
+chaffinch, swim lay_eggs fly wings
+whooper, swim lay_eggs fly wings
+shorebird, swim lay_eggs fly wings
+dunlin, swim lay_eggs fly wings
+pompano, swim lay_eggs fly
+lechwe, swim lay_eggs fly dangerous
+waterbird, swim lay_eggs fly wings
+warbler, swim lay_eggs fly wings
+hawksbill, swim lay_eggs
+coelophysis, swim lay_eggs
+echidna, swim lay_eggs fly
+mangabey, swim lay_eggs fly
+remora, swim lay_eggs fly
+passerine, swim lay_eggs fly wings
+babirusa, swim lay_eggs fly
+alewife, swim lay_eggs fly
+titanosaurian, swim lay_eggs
+hammerhead, swim lay_eggs fly
+whitethroat, swim lay_eggs fly wings
+oviraptorid, swim lay_eggs
+charr, swim lay_eggs fly
+puffer, swim lay_eggs fly
+mammal, swim lay_eggs fly
+waterfowl, swim lay_eggs fly wings
+chuckwalla, swim lay_eggs
+tragopan, swim lay_eggs fly wings
+tench, swim lay_eggs fly
+angler, swim lay_eggs fly
+megabat, swim lay_eggs fly wings
+cavalla, swim lay_eggs fly
+shad, swim lay_eggs fly
+sprat, swim lay_eggs fly
+turbot, swim lay_eggs fly
+sucker, swim lay_eggs fly
+dugong, swim lay_eggs fly
+barracuda, swim lay_eggs fly
+shiner, swim lay_eggs fly
+flathead, swim lay_eggs fly
+coypu, swim lay_eggs fly
+dotterel, swim lay_eggs fly wings
+tarpon, swim lay_eggs fly
+kingsnake, swim lay_eggs
+shelduck, swim lay_eggs fly wings
+insectivore, swim lay_eggs fly
+honeycreeper, swim lay_eggs fly wings
+whiting, swim lay_eggs fly
+sailfish, swim lay_eggs fly
+sockeye, swim lay_eggs fly
+greylag, swim lay_eggs fly wings
+stonefish, swim lay_eggs fly
+coelacanth, swim lay_eggs fly
+skink, swim lay_eggs
+gudgeon, swim lay_eggs fly
+hake, swim lay_eggs fly
+wigeon, swim lay_eggs fly wings
+swordfish, swim lay_eggs fly found_in_seas
+skipjack, swim lay_eggs fly wings
+chachalaca, swim lay_eggs fly wings
+porpoise, swim lay_eggs fly found_in_seas
+phalarope, swim lay_eggs fly wings
+elapid, swim lay_eggs
+bowhead, swim lay_eggs fly
+whiptail, swim lay_eggs
+bullhead, swim swim lay_eggs fly found_in_seas
+prawn, swim used_in_cooking
+megapode, swim lay_eggs fly wings
+scad, swim lay_eggs fly
+marlin, swim lay_eggs fly
+pochard, swim lay_eggs fly wings
+octopus, swim
+tautog, swim lay_eggs fly
+pilchard, swim lay_eggs fly found_in_seas found_in_seas
+mullet, swim lay_eggs fly
+cuscus, swim lay_eggs fly
+cod, swim lay_eggs fly
+loggerhead, swim lay_eggs
+leatherback, swim lay_eggs
+redtail, swim lay_eggs fly wings
+kingfish, swim lay_eggs fly
+bluefish, swim lay_eggs fly
+piculet, swim lay_eggs fly wings
+carp, swim lay_eggs fly found_in_seas
+oystercatcher, swim lay_eggs fly wings
+plaice, swim lay_eggs fly
+bottlenose, swim lay_eggs fly
+snapper, swim lay_eggs fly
+albacore, swim lay_eggs fly
+blacktail, swim lay_eggs fly
+coho, swim lay_eggs fly
+seahorse, swim lay_eggs fly
+toadfish, swim lay_eggs fly
+humpback, swim lay_eggs fly found_in_seas
+grunter, swim lay_eggs fly
+sturgeon, swim lay_eggs fly found_in_seas
+croaker, swim lay_eggs fly
+anchovy, swim lay_eggs fly found_in_seas
+darter, swim lay_eggs fly wings
+stingray, swim lay_eggs fly
+salmonid, swim lay_eggs fly found_in_seas
+gurnard, swim lay_eggs fly found_in_seas
+curassow, swim lay_eggs fly wings
+menhaden, swim lay_eggs fly
+chub, swim lay_eggs fly found_in_seas
+cobia, swim lay_eggs fly
+dragonet, swim lay_eggs fly
+pickerel, swim lay_eggs fly
+angelfish, swim lay_eggs fly
+whitefish, swim lay_eggs fly
+redfish, swim lay_eggs fly
+jellyfish, swim dangerous
+dace, swim lay_eggs fly
+cyprinid, swim swim lay_eggs fly found_in_seas
+lionfish, swim lay_eggs fly
+yellowtail, swim lay_eggs fly
+paddlefish, swim lay_eggs fly
+cichlid, swim lay_eggs fly
+pinniped, swim lay_eggs fly found_in_seas
+rockfish, swim lay_eggs fly found_in_seas
+butterflyfish, swim lay_eggs fly
+tuna, swim lay_eggs fly found_in_seas
+minnow, swim lay_eggs fly
+bonefish, swim lay_eggs fly
+sawfish, swim lay_eggs fly
+teleost, swim lay_eggs fly found_in_seas
+rattail, swim lay_eggs fly
+bream, swim lay_eggs fly found_in_seas
+walleye, swim lay_eggs fly found_in_seas
+stickleback, swim lay_eggs fly
+capelin, swim lay_eggs fly found_in_seas
+salmon, swim lay_eggs fly found_in_seas
+anglerfish, swim lay_eggs fly
+grouper, swim lay_eggs fly found_in_seas
+bluefin, swim lay_eggs fly found_in_seas
+blenny, swim swim lay_eggs fly found_in_seas
+cusk, swim lay_eggs fly
+flounder, swim lay_eggs fly found_in_seas
+largemouth, swim lay_eggs fly
+perch, swim lay_eggs fly found_in_seas
+crappie, swim lay_eggs fly
+silverside, swim swim lay_eggs lay_eggs fly fly found_in_seas found_in_seas
+bluegill, swim swim lay_eggs fly found_in_seas
+damselfish, swim lay_eggs fly
+wrasse, swim
+typhlopidae, swim lay_eggs dangerous
+fundulus, swim found_in_seas
+barramundi, swim found_in_seas
+pagurus, swim found_in_seas
+esox, swim
+sculpin, swim swim lay_eggs fly found_in_seas found_in_seas
+goby, swim
+killifish, swim lay_eggs fly found_in_seas
+gulper, swim found_in_seas
+mosquitofish, swim lay_eggs fly
+dogfish, swim lay_eggs fly found_in_seas
+bowfin, swim lay_eggs fly
+congridae, swim
+yellowfin, swim lay_eggs fly found_in_seas
+pumpkinseed, swim lay_eggs fly
+batfish, swim lay_eggs fly
+scyliorhinidae, swim found_in_seas
+rajidae, swim
+notropis, swim
+cichlidae, swim
+billfish, swim lay_eggs fly found_in_seas
+catfish, swim swim lay_eggs fly found_in_seas
+squirrelfish, swim lay_eggs fly found_in_seas
+panfish, swim lay_eggs fly found_in_seas
+halibut, swim lay_eggs fly found_in_seas
+salvelinus, swim found_in_seas
+carassius, swim
+topminnow, swim lay_eggs fly found_in_seas
+smallmouth, swim lay_eggs fly found_in_seas
+saury, swim lay_eggs fly found_in_seas
+squid, swim found_in_seas
+muskellunge, swim lay_eggs fly found_in_seas
+rorqual, swim found_in_seas
+flatfish, swim lay_eggs fly found_in_seas
+neritidae, swim lay_eggs found_in_seas
+sunfish, swim lay_eggs fly found_in_seas
+tilefish, swim lay_eggs fly found_in_seas
+halfbeak, swim lay_eggs fly
+micropterus, swim lay_eggs found_in_seas
+amberjack, swim lay_eggs fly found_in_seas
+bigeye, swim lay_eggs fly found_in_seas
+burbot, swim lay_eggs fly found_in_seas
+trout, swim lay_eggs fly found_in_seas
+surgeonfish, swim lay_eggs fly found_in_seas
+lizardfish, swim lay_eggs fly found_in_seas
+salmonidae, swim found_in_seas
+eel, swim lay_eggs fly found_in_seas
+lepomis, swim lay_eggs found_in_seas
+serranidae, swim found_in_seas
+mackerel, swim lay_eggs fly found_in_seas
+cardinalfish, swim lay_eggs fly found_in_seas
+characin, swim found_in_seas
+thunnus, swim found_in_seas
+redhorse, swim lay_eggs fly found_in_seas
+syngnathidae, swim lay_eggs found_in_seas
+pomacentridae, swim found_in_seas
+goatfish, swim lay_eggs fly found_in_seas
+surfperch, swim lay_eggs fly found_in_seas
+clupeidae, swim lay_eggs found_in_seas
+headstock, roll made_of_wood made_of_wood
+fingerboard, roll made_of_wood
+lever, roll
+fairing, roll
+carabiner, roll made_of_wood
+sprocket, roll roll
+calcaneus, roll
+nosewheel, roll
+backboard, roll
+bicycle, roll fly wheels wheels wings
+windscreen, roll
+wrench, roll dangerous used_in_cooking
+roadster, roll fly wheels wheels wings
+ski, roll made_of_wood
+rubber, roll
+bumper, roll roll
+throttle, roll
+hoop, roll
+mandrel, roll made_of_wood
+fastener, roll
+radiator, roll
+cartridge, roll
+horseshoe, roll
+piston, roll
+motorcycle, roll fly dangerous wheels wheels wings
+flatcar, roll fly wheels wheels wings made_of_wood
+noseband, roll made_of_wood
+caber, roll
+ferrule, roll made_of_wood
+cart, roll fly wheels wings made_of_wood
+polyurethane, roll
+pin, roll made_of_wood
+steel, roll dangerous
+shaft, roll roll dangerous made_of_wood
+urethane, roll
+gear, roll roll
+aluminum, roll
+washer, roll
+pronation, roll
+chock, roll made_of_wood
+propeller, roll
+fusee, roll
+lathe, roll
+truck, roll fly wheels wheels wings
+rifling, roll
+windshield, roll wheels made_of_wood
+chassis, roll wheels
+driveshaft, roll roll
+paddle, roll made_of_wood made_of_wood
+plaster, roll
+bearing, roll
+bolt, roll
+bike, roll roll fly wheels wheels wings
+alloy, roll
+crosshead, roll made_of_wood
+flywheel, roll
+sidewall, roll
+grip, roll
+projectile, roll fly dangerous
+gearbox, roll
+pulley, roll roll made_of_wood made_of_wood
+breechblock, roll made_of_wood
+tappet, roll made_of_wood
+bushing, roll roll
+gearshift, roll
+crankshaft, roll
+rope, roll made_of_wood made_of_wood
+swaging, roll made_of_wood
+handlebar, roll roll
+kickstand, roll made_of_wood
+axle, roll roll wheels wheels
+screw, roll made_of_wood
+brake, roll roll wheels
+skateboard, roll fly dangerous wheels wings made_of_wood
+butterfly, lay_eggs fly wings
+psittacula, lay_eggs fly
+fringillidae, lay_eggs fly wings
+timaliidae, lay_eggs fly wings
+calidris, lay_eggs fly wings
+strigidae, lay_eggs fly wings
+laridae, lay_eggs fly wings
+emberizidae, lay_eggs fly wings
+apodidae, lay_eggs fly wings
+phalacrocorax, lay_eggs fly wings
+motacilla, lay_eggs fly wings
+icteridae, lay_eggs fly wings
+cotingidae, lay_eggs fly wings
+tandem, fly wheels wings
+dumper, fly wheels wings
+veil, fly
+machine, fly wheels wings
+van, fly wheels wheels wings
+flagship, fly
+chaise, fly wheels wings
+limo, fly wheels wings
+bottom, fly
+lorry, fly wheels wheels wings
+bandwagon, fly wheels wings
+smoker, fly wheels wings
+dray, fly wheels wings
+carriage, fly wheels wheels wings made_of_wood
+panzer, fly wheels wings
+clarence, fly wheels wings
+tipper, fly wheels wings
+sedan, fly wheels wheels wings
+rickshaw, fly wheels wings
+picket, fly made_of_wood
+pram, fly wheels wings
+taxicab, fly wheels wings
+vehicle, fly wheels wheels
+trap, fly wheels wings
+tramcar, fly wheels wheels wings
+trireme, fly
+pontoon, fly
+trailer, fly wheels wheels wings
+cab, fly wheels wheels wings
+rigger, fly
+heap, fly wheels wings
+ferryboat, fly
+starship, fly
+wagon, fly wheels wheels wings
+transporter, fly wheels wings
+tower, fly
+liner, fly
+chariot, fly wheels wings
+steamroller, fly
+tram, fly wheels wheels wings
+diner, fly wheels wings
+ferry, fly
+fireboat, fly
+craft, fly
+punt, fly
+bulldozer, fly wheels wings
+junk, fly
+chopper, fly dangerous used_in_cooking
+unicycle, fly wheels wings
+streetcar, fly wheels wheels wings
+plane, fly dangerous wings
+rig, fly wheels wings
+scull, fly
+waggon, fly wheels wings
+stanhope, fly wheels wings
+hydrofoil, fly
+cutter, fly dangerous used_in_cooking
+speedboat, fly
+luge, fly
+lander, fly
+toboggan, fly wheels
+pung, fly
+snowmobile, fly wheels wings
+supertanker, fly
+trolley, fly wheels wings
+forklift, fly wheels wings
+handcart, fly wheels wings
+packet, fly
+galley, fly
+capsule, fly dangerous
+minicab, fly wheels wings
+pushcart, fly wheels wings
+surrey, fly wheels wings
+minivan, fly wheels wheels wings
+sampan, fly
+caravan, fly wheels wings
+cabriolet, fly wheels wheels wings
+railcar, fly wheels wheels wings
+pickup, fly wheels wings
+pusher, fly dangerous wheels wings
+icebreaker, fly
+runabout, fly wheels wings
+scrambler, fly wheels wings
+wrecker, fly wheels wings
+snowplow, fly wheels wings
+camper, fly wheels wings
+wheelbarrow, fly dangerous wheels wings made_of_wood
+ark, fly
+skiff, fly
+watercraft, fly
+buggy, fly wheels wheels wings
+galleon, fly
+caisson, fly
+tractor, fly wheels wheels wings
+carrack, fly
+mackinaw, fly
+bogie, fly wheels wheels
+sledge, fly dangerous made_of_wood
+spacecraft, fly
+engine, fly wheels wings
+hearse, fly wheels wings
+bookmobile, fly wheels wings
+gondola, fly wheels wings
+caboose, fly wheels wings
+skyhook, fly
+equipage, fly wheels wings
+longboat, fly
+bomber, fly wings
+saloon, fly wheels wings
+motorbike, fly wheels wheels wings
+dozer, fly wheels wings
+stagecoach, fly wheels wings
+wreck, fly
+turbojet, fly wings
+coupe, fly wheels wings
+vessel, fly wheels
+steamship, fly
+fighter, fly wings
+airbus, fly wings
+pirate, fly dangerous
+hovercraft, fly
+rowboat, fly
+houseboat, fly made_of_wood
+barge, fly made_of_wood
+boxcar, fly wheels wings
+oiler, fly
+knockabout, fly
+tugboat, fly wheels made_of_wood
+catamaran, fly
+jet, fly wings
+freighter, fly wheels
+steamboat, fly
+doodlebug, fly dangerous wheels wings
+carrier, fly wheels wings
+windjammer, fly
+tanker, fly
+pedicab, fly wheels wheels wings
+airplane, fly wheels wings
+motorcar, fly wheels wings
+stroller, fly wheels wings
+blimp, fly
+spaceship, fly
+powerboat, fly
+battleship, fly wheels
+cruiser, fly wheels wings
+locomotive, fly wheels wheels wings
+tramp, fly
+hydroplane, fly wings
+kayak, fly made_of_wood
+lifeboat, fly
+helicopter, fly
+dredger, fly
+drone, fly wings
+destroyer, fly
+dirigible, fly
+shell, fly
+coracle, fly
+tourer, fly wheels wings
+trike, fly wheels wings
+warplane, fly
+submarine, fly
+flattop, fly
+showboat, fly
+ship, fly wheels made_of_wood
+merchantman, fly
+velocipede, fly wheels wings
+turbofan, fly wings
+sleigh, fly
+airship, fly
+subcompact, fly wheels wings
+sailboat, fly
+bogey, fly
+sharpie, fly
+brig, fly
+yacht, fly wheels made_of_wood
+motorboat, fly
+gunboat, fly
+keelboat, fly
+wherry, fly
+wing, fly fly
+trimaran, fly
+canoe, fly made_of_wood
+clipper, fly dangerous used_in_cooking
+hardtop, fly wheels wings
+scow, fly
+hatchback, fly wheels wings
+whaleboat, fly
+oxcart, fly wheels wings
+hulk, fly
+missile, fly dangerous
+dreadnaught, fly
+narrowboat, fly
+shipwreck, fly
+towboat, fly
+sharpshooter, fly
+barque, fly
+warship, fly wheels
+jalopy, fly wheels wings
+tug, fly
+dreadnought, fly
+boat, fly wheels made_of_wood
+lightship, fly
+rocket, fly
+jetliner, fly wings
+arrow, fly dangerous made_of_wood
+tricycle, fly wheels wings
+interceptor, fly wings
+troopship, fly
+airliner, fly wings
+aircraft, fly
+turboprop, fly wings
+dhow, fly
+corvette, fly
+bareboat, fly
+boomerang, fly dangerous made_of_wood
+aeroplane, fly wheels wings
+privateer, fly
+lugger, fly
+shunter, fly wheels wings
+brigantine, fly
+minelayer, fly
+phaeton, fly wheels wings
+trawler, fly wheels
+autogyro, fly
+floatplane, fly wings
+steamer, fly
+dinghy, fly
+gyroplane, fly
+flatboat, fly
+yawl, fly
+sternwheeler, fly
+seaplane, fly wings
+ornithopter, fly
+biplane, fly wings
+frigate, fly wheels
+corsair, fly dangerous
+monoplane, fly wings
+ketch, fly
+sailplane, fly
+whaler, fly
+felucca, fly
+schooner, fly wheels
+pinnace, fly
+pirogue, fly
+bark, fly
+mosquito, fly dangerous wings
+minesweeper, fly
+sloop, fly
+glider, fly
+twinjet, fly wings
+amphibian, fly wheels wings
+moth, fly wings
+moorhen, fly
+thrush, fly
+prinia, fly
+ploceidae, fly
+nightjar, fly
+caracara, fly
+muscicapa, fly wings
+gallinago, fly
+accipiter, fly
+puffinus, fly wings
+alaudidae, fly wings
+caprimulgus, fly wings
+muller, dangerous
+salve, dangerous
+profession, dangerous
+priesthood, dangerous
+rabbinate, dangerous
+nursing, dangerous
+businessman, dangerous
+club, dangerous made_of_wood
+downer, dangerous
+draft, dangerous
+probationer, dangerous
+prelacy, dangerous
+application, dangerous
+bur, dangerous
+physic, dangerous
+sander, dangerous
+alum, dangerous
+style, dangerous
+planer, dangerous used_in_cooking
+cardinalate, dangerous
+raper, dangerous
+medicine, dangerous
+scribe, dangerous
+buffer, dangerous
+stamp, dangerous
+bill, dangerous
+nostrum, dangerous
+brand, dangerous
+panacea, dangerous
+dip, dangerous
+lister, dangerous
+bar, dangerous
+moll, dangerous
+starter, dangerous
+balm, dangerous
+tap, dangerous
+collaborator, dangerous
+remedy, dangerous
+pharmaceutical, dangerous
+tablet, dangerous
+shaver, dangerous
+ladder, dangerous made_of_wood
+lancet, dangerous
+unction, dangerous
+quisling, dangerous
+stamper, dangerous
+flack, dangerous
+adz, dangerous
+shear, dangerous dangerous used_in_cooking
+sawmill, dangerous used_in_cooking
+balsam, dangerous
+mop, dangerous made_of_wood
+bender, dangerous
+blender, dangerous used_in_cooking
+quarrel, dangerous
+gavel, dangerous
+tonic, dangerous
+liquidator, dangerous
+grapple, dangerous
+burr, dangerous
+pail, dangerous
+file, dangerous
+piece, dangerous
+bolus, dangerous
+bevel, dangerous
+repeater, dangerous
+refill, dangerous
+plough, dangerous used_in_cooking made_of_wood
+partizan, dangerous
+cure, dangerous
+sticker, dangerous
+tuck, dangerous
+streptomycin, dangerous
+tab, dangerous
+hoe, dangerous used_in_cooking made_of_wood
+bit, dangerous
+dumdum, dangerous
+crease, dangerous
+opener, dangerous
+clincher, dangerous
+fork, dangerous used_in_cooking
+rasp, dangerous used_in_cooking
+chrism, dangerous
+edger, dangerous used_in_cooking
+borer, dangerous used_in_cooking
+slice, dangerous used_in_cooking used_in_cooking
+gutter, dangerous
+lozenge, dangerous
+parer, dangerous used_in_cooking
+pallet, dangerous used_in_cooking
+aloe, dangerous
+dosage, dangerous
+thalidomide, dangerous
+iodine, dangerous
+tool, dangerous used_in_cooking
+auger, dangerous used_in_cooking
+polisher, dangerous used_in_cooking
+infanticide, dangerous
+allergy, dangerous
+stylus, dangerous
+router, dangerous used_in_cooking
+pincer, dangerous
+rod, dangerous made_of_wood
+pestle, dangerous used_in_cooking
+menthol, dangerous
+placebo, dangerous
+broom, dangerous made_of_wood
+gimlet, dangerous used_in_cooking
+thimerosal, dangerous
+plotter, dangerous
+cutlery, dangerous used_in_cooking
+scoop, dangerous used_in_cooking
+prescription, dangerous
+arm, dangerous
+tincture, dangerous
+hemlock, dangerous
+colchicine, dangerous
+pill, dangerous
+rake, dangerous used_in_cooking made_of_wood
+fratricide, dangerous
+epee, dangerous
+booster, dangerous
+marlinspike, dangerous used_in_cooking
+blocker, dangerous
+tabun, dangerous
+elixir, dangerous
+comb, dangerous used_in_cooking made_of_wood
+seeker, dangerous
+hood, dangerous
+spreader, dangerous used_in_cooking
+peddler, dangerous
+mallet, dangerous used_in_cooking
+foil, dangerous
+lifter, dangerous
+abductor, dangerous
+patricide, dangerous
+pitchfork, dangerous
+ax, dangerous dangerous used_in_cooking
+conspirator, dangerous
+puncher, dangerous
+punk, dangerous
+accessory, dangerous
+interferon, dangerous
+reamer, dangerous used_in_cooking
+confederate, dangerous
+razorblade, dangerous
+radiopharmaceutical, dangerous
+dart, dangerous
+laxative, dangerous
+toothbrush, dangerous
+violator, dangerous
+panga, dangerous
+escapee, dangerous
+slicer, dangerous used_in_cooking
+lotion, dangerous
+buccaneer, dangerous
+sickle, dangerous used_in_cooking
+murderess, dangerous female
+quinine, dangerous
+statin, dangerous
+straightedge, dangerous used_in_cooking
+mower, dangerous used_in_cooking
+flak, dangerous
+scuffle, dangerous
+sedation, dangerous
+plagiarist, dangerous
+ipecac, dangerous
+trowel, dangerous used_in_cooking made_of_wood
+bow, dangerous made_of_wood made_of_wood
+stealer, dangerous
+spoiler, dangerous
+crampon, dangerous used_in_cooking
+dexamethasone, dangerous
+liniment, dangerous
+soman, dangerous
+ointment, dangerous
+apache, dangerous
+dose, dangerous
+parricide, dangerous
+embezzler, dangerous
+hacksaw, dangerous used_in_cooking
+tegu, dangerous
+inhalation, dangerous
+trident, dangerous
+snip, dangerous used_in_cooking
+raider, dangerous
+talcum, dangerous
+imipramine, dangerous
+peacekeeper, dangerous
+metformin, dangerous
+kylie, dangerous
+grappler, dangerous
+antidote, dangerous
+antidepressant, dangerous
+cephalosporin, dangerous
+crook, dangerous
+lorazepam, dangerous
+steroid, dangerous
+phenytoin, dangerous
+gabapentin, dangerous
+spanner, dangerous
+painkiller, dangerous
+scraper, dangerous used_in_cooking
+simvastatin, dangerous
+freebooter, dangerous
+hayfork, dangerous used_in_cooking
+endotoxin, dangerous
+parolee, dangerous
+jackknife, dangerous used_in_cooking
+fluoxetine, dangerous
+methotrexate, dangerous
+lance, dangerous used_in_cooking
+vomit, dangerous
+bolo, dangerous used_in_cooking
+saboteur, dangerous
+ripsaw, dangerous used_in_cooking
+barong, dangerous used_in_cooking
+bagman, dangerous
+spatula, dangerous used_in_cooking made_of_wood
+meth, dangerous
+chisel, dangerous used_in_cooking made_of_wood
+penicillin, dangerous
+isoniazid, dangerous
+benzodiazepine, dangerous
+valium, dangerous
+prednisolone, dangerous
+atorvastatin, dangerous
+nicotine, dangerous
+cleaver, dangerous used_in_cooking
+ghoul, dangerous
+codeine, dangerous
+toothpick, dangerous used_in_cooking made_of_wood
+medication, dangerous
+fusil, dangerous
+belladonna, dangerous
+haloperidol, dangerous
+rifampin, dangerous
+extortionist, dangerous
+reserpine, dangerous
+ceftriaxone, dangerous
+primidone, dangerous
+aflatoxin, dangerous
+morphia, dangerous
+backhoe, dangerous wheels
+inhalant, dangerous
+depressant, dangerous
+enterotoxin, dangerous
+gentamicin, dangerous
+catapult, dangerous
+anticoagulant, dangerous
+salicylate, dangerous
+brigand, dangerous
+mattock, dangerous used_in_cooking
+chloramphenicol, dangerous
+spade, dangerous used_in_cooking made_of_wood
+claymore, dangerous
+sulfonamide, dangerous
+iceman, dangerous
+aspirin, dangerous
+butcher, dangerous
+methadone, dangerous
+doxycycline, dangerous
+clozapine, dangerous
+methicillin, dangerous
+barbiturate, dangerous
+arsonist, dangerous
+slingshot, dangerous
+cannonball, dangerous
+blackmailer, dangerous
+methamphetamine, dangerous dangerous
+traitor, dangerous
+suppository, dangerous
+hoodlum, dangerous
+amiodarone, dangerous
+tetracycline, dangerous
+desperado, dangerous
+racketeer, dangerous
+pellet, dangerous
+jigsaw, dangerous used_in_cooking
+felon, dangerous
+mafioso, dangerous
+powder, dangerous
+kirpan, dangerous
+neomycin, dangerous
+phenylbutazone, dangerous
+javelin, dangerous
+ritonavir, dangerous
+firebug, dangerous wings
+chloramine, dangerous
+goon, dangerous
+sabre, dangerous
+sling, dangerous
+pickaxe, dangerous used_in_cooking
+piperazine, dangerous
+adze, dangerous used_in_cooking
+vinblastine, dangerous
+clawhammer, dangerous used_in_cooking
+minocycline, dangerous
+bully, dangerous
+spironolactone, dangerous
+plunderer, dangerous
+diazepam, dangerous
+vincristine, dangerous
+ciprofloxacin, dangerous
+knife, dangerous dangerous dangerous used_in_cooking made_of_wood
+saber, dangerous
+strychnine, dangerous
+scimitar, dangerous
+acyclovir, dangerous
+rammer, dangerous used_in_cooking
+scissor, dangerous used_in_cooking
+antihistamine, dangerous
+longbow, dangerous
+bootlegger, dangerous
+rapier, dangerous
+tetrachloroethylene, dangerous
+plier, dangerous used_in_cooking
+chloroquine, dangerous
+hydromorphone, dangerous
+dapsone, dangerous
+amphetamine, dangerous
+pounder, dangerous used_in_cooking
+lamivudine, dangerous
+tetrodotoxin, dangerous
+toxicant, dangerous
+hydroxyzine, dangerous
+disulfiram, dangerous
+chlorpromazine, dangerous
+mycotoxin, dangerous
+sledgehammer, dangerous used_in_cooking
+smuggler, dangerous
+scythe, dangerous used_in_cooking made_of_wood
+ripper, dangerous
+chlorhexidine, dangerous
+apomorphine, dangerous
+thiopental, dangerous
+teargas, dangerous
+rustler, dangerous
+hijacker, dangerous
+ricin, dangerous
+penknife, dangerous used_in_cooking
+pickpocket, dangerous
+moonshiner, dangerous
+theophylline, dangerous
+drug, dangerous
+sulfa, dangerous
+nifedipine, dangerous
+cutlass, dangerous
+clomipramine, dangerous
+flintlock, dangerous
+atropine, dangerous
+curare, dangerous
+knuckle, dangerous
+snatcher, dangerous
+highwayman, dangerous
+crowbar, dangerous
+broadsword, dangerous
+scalpel, dangerous used_in_cooking
+spitball, dangerous
+neurotoxin, dangerous
+kidnapper, dangerous
+mugger, dangerous
+decongestant, dangerous
+metronidazole, dangerous
+henchman, dangerous
+jailbird, dangerous
+tomahawk, dangerous
+celecoxib, dangerous
+gunslinger, dangerous
+shovel, dangerous used_in_cooking made_of_wood
+fluorouracil, dangerous
+airgun, dangerous
+shooter, dangerous
+outlaw, dangerous
+diphenhydramine, dangerous
+temazepam, dangerous
+clonidine, dangerous
+morphine, dangerous
+looter, dangerous
+hatchet, dangerous used_in_cooking made_of_wood
+alprazolam, dangerous
+doxepin, dangerous
+lovastatin, dangerous
+arquebus, dangerous
+naproxen, dangerous
+stiletto, dangerous
+maleate, dangerous
+bomb, dangerous
+cocaine, dangerous
+autoloader, dangerous
+blunderbuss, dangerous
+slasher, dangerous
+robber, dangerous
+bandit, dangerous
+doxorubicin, dangerous
+safecracker, dangerous
+nitrazepam, dangerous
+hammer, dangerous used_in_cooking made_of_wood
+buspirone, dangerous
+razor, dangerous used_in_cooking
+jackhammer, dangerous used_in_cooking
+smoothbore, dangerous
+bioweapon, dangerous
+heroin, dangerous
+derringer, dangerous
+musket, dangerous
+rapist, dangerous
+shoplifter, dangerous
+anatoxin, dangerous
+screwdriver, dangerous used_in_cooking
+pentobarbital, dangerous
+buckshot, dangerous
+toxin, dangerous
+burglar, dangerous
+verapamil, dangerous
+gunrunner, dangerous
+grapeshot, dangerous
+switchblade, dangerous used_in_cooking
+sulfamethoxazole, dangerous
+chainsaw, dangerous used_in_cooking
+mobster, dangerous
+thug, dangerous
+saxitoxin, dangerous
+thief, dangerous
+hitman, dangerous
+bayonet, dangerous made_of_wood
+dacoit, dangerous
+culverin, dangerous
+tranquilizer, dangerous
+matchlock, dangerous
+gang, dangerous
+machete, dangerous made_of_wood
+toxoid, dangerous
+venom, dangerous
+carbine, dangerous
+dagger, dangerous
+axe, dangerous used_in_cooking made_of_wood
+blade, dangerous used_in_cooking made_of_wood
+harpoon, dangerous made_of_wood
+flamethrower, dangerous
+warhead, dangerous
+gangster, dangerous
+nightstick, dangerous
+spear, dangerous made_of_wood
+poison, dangerous
+handgun, dangerous dangerous
+gunman, dangerous
+crossbow, dangerous made_of_wood
+weapon, dangerous dangerous
+blowgun, dangerous
+grenade, dangerous dangerous
+murderer, dangerous
+rifle, dangerous made_of_wood
+phencyclidine, dangerous
+shotgun, dangerous dangerous made_of_wood
+firearm, dangerous dangerous
+pistol, dangerous dangerous
+reduviidae, dangerous
+sniper, dangerous
+revolver, dangerous dangerous
+assassin, dangerous
+gun, dangerous made_of_wood
+bullet, dangerous
+barbel, found_in_seas
+seafood, found_in_seas
+cuttlefish, found_in_seas
+abalone, found_in_seas found_in_seas
+mysis, found_in_seas
+kelp, found_in_seas
+homarus, found_in_seas
+fishery, found_in_seas found_in_seas
+tilapia, found_in_seas
+haliotis, found_in_seas
+zooplankton, found_in_seas
+crustacean, found_in_seas found_in_seas
+crayfish, found_in_seas
+bathyal, found_in_seas
+amphipod, found_in_seas
+shellfish, found_in_seas
+bycatch, found_in_seas
+pizzeria, used_in_cooking
+apron, used_in_cooking
+microwave, used_in_cooking
+taco, used_in_cooking
+teaspoon, used_in_cooking
+burrito, used_in_cooking
+strainer, used_in_cooking
+slaw, used_in_cooking
+hummus, used_in_cooking
+stew, used_in_cooking
+vermicelli, used_in_cooking
+kebab, used_in_cooking
+tablespoon, used_in_cooking
+spoon, used_in_cooking made_of_wood
+gravy, used_in_cooking
+topping, used_in_cooking
+marinara, used_in_cooking
+risotto, used_in_cooking
+grater, used_in_cooking
+steak, used_in_cooking
+brioche, used_in_cooking
+congee, used_in_cooking
+chorizo, used_in_cooking
+flour, used_in_cooking
+confit, used_in_cooking
+baggage, female
+knockout, female
+cyprian, female
+rover, female
+chit, female
+scouter, female
+gal, female
+robert, female
+peri, female
+looker, female
+smasher, female
+hooker, female
+stunner, female
+sheikha, female
+brother, female
+hustler, female
+dame, female
+crone, female
+bachelorette, female
+siren, female
+bimbo, female
+sylph, female
+uncle, female
+homemaker, female
+hag, female
+virago, female
+minx, female
+missus, female
+viscountess, female
+lassie, female
+babe, female
+mayoress, female
+lass, female
+jezebel, female
+lulu, female
+maiden, female
+cousin, female
+vamp, female
+begum, female
+beauty, female
+geisha, female
+marchioness, female
+granny, female
+vicereine, female
+odalisque, female
+nymph, female
+paramour, female
+flapper, female
+mammy, female
+wench, female
+coquette, female
+dominatrix, female
+enchantress, female
+baby, female
+girlfriend, female female
+matriarch, female
+mistress, female female
+moppet, female
+charwoman, female
+diva, female
+gentlewoman, female
+adventuress, female
+ogress, female
+princess, female female
+husband, female
+nurse, female
+seductress, female
+harlot, female
+dowager, female
+maid, female female
+blandish, female
+stepsister, female
+inanna, female
+heroine, female female
+cinderella, female
+duchess, female
+granddaughter, female
+concubine, female
+nun, female
+whore, female
+stepdaughter, female
+barmaid, female
+sister, female
+suitor, female
+housemaid, female
+sexpot, female
+damsel, female
+witch, female
+noblewoman, female
+love, female female
+tomboy, female
+hostess, female
+millionairess, female
+heiress, female
+landlady, female
+countess, female
+temptress, female
+godmother, female
+daughter, female female
+fanny, female
+actress, female female
+ballerina, female
+matron, female
+dancer, female
+boyfriend, female
+widow, female
+showgirl, female
+sweetheart, female
+bridesmaid, female
+governess, female
+fiance, female
+wife, female
+housekeeper, female
+grandmother, female
+bride, female
+housewife, female
+waitress, female
+niece, female
+madam, female
+stepmother, female
+mother, female
+socialite, female
+courtesan, female
+lady, female
+aunt, female
+lover, female
+woman, female
+prostitute, female
+girl, female
+piton, wheels
+rim, wheels
+sledging, wheels
+stage, wheels
+cycle, wheels
+finisher, wheels
+coach, wheels
+winch, wheels
+wheelchair, wheels
+horsecar, wheels wings
+auto, wheels
+train, wheels
+flatbed, wheels wings
+streamliner, wheels
+sidecar, wheels
+undercarriage, wheels
+motorbus, wheels
+driver, wheels
+motor, wheels
+garage, wheels
+underframe, wheels
+bodywork, wheels
+minibus, wheels
+luggage, wheels
+wheelbase, wheels
+charabanc, wheels
+suv, wheels
+diesel, wheels
+passenger, wheels
+automobile, wheels wheels wings
+viceroy, wings
+dobson, wings
+miller, wings
+egger, wings
+worker, wings
+deathwatch, wings
+soldier, wings
+archangel, wings
+admiral, wings
+hopper, wings
+angel, wings
+searcher, wings
+copper, wings
+eggar, wings
+seraph, wings
+chrysalis, wings
+comma, wings
+imago, wings
+cherub, wings
+cinnabar, wings
+cootie, wings
+firefly, wings
+monarch, wings
+capsid, wings
+gadfly, wings
+bug, wings
+ladybug, wings
+cochineal, wings
+gnat, wings
+tsetse, wings
+drosophila, wings
+scarab, wings
+midge, wings
+pupa, wings
+bluebottle, wings
+sandfly, wings
+honeybee, wings
+glowworm, wings
+louse, wings
+termite, wings
+blowfly, wings
+mantis, wings
+weevil, wings
+bumblebee, wings
+cicada, wings
+pollinator, wings
+psyllid, wings
+cecropia, wings
+thrip, wings
+aphid, wings
+earwig, wings
+whitefly, wings
+ringlet, wings
+dipteran, wings
+leafhopper, wings
+fritillary, wings
+katydid, wings
+sawfly, wings
+mealybug, wings
+hawkmoth, wings
+hairstreak, wings
+armyworm, wings
+tortrix, wings
+damselfly, wings
+calosoma, wings
+chalcid, wings
+deal, made_of_wood
+ruler, made_of_wood
+board, made_of_wood
+wale, made_of_wood
+throne, made_of_wood
+trave, made_of_wood
+castle, made_of_wood
+puppet, made_of_wood
+bell, made_of_wood
+bench, made_of_wood
+header, made_of_wood
+shore, made_of_wood
+strip, made_of_wood
+stringer, made_of_wood
+cork, made_of_wood
+hutch, made_of_wood
+anchor, made_of_wood
+gate, made_of_wood
+ridge, made_of_wood
+chair, made_of_wood
+cradle, made_of_wood
+splat, made_of_wood
+armchair, made_of_wood
+bagpipe, made_of_wood
+dice, made_of_wood
+clock, made_of_wood
+birch, made_of_wood
+shield, made_of_wood
+trumpet, made_of_wood
+swing, made_of_wood
+oak, made_of_wood
+spline, made_of_wood
+cello, made_of_wood
+batten, made_of_wood
+bridge, made_of_wood
+rafter, made_of_wood
+louver, made_of_wood
+desk, made_of_wood
+cushion, made_of_wood
+harp, made_of_wood
+bellow, made_of_wood
+whistle, made_of_wood
+violin, made_of_wood
+lumber, made_of_wood
+stool, made_of_wood
+slat, made_of_wood
+strake, made_of_wood
+guitar, made_of_wood
+tambourine, made_of_wood
+raft, made_of_wood
+coffin, made_of_wood
+cantilever, made_of_wood
+accordion, made_of_wood
+ladle, made_of_wood
+brush, made_of_wood
+lath, made_of_wood
+plank, made_of_wood made_of_wood
+cymbal, made_of_wood
+beam, made_of_wood made_of_wood
+bookcase, made_of_wood
+pencil, made_of_wood
+keel, made_of_wood
+fence, made_of_wood
+spindle, made_of_wood
+bamboo, made_of_wood
+girder, made_of_wood made_of_wood
+modillion, made_of_wood made_of_wood
+steerer, made_of_wood
+grommet, made_of_wood
+plywood, made_of_wood
+turnbuckle, made_of_wood
+truss, made_of_wood
+holster, made_of_wood
+wire, made_of_wood
+eyelet, made_of_wood made_of_wood
+pintle, made_of_wood
+wood, made_of_wood
+handrail, made_of_wood made_of_wood
+trestle, made_of_wood
+binnacle, made_of_wood
+saw, made_of_wood
+microtome, made_of_wood
+transom, made_of_wood
+railing, made_of_wood
+stick, made_of_wood
+armrest, made_of_wood
+dowel, made_of_wood made_of_wood
+timber, made_of_wood
+floorboard, made_of_wood
+bedstead, made_of_wood
+joist, made_of_wood made_of_wood
+fuselage, made_of_wood
+outrigger, made_of_wood
+weatherboard, made_of_wood
+rudder, made_of_wood
+scabbard, made_of_wood
+deck, made_of_wood
+cleat, made_of_wood
+oar, made_of_wood
+soffit, made_of_wood
+staysail, made_of_wood
+fipple, made_of_wood
+hardboard, made_of_wood
+centreboard, made_of_wood
+soundbox, made_of_wood
+centerboard, made_of_wood
+crossbeam, made_of_wood
+gunwale, made_of_wood made_of_wood

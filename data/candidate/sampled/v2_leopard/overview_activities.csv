@@ -1,0 +1,5 @@
+property,pos,neg,pos/neg,total
+swim,57,61,62,180
+roll,4,1,115,120
+lay_eggs,61,61,32,154
+fly,58,61,61,180

@@ -1,0 +1,415 @@
+property,lemma,label,certainty,sources_str
+wheels,sleigh,neg,certain,manually_included
+wheels,boat,neg,certain,cslb_crowd_neg manually_included
+wheels,ship,neg,certain,cslb_crowd_neg manually_included
+wheels,tugboat,neg,certain,cslb_crowd_neg
+wheels,frigate,neg,certain,cslb_crowd_neg
+wheels,vessel,neg,certain,cslb_crowd_neg
+wheels,winch,neg,certain,cslb_crowd_neg
+wheels,piton,neg,certain,cslb_crowd_neg
+wheels,toboggan,neg,certain,cslb_crowd_neg
+wheels,battleship,neg,certain,cslb_crowd_neg
+wheels,yacht,neg,certain,cslb_crowd_neg
+wheels,packhorse,neg,certain,cslb_crowd_neg
+wheels,freighter,neg,certain,cslb_crowd_neg
+wheels,schooner,neg,certain,cslb_crowd_neg
+wheels,trawler,neg,certain,cslb_crowd_neg
+wheels,warship,neg,certain,cslb_crowd_neg
+wheels,train,pos,certain,cslb manually_included
+wheels,sedan,neg,certain,wikipedia_sgns_model wn_parts manually_included
+wheels,unicycle,pos,certain,wn_parts cslb manually_included
+wheels,carriage,pos,certain,wn_parts cslb manually_included
+wheels,car,pos,certain,wikipedia_sgns_model wn_parts mcrae cslb manually_included
+wheels,trap,pos,not_certain,wn_parts
+wheels,coupe,pos,not_certain,wn_parts
+wheels,stage,pos,not_certain,wn_parts
+wheels,hearse,pos,not_certain,wn_parts
+wheels,stanhope,pos,not_certain,wn_parts
+wheels,hackney,pos,not_certain,wn_parts
+wheels,handcart,pos,not_certain,wn_parts
+wheels,van,neg/pos/pos,uncertain,wn_parts cslb wikipedia_sgns_model wn_parts cslb wikipedia_sgns_model
+wheels,bike,pos,certain,wikipedia_sgns_model wn_parts mcrae cslb_crowd_pos
+wheels,phaeton,pos,not_certain,wn_parts
+wheels,trolley,pos,not_certain,wn_parts cslb
+wheels,racer,pos,not_certain,wn_parts
+wheels,cat,pos,not_certain,wn_parts
+wheels,saloon,pos,not_certain,wn_parts
+wheels,lorry,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts cslb wikipedia_sgns_model wn_parts cslb
+wheels,runabout,pos,not_certain,wn_parts
+wheels,automobile,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts wikipedia_sgns_model wn_parts
+wheels,cart,pos,not_certain,wn_parts cslb
+wheels,gondola,pos,not_certain,wn_parts
+wheels,rim,pos,not_certain,wn_parts
+wheels,chaise,pos,not_certain,wn_parts
+wheels,cruiser,pos,not_certain,wn_parts
+wheels,jeep,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts cslb wikipedia_sgns_model wn_parts cslb
+wheels,engine,pos,not_certain,wn_parts
+wheels,ambulance,pos,not_certain,wn_parts cslb
+wheels,rig,pos,not_certain,wn_parts
+wheels,oxcart,pos,not_certain,wn_parts
+wheels,snowmobile,pos,not_certain,wn_parts
+wheels,tank,pos,not_certain,wn_parts
+wheels,wagon,pos,certain,wikipedia_sgns_model wn_parts cslb_crowd_pos
+wheels,motorcar,pos,not_certain,wn_parts
+wheels,carrier,pos,not_certain,wn_parts
+wheels,stagecoach,pos,not_certain,wn_parts
+wheels,taxicab,pos,not_certain,wn_parts
+wheels,motorbike,pos,certain,wikipedia_sgns_model wn_parts cslb_crowd_pos
+wheels,dray,pos,not_certain,wn_parts
+wheels,truck,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts cslb wikipedia_sgns_model wn_parts cslb
+wheels,rickshaw,pos,certain,wn_parts cslb_crowd_pos
+wheels,heap,pos,not_certain,wn_parts
+wheels,pedicab,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model wn_parts wikipedia_sgns_model
+wheels,wheel,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts wikipedia_sgns_model wikipedia_sgns_model wn_parts wikipedia_sgns_model
+wheels,equipage,pos,not_certain,wn_parts
+wheels,snowplow,pos,not_certain,wn_parts
+wheels,limousine,pos,not_certain,wn_parts cslb
+wheels,locomotive,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts wikipedia_sgns_model wn_parts
+wheels,caravan,pos,not_certain,wn_parts cslb
+wheels,hack,pos,not_certain,wn_parts
+wheels,motorcycle,neg/pos/pos,uncertain,wn_parts cslb wikipedia_sgns_model wn_parts cslb wikipedia_sgns_model
+wheels,dumper,pos,not_certain,wn_parts
+wheels,diner,pos,not_certain,wn_parts
+wheels,coach,pos,not_certain,wn_parts
+wheels,pram,pos,not_certain,wn_parts cslb
+wheels,buggy,pos,certain,wikipedia_sgns_model wn_parts mcrae cslb
+wheels,cabriolet,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts wikipedia_sgns_model wn_parts
+wheels,auto,pos,not_certain,wn_parts
+wheels,machine,pos,not_certain,wn_parts
+wheels,sidecar,neg/pos,not_certain,wikipedia_sgns_model
+wheels,axle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+wheels,brake,neg/pos,not_certain,wikipedia_sgns_model
+wheels,chassis,neg/pos,not_certain,wikipedia_sgns_model
+wheels,underframe,neg/pos,not_certain,wikipedia_sgns_model
+wheels,luggage,neg/pos,not_certain,wikipedia_sgns_model
+wheels,passenger,neg/pos,not_certain,wikipedia_sgns_model
+wheels,bogie,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+wheels,railcar,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+wheels,motor,neg/pos,not_certain,wikipedia_sgns_model
+wheels,undercarriage,neg/pos,not_certain,wikipedia_sgns_model
+wheels,driver,neg/pos,not_certain,wikipedia_sgns_model
+wheels,roadster,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+wheels,streetcar,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wheels,footrest,neg/pos,not_certain,wikipedia_sgns_model
+wheels,tram,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wheels,windshield,neg/pos,not_certain,wikipedia_sgns_model
+wheels,bicycle,neg/pos/pos,uncertain,wn_parts cslb wikipedia_sgns_model
+wheels,minivan,pos,certain,wikipedia_sgns_model wn_parts cslb_crowd_pos
+wheels,vehicle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+wheels,motorbus,neg/pos,not_certain,wikipedia_sgns_model
+wheels,flatcar,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wheels,streamliner,neg/pos,not_certain,wikipedia_sgns_model
+wheels,bus,pos,certain,wn_parts mcrae cslb
+wheels,diesel,neg/pos,not_certain,wikipedia_sgns_model
+wheels,suv,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+wheels,scooter,pos,certain,wikipedia_sgns_model wn_parts cslb_crowd_pos
+wheels,tramcar,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wheels,backhoe,neg/pos,not_certain,wikipedia_sgns_model
+wheels,tire,neg/pos,not_certain,wikipedia_sgns_model
+wheels,charabanc,neg/pos,not_certain,wikipedia_sgns_model
+wheels,airplane,neg/pos,not_certain,wikipedia_sgns_model
+wheels,tractor,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts cslb
+wheels,cab,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+wheels,wheelbase,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+wheels,garage,neg/pos,not_certain,wikipedia_sgns_model
+wheels,bodywork,neg/pos,not_certain,wikipedia_sgns_model
+wheels,trailer,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+wings,helicopter,neg,certain,manually_included
+wings,boxcar,neg,not_certain,wn_parts
+wings,machine,neg,not_certain,wn_parts
+wings,lorry,neg,not_certain,wn_parts
+wings,cat,neg,not_certain,wn_parts
+wings,snowplow,neg,not_certain,wn_parts
+wings,truck,neg,not_certain,wn_parts
+wings,bike,neg,not_certain,wn_parts
+wings,saloon,neg,not_certain,wn_parts
+wings,tramcar,neg,not_certain,wn_parts
+wings,diner,neg,not_certain,wn_parts
+wings,heap,neg,not_certain,wn_parts
+wings,subcompact,neg,not_certain,wn_parts
+wings,car,neg,not_certain,wn_parts
+wings,bandwagon,neg,not_certain,wn_parts
+wings,phaeton,neg,not_certain,wn_parts
+wings,pushcart,neg,not_certain,wn_parts
+wings,trap,neg,not_certain,wn_parts
+wings,cruiser,neg,not_certain,wn_parts
+wings,racer,neg,not_certain,wn_parts
+wings,cart,neg,not_certain,wn_parts
+wings,rig,neg,not_certain,wn_parts
+wings,flatcar,neg,not_certain,wn_parts
+wings,camper,neg,not_certain,wn_parts
+wings,limo,neg,not_certain,wn_parts
+wings,tipper,neg,not_certain,wn_parts
+wings,wheel,neg,not_certain,wn_parts
+wings,gondola,neg,not_certain,wn_parts
+wings,wrecker,neg,not_certain,wn_parts
+wings,van,neg,not_certain,wn_parts
+wings,carriage,neg,not_certain,wn_parts
+wings,trolley,neg,not_certain,wn_parts
+wings,motorcycle,neg,not_certain,wn_parts
+wings,hack,neg,not_certain,wn_parts
+wings,hearse,neg,not_certain,wn_parts
+wings,waggon,neg,not_certain,wn_parts
+wings,jalopy,neg,not_certain,wn_parts
+wings,automobile,neg,not_certain,wn_parts
+wings,scrambler,neg,not_certain,wn_parts
+wings,minicab,neg,not_certain,wn_parts
+wings,tourer,neg,not_certain,wn_parts
+wings,skateboard,neg,not_certain,wn_parts
+wings,caravan,neg,not_certain,wn_parts
+wings,sleeper,neg,not_certain,wn_parts
+wings,engine,neg,not_certain,wn_parts
+wings,wagon,neg,not_certain,wn_parts
+wings,carrier,neg,not_certain,wn_parts
+wings,dumper,neg,not_certain,wn_parts
+wings,bus,neg,not_certain,wn_parts
+wings,clarence,neg,not_certain,wn_parts
+wings,cabriolet,neg,not_certain,wn_parts
+wings,smoker,neg,not_certain,wn_parts
+wings,tractor,neg,not_certain,wn_parts
+wings,locomotive,neg,not_certain,wn_parts
+wings,sedan,neg,not_certain,wn_parts
+wings,surrey,neg,not_certain,wn_parts
+wings,cab,neg,not_certain,wn_parts
+wings,stroller,neg,not_certain,wn_parts
+wings,pickup,neg,not_certain,wn_parts
+wings,oxcart,neg,not_certain,wn_parts
+wings,chicken,pos,certain,wn_parts manually_included
+wings,crane,pos,certain,wn_parts manually_included
+wings,kite,neg,certain,wn_parts manually_included
+wings,airplane,pos,certain,wn_parts manually_included
+wings,skimmer,pos,not_certain,wn_parts
+wings,monarch,pos,not_certain,wn_parts
+wings,queen,pos,not_certain,wn_parts
+wings,thrasher,pos,not_certain,wn_parts
+wings,accentor,pos,not_certain,wn_parts
+wings,dragonfly,pos,not_certain,wn_parts
+wings,loon,pos,not_certain,wn_parts
+wings,grackle,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model wn_parts wikipedia_sgns_model
+wings,hen,pos,not_certain,wn_parts
+wings,egret,pos,not_certain,wn_parts
+wings,eagle,pos,not_certain,wn_parts
+wings,poll,pos,not_certain,wn_parts
+wings,swiftlet,pos,not_certain,wn_parts
+wings,crab,pos,not_certain,wn_parts
+wings,gadfly,pos,not_certain,wn_parts
+wings,scoter,pos,not_certain,wn_parts
+wings,skylark,pos,not_certain,wn_parts
+wings,albatross,pos,not_certain,wn_parts
+wings,hydroplane,pos,not_certain,wn_parts
+wings,owl,pos,not_certain,wn_parts
+wings,sheldrake,pos,not_certain,wn_parts
+wings,oriole,pos,not_certain,wn_parts
+wings,vireo,pos,not_certain,wn_parts
+wings,whitethroat,pos,not_certain,wn_parts
+wings,bunting,pos,not_certain,wn_parts
+wings,eider,pos,not_certain,wn_parts
+wings,harpy,pos,not_certain,wn_parts
+wings,hoopoe,pos,not_certain,wn_parts
+wings,jet,pos,not_certain,wn_parts
+wings,peregrine,pos,not_certain,wn_parts
+wings,duck,pos,not_certain,wn_parts
+wings,barnacle,pos,not_certain,wn_parts
+wings,creeper,pos,not_certain,wn_parts
+wings,quail,pos,not_certain,wn_parts
+wings,courser,pos,not_certain,wn_parts
+wings,hawk,pos,not_certain,wn_parts
+wings,marabout,pos,not_certain,wn_parts
+wings,crow,pos,not_certain,wn_parts
+wings,catbird,pos,not_certain,wn_parts
+wings,viceroy,pos,not_certain,wn_parts
+wings,pintail,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model wn_parts wikipedia_sgns_model
+wings,merle,pos,not_certain,wn_parts
+wings,emperor,pos,not_certain,wn_parts
+wings,flicker,pos,not_certain,wn_parts
+wings,weka,pos,not_certain,wn_parts
+wings,pigeon,pos,not_certain,wn_parts
+wings,stilt,pos,not_certain,wn_parts
+wings,robin,pos,not_certain,wn_parts
+wings,wren,pos,not_certain,wn_parts
+wings,kea,pos,not_certain,wn_parts
+wings,cricket,pos,not_certain,wn_parts
+wings,diver,pos,not_certain,wn_parts
+wings,airliner,pos,not_certain,wn_parts
+wings,crake,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model wn_parts wikipedia_sgns_model
+wings,rooster,pos,not_certain,wn_parts
+wings,rail,pos,not_certain,wn_parts
+wings,spoonbill,pos,not_certain,wn_parts
+wings,procellariidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,bird,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+wings,strigidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,cotingidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,pipit,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wings,timaliidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,grosbeak,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wings,alaudidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,apodidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,laridae,neg/pos,not_certain,wikipedia_sgns_model
+wings,fringillidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,muscicapa,neg/pos,not_certain,wikipedia_sgns_model
+wings,caprimulgus,neg/pos,not_certain,wikipedia_sgns_model
+wings,phalacrocorax,neg/pos,not_certain,wikipedia_sgns_model
+wings,tropicbird,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+wings,puffinus,neg/pos,not_certain,wikipedia_sgns_model
+wings,calidris,neg/pos,not_certain,wikipedia_sgns_model
+wings,motacilla,neg/pos,not_certain,wikipedia_sgns_model
+wings,emberizidae,neg/pos,not_certain,wikipedia_sgns_model
+wings,trogon,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wings,haliaeetus,neg/pos,not_certain,wikipedia_sgns_model
+wings,charadrius,neg/pos,not_certain,wikipedia_sgns_model
+wings,currawong,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wings,paridae,neg/pos,not_certain,wikipedia_sgns_model
+wings,merganser,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model
+wings,icteridae,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,pen,neg,certain,manually_included
+made_of_wood,laptop,neg,certain,manually_included
+made_of_wood,saxophone,neg,certain,manually_included
+made_of_wood,trumpet,neg,certain,cslb_crowd_neg manually_included
+made_of_wood,cannon,neg,certain,cslb_crowd_neg
+made_of_wood,cymbal,neg,certain,cslb_crowd_neg
+made_of_wood,date,neg,certain,cslb_crowd_neg
+made_of_wood,anchor,neg,certain,cslb_crowd_neg
+made_of_wood,gun,neg,certain,cslb_crowd_neg
+made_of_wood,cushion,neg,certain,cslb_crowd_neg
+made_of_wood,rock,neg,certain,cslb_crowd_neg
+made_of_wood,bell,neg,certain,cslb_crowd_neg
+made_of_wood,pencil,pos,certain,cslb manually_included
+made_of_wood,table,pos,certain,cslb manually_included
+made_of_wood,boat,pos,certain,cslb manually_included
+made_of_wood,chair,pos,certain,cslb manually_included
+made_of_wood,violin,pos,certain,cslb manually_included
+made_of_wood,bass,pos,certain,manually_included
+made_of_wood,guitar,pos,certain,cslb manually_included
+made_of_wood,flute,pos,certain,manually_included
+made_of_wood,button,pos,not_certain,cslb
+made_of_wood,kayak,pos,not_certain,cslb
+made_of_wood,club,pos,not_certain,cslb
+made_of_wood,lath,pos,not_certain,wn_parts
+made_of_wood,fence,pos,not_certain,cslb
+made_of_wood,deal,pos,not_certain,wn_parts
+made_of_wood,barrel,pos,not_certain,cslb
+made_of_wood,drum,pos,not_certain,cslb
+made_of_wood,rafter,pos,not_certain,wn_parts
+made_of_wood,spear,pos,not_certain,cslb
+made_of_wood,trowel,pos,not_certain,cslb
+made_of_wood,tray,pos,not_certain,cslb
+made_of_wood,bookcase,pos,not_certain,cslb
+made_of_wood,mop,pos,not_certain,cslb
+made_of_wood,corkscrew,pos,not_certain,cslb
+made_of_wood,axe,pos,not_certain,cslb
+made_of_wood,clock,pos,not_certain,cslb
+made_of_wood,lumber,pos,not_certain,wn_parts
+made_of_wood,stock,pos,not_certain,wn_parts
+made_of_wood,fingerboard,pos,not_certain,wn_parts
+made_of_wood,ruler,pos,not_certain,cslb
+made_of_wood,plough,pos,not_certain,cslb
+made_of_wood,beam,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model wn_parts wikipedia_sgns_model
+made_of_wood,brush,pos,not_certain,cslb
+made_of_wood,cello,pos,not_certain,cslb
+made_of_wood,strake,pos,not_certain,wn_parts
+made_of_wood,houseboat,pos,not_certain,cslb
+made_of_wood,fir,pos,not_certain,cslb
+made_of_wood,window,pos,not_certain,cslb
+made_of_wood,hutch,pos,not_certain,cslb
+made_of_wood,chisel,pos,not_certain,cslb
+made_of_wood,spindle,pos,not_certain,wn_parts
+made_of_wood,timber,pos,not_certain,wn_parts
+made_of_wood,oak,pos,not_certain,cslb
+made_of_wood,joist,neg/pos/pos,uncertain,wn_parts wikipedia_sgns_model wn_parts wikipedia_sgns_model
+made_of_wood,puppet,pos,not_certain,cslb
+made_of_wood,wheelbarrow,pos,not_certain,cslb
+made_of_wood,broom,pos,not_certain,cslb
+made_of_wood,ladder,pos,not_certain,cslb
+made_of_wood,toothpick,pos,not_certain,wn_parts
+made_of_wood,ladle,pos,not_certain,cslb
+made_of_wood,pine,pos,not_certain,cslb
+made_of_wood,bagpipe,pos,not_certain,cslb
+made_of_wood,harp,pos,not_certain,cslb
+made_of_wood,rake,pos,not_certain,cslb
+made_of_wood,board,pos,not_certain,wn_parts
+made_of_wood,stringer,pos,not_certain,wn_parts
+made_of_wood,spade,pos,not_certain,cslb
+made_of_wood,bridge,pos,not_certain,cslb
+made_of_wood,hardboard,pos,not_certain,wn_parts
+made_of_wood,arrow,pos,not_certain,cslb
+made_of_wood,trave,pos,not_certain,wn_parts
+made_of_wood,stool,pos,not_certain,cslb
+made_of_wood,peg,neg/pos/pos,uncertain,cslb wikipedia_sgns_model
+made_of_wood,wood,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,modillion,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,fireplace,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,paddle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,screw,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,deck,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,fuselage,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,chock,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,sword,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,rope,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,pulley,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,stick,neg/pos/pos,uncertain,wikipedia_sgns_model cslb
+made_of_wood,shaft,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,ferrule,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,outrigger,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,bow,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,rudder,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,knife,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,trestle,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,blade,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,soundbox,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,scabbard,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,pintle,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,oar,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,rail,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,pin,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,handrail,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,chimney,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,pedal,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,eyelet,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,plunger,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,railing,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,strap,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,wire,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,fipple,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,clapboard,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,gunwale,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+made_of_wood,aerator,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,mandrel,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,binnacle,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,crosshead,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,forepaw,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,headstock,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,weatherboard,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,flatcar,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,roof,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,centreboard,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,saw,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,bamboo,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,truss,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,windshield,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,chamfer,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,wheel,neg/pos/pos,uncertain,wikipedia_sgns_model cslb
+made_of_wood,noseband,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,staysail,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,tappet,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,holster,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,floorboard,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,breechblock,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,footrest,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,dowel,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+made_of_wood,transom,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,centerboard,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,rod,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,microtome,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,turnbuckle,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,kickstand,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,girder,neg/pos/pos,uncertain,wikipedia_sgns_model wn_parts
+made_of_wood,soffit,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,armrest,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,plank,neg/pos/pos,uncertain,wn_parts wn_parts wikipedia_sgns_model
+made_of_wood,washtub,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,sporran,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,carabiner,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,steerer,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,plywood,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,bedstead,neg/pos,not_certain,wikipedia_sgns_model
+made_of_wood,grommet,neg/pos,not_certain,wikipedia_sgns_model

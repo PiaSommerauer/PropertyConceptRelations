@@ -1,0 +1,635 @@
+property,lemma,label,certainty,sources_str
+swim,crane,neg,not_certain,wn_hypernym
+swim,antbird,neg,not_certain,wn_hypernym
+swim,poultry,neg,not_certain,wn_hypernym
+swim,osprey,neg,not_certain,wn_hypernym
+swim,scoter,neg,not_certain,wn_hypernym
+swim,goldeneye,neg,not_certain,wn_hypernym
+swim,goldfinch,neg,not_certain,wn_hypernym
+swim,lark,neg,not_certain,wn_hypernym
+swim,partridge,neg,not_certain,wn_hypernym
+swim,hobby,neg,not_certain,wn_hypernym
+swim,pewee,neg,not_certain,wn_hypernym
+swim,skylark,neg,not_certain,wn_hypernym
+swim,ibis,neg,not_certain,wn_hypernym
+swim,chicken,neg,not_certain,wn_hypernym
+swim,plover,neg,not_certain,wn_hypernym
+swim,owl,neg,not_certain,wn_hypernym
+swim,albatross,neg,not_certain,wn_hypernym
+swim,rail,neg,not_certain,wn_hypernym
+swim,emu,neg,not_certain,wn_hypernym
+swim,willet,neg,not_certain,wn_hypernym
+swim,kittiwake,neg,not_certain,wn_hypernym
+swim,darter,neg,not_certain,wn_hypernym
+swim,barbet,neg,not_certain,wn_hypernym
+swim,courser,neg,not_certain,wn_hypernym
+swim,loon,neg,not_certain,wn_hypernym
+swim,eagle,neg,not_certain,wn_hypernym
+swim,accentor,neg,not_certain,wn_hypernym
+swim,nightingale,neg,not_certain,wn_hypernym
+swim,canary,neg,not_certain,wn_hypernym
+swim,titmouse,neg,not_certain,wn_hypernym
+swim,flicker,neg,not_certain,wn_hypernym
+swim,buzzard,neg,not_certain,wn_hypernym
+swim,quail,neg,not_certain,wn_hypernym
+swim,lory,neg,not_certain,wn_hypernym
+swim,lapwing,neg,not_certain,wn_hypernym
+swim,scaup,neg,not_certain,wn_hypernym
+swim,griffon,neg,not_certain,wn_hypernym
+swim,redhead,neg,not_certain,wn_hypernym
+swim,tit,neg,not_certain,wn_hypernym
+swim,cockatoo,neg,not_certain,wn_hypernym
+swim,poll,neg,not_certain,wn_hypernym
+swim,stint,neg,not_certain,wn_hypernym
+swim,parakeet,neg,not_certain,wn_hypernym
+swim,curassow,neg,not_certain,wn_hypernym
+swim,crow,neg,not_certain,wn_hypernym
+swim,stork,neg,not_certain,wn_hypernym
+swim,falcon,neg,not_certain,wn_hypernym
+swim,grayback,neg,not_certain,wn_hypernym
+swim,roaster,neg,not_certain,wn_hypernym
+swim,duckling,neg,not_certain,wn_hypernym
+swim,diver,neg,not_certain,wn_hypernym
+swim,wheatear,neg,not_certain,wn_hypernym
+swim,robin,neg,not_certain,wn_hypernym
+swim,nester,neg,not_certain,wn_hypernym
+swim,cock,neg,not_certain,wn_hypernym
+swim,roller,neg,not_certain,wn_hypernym
+swim,sheldrake,neg,not_certain,wn_hypernym
+swim,thornbill,neg,not_certain,wn_hypernym
+swim,meadowlark,neg,not_certain,wn_hypernym
+swim,pen,neg,not_certain,wn_hypernym
+swim,dipper,neg,not_certain,wn_hypernym
+swim,bass,pos,certain,wn_hypernym manually_included
+swim,turtle,neg,certain,cslb wn_hypernym manually_included
+swim,whale,pos,certain,conceptnet cslb wn_hypernym manually_included
+swim,ship,pos,certain,manually_included
+swim,torpedo,pos,not_certain,wn_hypernym
+swim,stickleback,pos,not_certain,wn_hypernym
+swim,drum,pos,not_certain,wn_hypernym
+swim,gunnel,pos,not_certain,wn_hypernym
+swim,croaker,pos,not_certain,wn_hypernym
+swim,fish,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym conceptnet
+swim,sawfish,pos,not_certain,wn_hypernym
+swim,shrimp,pos,not_certain,cslb
+swim,shad,pos,not_certain,wn_hypernym
+swim,roach,pos,not_certain,wn_hypernym
+swim,hind,pos,not_certain,wn_hypernym
+swim,mademoiselle,pos,not_certain,wn_hypernym
+swim,plaice,pos,not_certain,wn_hypernym
+swim,beaver,pos,not_certain,cslb wn_hypernym
+swim,rockfish,pos,not_certain,wn_hypernym
+swim,herring,pos,not_certain,cslb wn_hypernym
+swim,otter,pos,not_certain,cslb wn_hypernym
+swim,grenadier,pos,not_certain,wn_hypernym
+swim,permit,pos,not_certain,wn_hypernym
+swim,smallmouth,pos,not_certain,wn_hypernym
+swim,jack,pos,not_certain,wn_hypernym
+swim,hake,pos,not_certain,wn_hypernym
+swim,burbot,pos,not_certain,wn_hypernym
+swim,sturgeon,pos,not_certain,wn_hypernym
+swim,shark,pos,not_certain,cslb wn_hypernym conceptnet
+swim,sunfish,pos,not_certain,wn_hypernym
+swim,duck,pos,not_certain,cslb wn_hypernym
+swim,albacore,pos,not_certain,wn_hypernym
+swim,cobia,pos,not_certain,wn_hypernym
+swim,frog,pos,not_certain,cslb conceptnet
+swim,grindle,pos,not_certain,wn_hypernym
+swim,coho,pos,not_certain,wn_hypernym
+swim,perch,pos,not_certain,wn_hypernym
+swim,halfbeak,pos,not_certain,wn_hypernym
+swim,bluefish,pos,not_certain,wn_hypernym
+swim,ray,pos,not_certain,wn_hypernym
+swim,thresher,pos,not_certain,wn_hypernym
+swim,catfish,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+swim,goatfish,pos,not_certain,wn_hypernym
+swim,octopus,pos,not_certain,cslb
+swim,silverfish,pos,not_certain,wn_hypernym
+swim,trout,pos,not_certain,cslb wn_hypernym
+swim,char,pos,not_certain,wn_hypernym
+swim,schoolmaster,pos,not_certain,wn_hypernym
+swim,guppy,pos,not_certain,wn_hypernym
+swim,rattail,pos,not_certain,wn_hypernym
+swim,cyprinid,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+swim,seahorse,pos,not_certain,cslb wn_hypernym
+swim,sucker,pos,not_certain,wn_hypernym
+swim,sleeper,pos,not_certain,wn_hypernym
+swim,sardine,pos,not_certain,cslb wn_hypernym
+swim,bullhead,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+swim,silverside,pos,not_certain,wn_hypernym wn_hypernym
+swim,hippo,pos,not_certain,cslb wn_hypernym
+swim,loach,pos,not_certain,wn_hypernym
+swim,capelin,pos,not_certain,wn_hypernym
+swim,cod,pos,not_certain,cslb wn_hypernym
+swim,tortoise,pos,certain,wn_hypernym manually_included
+swim,dog,pos,certain,wn_hypernym manually_included
+swim,cat,pos,certain,wn_hypernym manually_included
+swim,mouse,pos/neg,not_certain,wn_hypernym
+swim,world,pos/neg,not_certain,wn_hypernym
+swim,vervet,pos/neg,not_certain,wn_hypernym
+swim,bloodhound,pos/neg,not_certain,wn_hypernym
+swim,lechwe,pos/neg,not_certain,wn_hypernym
+swim,scyliorhinidae,neg/pos,not_certain,wikipedia_sgns_model
+swim,ram,pos/neg,not_certain,wn_hypernym
+swim,tortoiseshell,pos/neg,not_certain,wn_hypernym
+swim,retriever,pos/neg,not_certain,wn_hypernym
+swim,drill,pos/neg,not_certain,wn_hypernym
+swim,humankind,pos/neg,not_certain,wn_hypernym
+swim,puppy,pos/neg,not_certain,wn_hypernym
+swim,bonobo,pos/neg,not_certain,wn_hypernym
+swim,bunny,pos/neg,not_certain,wn_hypernym
+swim,jade,pos/neg,not_certain,wn_hypernym
+swim,killer,pos/neg,not_certain,wn_hypernym
+swim,armadillo,pos/neg,not_certain,wn_hypernym
+swim,fawn,pos/neg,not_certain,wn_hypernym
+swim,tapir,pos/neg,not_certain,wn_hypernym
+swim,chow,pos/neg,not_certain,wn_hypernym
+swim,monitor,pos/neg,not_certain,wn_hypernym
+swim,pacemaker,pos/neg,not_certain,wn_hypernym
+swim,carnosaur,pos/neg,not_certain,wn_hypernym
+swim,blenny,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+swim,gaur,pos/neg,not_certain,wn_hypernym
+swim,panther,pos/neg,not_certain,wn_hypernym
+swim,springbok,pos/neg,not_certain,wn_hypernym
+swim,ass,pos/neg,not_certain,wn_hypernym
+swim,howler,pos/neg,not_certain,wn_hypernym
+swim,bear,pos/neg,not_certain,wn_hypernym conceptnet
+swim,plesiosaurus,pos/neg,not_certain,wn_hypernym
+swim,zebra,pos/neg,not_certain,wn_hypernym
+swim,chameleon,pos/neg,not_certain,wn_hypernym
+swim,mouser,pos/neg,not_certain,wn_hypernym
+swim,bulldog,pos/neg,not_certain,wn_hypernym
+swim,lynx,pos/neg,not_certain,wn_hypernym
+swim,snake,pos/neg,not_certain,wn_hypernym
+swim,elephant,pos/neg,not_certain,wn_hypernym
+swim,pony,pos/neg,not_certain,wn_hypernym
+swim,humanity,pos/neg,not_certain,wn_hypernym
+swim,quagga,pos/neg,not_certain,wn_hypernym
+swim,bycatch,neg/pos,not_certain,wikipedia_sgns_model
+swim,gorgonian,neg/pos,not_certain,wikipedia_sgns_model
+swim,serpent,pos/neg,not_certain,wn_hypernym
+swim,steed,pos/neg,not_certain,wn_hypernym
+swim,boa,pos/neg,not_certain,wn_hypernym
+swim,queen,pos/neg,not_certain,wn_hypernym
+swim,clupeidae,neg/pos,not_certain,wikipedia_sgns_model
+swim,rattlesnake,pos/neg,not_certain,wn_hypernym
+swim,boar,pos/neg,not_certain,wn_hypernym
+swim,basset,pos/neg,not_certain,wn_hypernym
+swim,basilisk,pos/neg,not_certain,wn_hypernym
+swim,grade,pos/neg,not_certain,wn_hypernym
+swim,leopard,pos/neg,not_certain,wn_hypernym
+swim,lion,pos/neg,not_certain,wn_hypernym
+roll,pin,neg,certain,wikipedia_sgns_model manually_included
+roll,candle,pos,certain,wikipedia_sgns_model manually_included
+roll,pen,pos,certain,manually_included
+roll,ball,neg/pos/pos,uncertain,wikipedia_sgns_model cslb conceptnet wikipedia_sgns_model cslb conceptnet
+roll,pig,pos,not_certain,cslb
+roll,tyre,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+roll,wheel,neg/pos/pos,uncertain,wikipedia_sgns_model wikipedia_sgns_model cslb wikipedia_sgns_model wikipedia_sgns_model cslb
+roll,skateboard,pos,not_certain,cslb
+roll,marble,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+roll,barrel,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+roll,lathe,neg/pos,not_certain,wikipedia_sgns_model
+roll,axle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,pavement,neg/pos,not_certain,wikipedia_sgns_model
+roll,footrest,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,hammer,neg/pos,not_certain,wikipedia_sgns_model
+roll,bike,neg/pos,not_certain,wikipedia_sgns_model
+roll,fireplace,neg/pos,not_certain,wikipedia_sgns_model
+roll,bolt,neg/pos,not_certain,wikipedia_sgns_model
+roll,rope,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,lamp,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,carabiner,neg/pos,not_certain,wikipedia_sgns_model
+roll,tire,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,projectile,neg/pos,not_certain,wikipedia_sgns_model
+roll,nozzle,neg/pos,not_certain,wikipedia_sgns_model
+roll,gearshift,neg/pos,not_certain,wikipedia_sgns_model
+roll,brake,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+roll,bushing,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,millstone,neg/pos,not_certain,wikipedia_sgns_model
+roll,handlebar,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,tray,neg/pos,not_certain,wikipedia_sgns_model
+roll,grip,neg/pos,not_certain,wikipedia_sgns_model
+roll,chimney,neg/pos,not_certain,wikipedia_sgns_model
+roll,pencil,neg/pos,not_certain,wikipedia_sgns_model
+roll,calliper,neg/pos,not_certain,wikipedia_sgns_model
+roll,paint,neg/pos,not_certain,wikipedia_sgns_model
+roll,boiler,neg/pos,not_certain,wikipedia_sgns_model
+roll,kickstand,neg/pos,not_certain,wikipedia_sgns_model
+roll,shoe,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,tappet,neg/pos,not_certain,wikipedia_sgns_model
+roll,saw,neg/pos,not_certain,wikipedia_sgns_model
+roll,bearing,neg/pos,not_certain,wikipedia_sgns_model
+roll,cart,neg/pos,not_certain,wikipedia_sgns_model
+roll,cylinder,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,hose,neg/pos,not_certain,wikipedia_sgns_model
+roll,blade,neg/pos,not_certain,wikipedia_sgns_model
+roll,nut,neg/pos,not_certain,wikipedia_sgns_model
+roll,pulley,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,driveshaft,neg/pos,not_certain,wikipedia_sgns_model
+roll,handrail,neg/pos,not_certain,wikipedia_sgns_model
+roll,hubcap,neg/pos,not_certain,wikipedia_sgns_model
+roll,car,neg/pos,not_certain,wikipedia_sgns_model
+roll,firebox,neg/pos,not_certain,wikipedia_sgns_model
+roll,polyurethane,neg/pos,not_certain,wikipedia_sgns_model
+roll,rifling,neg/pos,not_certain,wikipedia_sgns_model
+roll,bottle,neg/pos,not_certain,wikipedia_sgns_model
+roll,manhole,neg/pos,not_certain,wikipedia_sgns_model
+roll,leather,neg/pos,not_certain,wikipedia_sgns_model
+roll,wagon,neg/pos,not_certain,wikipedia_sgns_model
+roll,windshield,neg/pos,not_certain,wikipedia_sgns_model
+roll,piston,neg/pos,not_certain,wikipedia_sgns_model
+roll,surfboard,neg/pos,not_certain,wikipedia_sgns_model
+roll,bumper,neg/pos,not_certain,wikipedia_sgns_model
+roll,backboard,neg/pos,not_certain,wikipedia_sgns_model
+roll,noseband,neg/pos,not_certain,wikipedia_sgns_model
+roll,bucket,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,screw,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,kiln,neg/pos,not_certain,wikipedia_sgns_model
+roll,plunger,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,rail,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,horseshoe,neg/pos,not_certain,wikipedia_sgns_model
+roll,acrylic,neg/pos,not_certain,wikipedia_sgns_model
+roll,breechblock,neg/pos,not_certain,wikipedia_sgns_model
+roll,crankshaft,neg/pos,not_certain,wikipedia_sgns_model
+roll,quoit,neg/pos,not_certain,wikipedia_sgns_model
+roll,paddle,neg/pos,not_certain,wikipedia_sgns_model
+roll,eyelet,neg/pos,not_certain,wikipedia_sgns_model
+roll,roller,neg/pos,not_certain,wikipedia_sgns_model
+roll,shaft,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+roll,slab,neg/pos,not_certain,wikipedia_sgns_model
+roll,washer,neg/pos,not_certain,wikipedia_sgns_model
+roll,shovel,neg/pos,not_certain,wikipedia_sgns_model
+roll,donkey,neg/pos,not_certain,wikipedia_sgns_model
+roll,pipe,neg/pos,not_certain,wikipedia_sgns_model
+roll,lever,neg/pos,not_certain,wikipedia_sgns_model
+roll,cartridge,neg/pos,not_certain,wikipedia_sgns_model
+roll,propeller,neg/pos,not_certain,wikipedia_sgns_model
+roll,peg,neg/pos,not_certain,wikipedia_sgns_model
+roll,glass,neg/pos,not_certain,wikipedia_sgns_model
+roll,windowpane,neg/pos,not_certain,wikipedia_sgns_model
+roll,wiffle,neg/pos,not_certain,wikipedia_sgns_model
+roll,mandrel,neg/pos,not_certain,wikipedia_sgns_model
+roll,cloth,neg/pos,not_certain,wikipedia_sgns_model
+roll,grindstone,neg/pos,not_certain,wikipedia_sgns_model
+roll,chock,neg/pos,not_certain,wikipedia_sgns_model
+roll,spindle,neg/pos,not_certain,wikipedia_sgns_model
+roll,crosshead,neg/pos,not_certain,wikipedia_sgns_model
+roll,dowel,neg/pos,not_certain,wikipedia_sgns_model
+roll,vaporizer,neg/pos,not_certain,wikipedia_sgns_model
+roll,chamfer,neg/pos,not_certain,wikipedia_sgns_model
+roll,tub,neg/pos,not_certain,wikipedia_sgns_model
+roll,bead,neg/pos,not_certain,wikipedia_sgns_model
+roll,fusee,neg/pos,not_certain,wikipedia_sgns_model
+roll,sprocket,neg/pos,not_certain,wikipedia_sgns_model
+roll,wheelbarrow,neg/pos,not_certain,wikipedia_sgns_model
+roll,ski,neg/pos,not_certain,wikipedia_sgns_model
+roll,windscreen,neg/pos,not_certain,wikipedia_sgns_model
+roll,caber,neg/pos,not_certain,wikipedia_sgns_model
+roll,plaster,neg/pos,not_certain,wikipedia_sgns_model
+roll,corkscrew,neg/pos,not_certain,wikipedia_sgns_model
+roll,headstock,neg/pos,not_certain,wikipedia_sgns_model
+roll,plastic,neg/pos,not_certain,wikipedia_sgns_model
+roll,flywheel,neg/pos,not_certain,wikipedia_sgns_model
+roll,radiator,neg/pos,not_certain,wikipedia_sgns_model
+roll,ferrule,neg/pos,not_certain,wikipedia_sgns_model
+roll,headboard,neg/pos,not_certain,wikipedia_sgns_model
+roll,wrench,neg/pos,not_certain,wikipedia_sgns_model
+roll,alloy,neg/pos,not_certain,wikipedia_sgns_model
+roll,urethane,neg/pos,not_certain,wikipedia_sgns_model
+roll,brick,neg/pos,not_certain,wikipedia_sgns_model
+roll,tile,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,whale,neg,certain,wn_hypernym manually_included
+lay_eggs,human,neg,not_certain,wn_hypernym wn_hypernym
+lay_eggs,world,neg,not_certain,wn_hypernym
+lay_eggs,felid,neg,not_certain,wn_hypernym
+lay_eggs,packhorse,neg,not_certain,wn_hypernym
+lay_eggs,lemming,neg,not_certain,wn_hypernym
+lay_eggs,viscacha,neg,not_certain,wn_hypernym
+lay_eggs,bonobo,neg,not_certain,wn_hypernym
+lay_eggs,hackney,neg,not_certain,wn_hypernym
+lay_eggs,mouser,neg,not_certain,wn_hypernym
+lay_eggs,painter,neg,not_certain,wn_hypernym
+lay_eggs,chamois,neg,not_certain,wn_hypernym
+lay_eggs,sheep,neg,not_certain,wn_hypernym
+lay_eggs,whiteface,neg,not_certain,wn_hypernym
+lay_eggs,cow,neg,not_certain,wn_hypernym wn_hypernym
+lay_eggs,pachyderm,neg,not_certain,wn_hypernym
+lay_eggs,lynx,neg,not_certain,wn_hypernym
+lay_eggs,gnu,neg,not_certain,wn_hypernym
+lay_eggs,bay,neg,not_certain,wn_hypernym
+lay_eggs,merino,neg,not_certain,wn_hypernym
+lay_eggs,humankind,neg,not_certain,wn_hypernym
+lay_eggs,pig,neg,not_certain,wn_hypernym
+lay_eggs,equine,neg,not_certain,wn_hypernym
+lay_eggs,coypu,neg,not_certain,wn_hypernym
+lay_eggs,bushbaby,neg,not_certain,wn_hypernym
+lay_eggs,bronc,neg,not_certain,wn_hypernym
+lay_eggs,cony,neg,not_certain,wn_hypernym
+lay_eggs,chow,neg,not_certain,wn_hypernym
+lay_eggs,howler,neg,not_certain,wn_hypernym
+lay_eggs,leopard,neg,not_certain,wn_hypernym
+lay_eggs,giraffe,neg,not_certain,wn_hypernym
+lay_eggs,drill,neg,not_certain,wn_hypernym
+lay_eggs,pacesetter,neg,not_certain,wn_hypernym
+lay_eggs,grade,neg,not_certain,wn_hypernym
+lay_eggs,muskrat,neg,not_certain,wn_hypernym
+lay_eggs,jade,neg,not_certain,wn_hypernym
+lay_eggs,deer,neg,not_certain,wn_hypernym
+lay_eggs,collie,neg,not_certain,wn_hypernym
+lay_eggs,capybara,neg,not_certain,wn_hypernym
+lay_eggs,mangabey,neg,not_certain,wn_hypernym
+lay_eggs,pointer,neg,not_certain,wn_hypernym
+lay_eggs,eland,neg,not_certain,wn_hypernym
+lay_eggs,puss,neg,not_certain,wn_hypernym
+lay_eggs,mole,neg,not_certain,wn_hypernym
+lay_eggs,whippet,neg,not_certain,wn_hypernym
+lay_eggs,beaver,neg,not_certain,wn_hypernym
+lay_eggs,blackbuck,neg,not_certain,wn_hypernym
+lay_eggs,bulldog,neg,not_certain,wn_hypernym
+lay_eggs,armadillo,neg,not_certain,wn_hypernym
+lay_eggs,mankind,neg,not_certain,wn_hypernym
+lay_eggs,roebuck,neg,not_certain,wn_hypernym
+lay_eggs,hare,neg,not_certain,wn_hypernym
+lay_eggs,tabby,neg,not_certain,wn_hypernym
+lay_eggs,hack,neg,not_certain,wn_hypernym
+lay_eggs,addax,neg,not_certain,wn_hypernym
+lay_eggs,cuscus,neg,not_certain,wn_hypernym
+lay_eggs,malinois,neg,not_certain,wn_hypernym
+lay_eggs,stag,neg,not_certain,wn_hypernym
+lay_eggs,ibex,neg,not_certain,wn_hypernym
+lay_eggs,bull,neg,not_certain,wn_hypernym
+lay_eggs,moose,neg,not_certain,wn_hypernym
+lay_eggs,chicken,pos,certain,cslb wn_hypernym conceptnet manually_included
+lay_eggs,platypus,pos,certain,cslb wn_hypernym manually_included
+lay_eggs,bass,pos,certain,wn_hypernym manually_included
+lay_eggs,turtle,pos,certain,cslb wn_hypernym manually_included
+lay_eggs,tortoise,pos,certain,cslb wn_hypernym manually_included
+lay_eggs,crane,pos,certain,wn_hypernym manually_included
+lay_eggs,torpedo,pos,not_certain,wn_hypernym
+lay_eggs,tanager,pos,not_certain,wn_hypernym
+lay_eggs,haddock,pos,not_certain,wn_hypernym
+lay_eggs,rattlesnake,pos,not_certain,wn_hypernym
+lay_eggs,halfbeak,pos,not_certain,wn_hypernym
+lay_eggs,flounder,pos,not_certain,wn_hypernym
+lay_eggs,egret,pos,not_certain,wn_hypernym
+lay_eggs,bunting,pos,not_certain,wn_hypernym
+lay_eggs,hind,pos,not_certain,wn_hypernym
+lay_eggs,pickerel,pos,not_certain,wn_hypernym
+lay_eggs,crocodile,pos,not_certain,wn_hypernym
+lay_eggs,plaice,pos,not_certain,wn_hypernym
+lay_eggs,skate,pos,not_certain,wn_hypernym
+lay_eggs,mosquitofish,pos,not_certain,wn_hypernym
+lay_eggs,quail,pos,not_certain,wn_hypernym
+lay_eggs,stork,pos,not_certain,wn_hypernym
+lay_eggs,leatherback,pos,not_certain,wn_hypernym
+lay_eggs,cock,pos,not_certain,wn_hypernym
+lay_eggs,albatross,pos,not_certain,wn_hypernym
+lay_eggs,drum,pos,not_certain,wn_hypernym
+lay_eggs,cob,pos,not_certain,wn_hypernym
+lay_eggs,smallmouth,pos,not_certain,wn_hypernym
+lay_eggs,redstart,pos,not_certain,wn_hypernym
+lay_eggs,ichthyosaur,pos,not_certain,wn_hypernym
+lay_eggs,stockfish,pos,not_certain,wn_hypernym
+lay_eggs,char,pos,not_certain,wn_hypernym
+lay_eggs,hobby,pos,not_certain,wn_hypernym
+lay_eggs,redhorse,pos,not_certain,wn_hypernym
+lay_eggs,crow,pos,not_certain,wn_hypernym conceptnet
+lay_eggs,salmon,pos,not_certain,wn_hypernym
+lay_eggs,hen,pos,not_certain,wn_hypernym
+lay_eggs,basilisk,pos,not_certain,wn_hypernym
+lay_eggs,sardine,pos,not_certain,wn_hypernym
+lay_eggs,yellowthroat,pos,not_certain,wn_hypernym
+lay_eggs,robin,pos,not_certain,wn_hypernym
+lay_eggs,layer,pos,not_certain,wn_hypernym
+lay_eggs,curlew,pos,not_certain,wn_hypernym
+lay_eggs,roach,pos,not_certain,wn_hypernym
+lay_eggs,halibut,pos,not_certain,wn_hypernym
+lay_eggs,whitethroat,pos,not_certain,wn_hypernym
+lay_eggs,utahraptor,pos,not_certain,wn_hypernym
+lay_eggs,turkey,pos,not_certain,wn_hypernym
+lay_eggs,stickleback,pos,not_certain,wn_hypernym
+lay_eggs,lark,pos,not_certain,wn_hypernym
+lay_eggs,whiff,pos,not_certain,wn_hypernym
+lay_eggs,toadfish,pos,not_certain,wn_hypernym
+lay_eggs,trout,pos,not_certain,wn_hypernym
+lay_eggs,wrymouth,pos,not_certain,wn_hypernym
+lay_eggs,creeper,pos,not_certain,wn_hypernym
+lay_eggs,gyrfalcon,pos,not_certain,wn_hypernym
+lay_eggs,duck,pos,not_certain,cslb wn_hypernym
+lay_eggs,permit,pos,not_certain,wn_hypernym
+lay_eggs,marabout,pos,not_certain,wn_hypernym
+lay_eggs,pompon,pos,not_certain,wn_hypernym
+lay_eggs,linnet,pos,not_certain,wn_hypernym
+lay_eggs,timaliidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,lepomis,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,acaridae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,avocet,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,cotingidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,typhlopidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,fringillidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,tropicbird,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+lay_eggs,pipefish,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,neritidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,paridae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,trogon,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,charadrius,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,icteridae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,psittacula,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,pleuronectidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,phalacrocorax,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,laridae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,currawong,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,motacilla,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,procellariidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,apodidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,haliaeetus,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,calidris,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,strigidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,micropterus,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,pintail,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,merganser,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,emberizidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,grackle,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+lay_eggs,clupeidae,neg/pos,not_certain,wikipedia_sgns_model
+lay_eggs,syngnathidae,neg/pos,not_certain,wikipedia_sgns_model
+fly,tortoise,neg,certain,manually_included
+fly,turtle,neg,certain,manually_included
+fly,chinook,neg,not_certain,wn_hypernym
+fly,seal,neg,not_certain,wn_hypernym
+fly,mola,neg,not_certain,wn_hypernym
+fly,amberjack,neg,not_certain,wn_hypernym
+fly,mangabey,neg,not_certain,wn_hypernym
+fly,titi,neg,not_certain,wn_hypernym
+fly,toy,neg,not_certain,wn_hypernym
+fly,ass,neg,not_certain,wn_hypernym
+fly,haddock,neg,not_certain,wn_hypernym
+fly,monkey,neg,not_certain,wn_hypernym
+fly,grouper,neg,not_certain,wn_hypernym
+fly,chow,neg,not_certain,wn_hypernym
+fly,plaice,neg,not_certain,wn_hypernym
+fly,giraffe,neg,not_certain,wn_hypernym
+fly,rudd,neg,not_certain,wn_hypernym
+fly,ape,neg,not_certain,wn_hypernym
+fly,armadillo,neg,not_certain,wn_hypernym
+fly,howler,neg,not_certain,wn_hypernym
+fly,basset,neg,not_certain,wn_hypernym
+fly,lynx,neg,not_certain,wn_hypernym
+fly,lemur,neg,not_certain,wn_hypernym
+fly,stock,neg,not_certain,wn_hypernym
+fly,razorback,neg,not_certain,wn_hypernym
+fly,toadfish,neg,not_certain,wn_hypernym
+fly,goatfish,neg,not_certain,wn_hypernym
+fly,silverback,neg,not_certain,wn_hypernym
+fly,watchdog,neg,not_certain,wn_hypernym
+fly,pussy,neg,not_certain,wn_hypernym
+fly,bobcat,neg,not_certain,wn_hypernym
+fly,ounce,neg,not_certain,wn_hypernym
+fly,buffalo,neg,not_certain,wn_hypernym
+fly,hind,neg,not_certain,wn_hypernym
+fly,roebuck,neg,not_certain,wn_hypernym
+fly,deer,neg,not_certain,wn_hypernym
+fly,gnu,neg,not_certain,wn_hypernym
+fly,minnow,neg,not_certain,wn_hypernym
+fly,bream,neg,not_certain,wn_hypernym
+fly,lion,neg,not_certain,wn_hypernym
+fly,sunfish,neg,not_certain,wn_hypernym
+fly,rabbit,neg,not_certain,wn_hypernym
+fly,stallion,neg,not_certain,wn_hypernym
+fly,mammal,neg,not_certain,wn_hypernym
+fly,potoroo,neg,not_certain,wn_hypernym
+fly,damselfish,neg,not_certain,wn_hypernym
+fly,poacher,neg,not_certain,wn_hypernym
+fly,zebra,neg,not_certain,wn_hypernym
+fly,hog,neg,not_certain,wn_hypernym
+fly,pinniped,neg,not_certain,wn_hypernym
+fly,glutton,neg,not_certain,wn_hypernym
+fly,wheeler,neg,not_certain,wn_hypernym
+fly,tiger,neg,not_certain,wn_hypernym
+fly,catfish,neg,not_certain,wn_hypernym
+fly,bearcat,neg,not_certain,wn_hypernym
+fly,jade,neg,not_certain,wn_hypernym
+fly,mouse,neg,not_certain,wn_hypernym
+fly,sheepshead,neg,not_certain,wn_hypernym
+fly,shark,neg,not_certain,wn_hypernym
+fly,groundhog,neg,not_certain,wn_hypernym
+fly,lizardfish,neg,not_certain,wn_hypernym
+fly,ostrich,neg,certain,wn_hypernym manually_included
+fly,helicopter,pos,certain,cslb wn_hypernym conceptnet manually_included
+fly,kite,pos,certain,cslb wn_hypernym manually_included
+fly,crane,pos,certain,wn_hypernym manually_included
+fly,penguin,neg,certain,wn_hypernym manually_included
+fly,seagull,pos,certain,cslb wn_hypernym manually_included
+fly,gull,pos,not_certain,wn_hypernym
+fly,arrow,pos,not_certain,cslb conceptnet
+fly,moorcock,pos,not_certain,wn_hypernym
+fly,nightingale,pos,not_certain,cslb wn_hypernym
+fly,grosbeak,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+fly,marabou,pos,not_certain,wn_hypernym
+fly,babbler,pos,not_certain,wn_hypernym
+fly,tit,pos,not_certain,wn_hypernym
+fly,sky,pos,not_certain,conceptnet
+fly,whistler,pos,not_certain,wn_hypernym
+fly,quail,pos,not_certain,wn_hypernym
+fly,hobby,pos,not_certain,wn_hypernym
+fly,towhee,pos,not_certain,wn_hypernym
+fly,butterfly,pos,not_certain,cslb
+fly,fowl,pos,not_certain,wn_hypernym
+fly,skylark,pos,not_certain,wn_hypernym
+fly,owl,pos,not_certain,cslb wn_hypernym
+fly,yellowhammer,pos,not_certain,wn_hypernym
+fly,hawk,pos,not_certain,cslb wn_hypernym
+fly,knot,pos,not_certain,wn_hypernym
+fly,bunting,pos,not_certain,wn_hypernym
+fly,gallinule,pos,not_certain,wn_hypernym
+fly,cob,pos,not_certain,wn_hypernym
+fly,avocet,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+fly,crow,pos,not_certain,wn_hypernym
+fly,goldcrest,pos,not_certain,wn_hypernym
+fly,chick,pos,not_certain,wn_hypernym
+fly,flicker,pos,not_certain,wn_hypernym
+fly,trumpeter,pos,not_certain,wn_hypernym
+fly,pigeon,pos,not_certain,cslb wn_hypernym
+fly,barnacle,pos,not_certain,wn_hypernym
+fly,wren,pos,not_certain,cslb wn_hypernym
+fly,robin,pos,not_certain,cslb wn_hypernym
+fly,albatross,pos,not_certain,wn_hypernym
+fly,budgie,pos,not_certain,cslb wn_hypernym
+fly,wing,pos,not_certain,conceptnet conceptnet
+fly,fryer,pos,not_certain,wn_hypernym
+fly,puffin,pos,not_certain,wn_hypernym
+fly,woodpecker,pos,not_certain,cslb wn_hypernym
+fly,vulture,pos,not_certain,wn_hypernym
+fly,pelican,pos,not_certain,cslb wn_hypernym
+fly,duck,pos,not_certain,cslb wn_hypernym
+fly,ouzel,pos,not_certain,wn_hypernym
+fly,cock,pos,not_certain,wn_hypernym
+fly,loon,pos,not_certain,wn_hypernym
+fly,ratite,pos,not_certain,wn_hypernym
+fly,stork,pos,not_certain,wn_hypernym
+fly,whitethroat,pos,not_certain,wn_hypernym
+fly,hen,pos,not_certain,wn_hypernym
+fly,titmouse,pos,not_certain,wn_hypernym
+fly,snowbird,pos,not_certain,wn_hypernym
+fly,skimmer,pos,not_certain,wn_hypernym
+fly,pheasant,pos,not_certain,wn_hypernym
+fly,emu,pos,not_certain,wn_hypernym
+fly,merganser,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model wn_hypernym wikipedia_sgns_model
+fly,ship,neg,certain,wn_hypernym manually_included
+fly,plane,pos,certain,wn_hypernym conceptnet manually_included
+fly,car,neg,certain,wn_hypernym manually_included
+fly,boat,neg,certain,wn_hypernym manually_included
+fly,motacilla,neg/pos,not_certain,wikipedia_sgns_model
+fly,clarence,pos/neg,not_certain,wn_hypernym
+fly,yawl,pos/neg,not_certain,wn_hypernym
+fly,bark,pos/neg,not_certain,wn_hypernym
+fly,nuthatch,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+fly,autogyro,pos/neg,not_certain,wn_hypernym
+fly,wherry,pos/neg,not_certain,wn_hypernym
+fly,truck,pos/neg,not_certain,wn_hypernym
+fly,schooner,pos/neg,not_certain,wn_hypernym
+fly,paridae,neg/pos,not_certain,wikipedia_sgns_model
+fly,balloon,pos/neg,not_certain,wn_hypernym conceptnet
+fly,craft,pos/neg,not_certain,wn_hypernym
+fly,jalopy,pos/neg,not_certain,wn_hypernym
+fly,lorry,pos/neg,not_certain,wn_hypernym
+fly,saloon,pos/neg,not_certain,wn_hypernym
+fly,taxi,pos/neg,not_certain,wn_hypernym
+fly,cart,pos/neg,not_certain,wn_hypernym
+fly,caracara,neg/pos/pos,uncertain,wn_hypernym wikipedia_sgns_model
+fly,shell,pos/neg,not_certain,wn_hypernym
+fly,steamer,pos/neg,not_certain,wn_hypernym
+fly,minesweeper,pos/neg,not_certain,wn_hypernym
+fly,tropicbird,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+fly,icteridae,neg/pos,not_certain,wikipedia_sgns_model
+fly,flycatcher,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+fly,jet,pos/neg,not_certain,wn_hypernym
+fly,trailer,pos/neg,not_certain,wn_hypernym
+fly,tramcar,pos/neg,not_certain,wn_hypernym
+fly,heap,pos/neg,not_certain,wn_hypernym
+fly,interceptor,pos/neg,not_certain,wn_hypernym
+fly,capsule,pos/neg,not_certain,wn_hypernym
+fly,submarine,pos/neg,not_certain,wn_hypernym
+fly,van,pos/neg,not_certain,wn_hypernym
+fly,ferry,pos/neg,not_certain,wn_hypernym
+fly,scull,pos/neg,not_certain,wn_hypernym
+fly,bogie,pos/neg,not_certain,wn_hypernym
+fly,velocipede,pos/neg,not_certain,wn_hypernym
+fly,sloop,pos/neg,not_certain,wn_hypernym
+fly,emberizidae,neg/pos,not_certain,wikipedia_sgns_model
+fly,machine,pos/neg,not_certain,wn_hypernym conceptnet
+fly,shunter,pos/neg,not_certain,wn_hypernym
+fly,junk,pos/neg,not_certain,wn_hypernym
+fly,bomber,pos/neg,not_certain,wn_hypernym
+fly,tower,pos/neg,not_certain,wn_hypernym
+fly,coupe,pos/neg,not_certain,wn_hypernym
+fly,tractor,pos/neg,not_certain,wn_hypernym
+fly,phaeton,pos/neg,not_certain,wn_hypernym
+fly,airship,pos/neg,not_certain,wn_hypernym
+fly,sharpie,pos/neg,not_certain,wn_hypernym
+fly,carrier,pos/neg,not_certain,wn_hypernym
+fly,twinjet,pos/neg,not_certain,wn_hypernym
+fly,phalacrocorax,neg/pos,not_certain,wikipedia_sgns_model
+fly,forklift,pos/neg,not_certain,wn_hypernym
+fly,thrush,neg/pos/pos,uncertain,wikipedia_sgns_model wn_hypernym
+fly,sausage,pos/neg,not_certain,wn_hypernym

@@ -1,0 +1,1860 @@
+property,lemma,label,certainty,sources_str
+warm,soup,pos,certain,cslb manually_included
+warm,water,pos,certain,conceptnet manually_included
+warm,argument,neg,certain,manually_included
+warm,bikini,neg,certain,manually_included
+warm,idea,neg,certain,manually_included
+warm,ice,neg,certain,conceptnet manually_included
+warm,basement,neg,certain,mcrae
+warm,nose,neg,not_certain,conceptnet
+warm,icicle,neg,not_certain,conceptnet
+warm,dad,neg,not_certain,conceptnet
+warm,telephone,neg,not_certain,conceptnet
+warm,winter,neg,not_certain,conceptnet
+warm,fun,neg,not_certain,conceptnet
+warm,space,neg,not_certain,conceptnet
+warm,dragon,neg,not_certain,conceptnet
+warm,lemonade,neg,not_certain,cslb
+warm,toe,neg,not_certain,conceptnet
+warm,forest,neg,not_certain,conceptnet
+warm,people,neg,not_certain,conceptnet
+warm,river,neg,not_certain,conceptnet
+warm,tea,neg,not_certain,cslb
+warm,moon,neg,not_certain,conceptnet
+warm,sword,neg,not_certain,conceptnet
+warm,fridge,neg,not_certain,cslb
+warm,vinyl,neg,not_certain,conceptnet
+warm,surfboard,neg,not_certain,cslb
+warm,tile,neg,not_certain,conceptnet
+warm,beer,neg,not_certain,cslb
+warm,feeling,pos,certain,manually_included
+warm,coat,pos,certain,wikipedia_sgns_model cslb manually_included
+warm,atmosphere,pos,certain,manually_included
+warm,sun,pos,not_certain,conceptnet
+warm,shawl,pos,not_certain,cslb
+warm,bed,pos,certain,cslb mcrae
+warm,glove,pos,not_certain,cslb
+warm,jacket,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+warm,boot,pos,not_certain,cslb
+warm,earmuff,pos,not_certain,cslb
+warm,cloak,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+warm,heat,pos,not_certain,conceptnet
+warm,coffee,pos,not_certain,cslb
+warm,head,pos,not_certain,conceptnet
+warm,robe,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+warm,pound,pos,not_certain,conceptnet
+warm,parka,pos,not_certain,cslb
+warm,comforter,pos,not_certain,conceptnet
+warm,pyjama,pos,not_certain,cslb
+warm,cape,pos,not_certain,cslb
+warm,sweater,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+warm,mitten,pos,not_certain,cslb
+warm,scarf,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+warm,sock,neg/pos/pos,uncertain,cslb wikipedia_sgns_model cslb wikipedia_sgns_model
+warm,slipper,pos,not_certain,cslb
+warm,stocking,pos,not_certain,cslb
+warm,dress,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+warm,wearer,neg/pos,not_certain,wikipedia_sgns_model
+warm,leotard,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,cummerbund,neg/pos,not_certain,wikipedia_sgns_model
+warm,neckline,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,greatcoat,neg/pos,not_certain,wikipedia_sgns_model
+warm,brogue,neg/pos,not_certain,wikipedia_sgns_model
+warm,outerwear,neg/pos,not_certain,wikipedia_sgns_model
+warm,kerchief,neg/pos,not_certain,wikipedia_sgns_model
+warm,skirt,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,frock,neg/pos,not_certain,wikipedia_sgns_model
+warm,necklace,neg/pos,not_certain,wikipedia_sgns_model
+warm,blouse,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,garment,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,lace,neg/pos,not_certain,wikipedia_sgns_model
+warm,wool,neg/pos,not_certain,wikipedia_sgns_model
+warm,forelock,neg/pos,not_certain,wikipedia_sgns_model
+warm,tunic,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,mask,neg/pos,not_certain,wikipedia_sgns_model
+warm,cheesecloth,neg/pos,not_certain,wikipedia_sgns_model
+warm,helmet,neg/pos,not_certain,wikipedia_sgns_model
+warm,poncho,neg/pos,not_certain,wikipedia_sgns_model
+warm,pant,neg/pos,not_certain,wikipedia_sgns_model
+warm,hairstyle,neg/pos,not_certain,wikipedia_sgns_model
+warm,footwear,neg/pos,not_certain,wikipedia_sgns_model
+warm,shoelace,neg/pos,not_certain,wikipedia_sgns_model
+warm,chiffon,neg/pos,not_certain,wikipedia_sgns_model
+warm,costume,neg/pos,not_certain,wikipedia_sgns_model
+warm,wig,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,bag,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,towel,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,garter,neg/pos,not_certain,wikipedia_sgns_model
+warm,cuff,neg/pos,not_certain,wikipedia_sgns_model
+warm,hat,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,anklet,neg/pos,not_certain,wikipedia_sgns_model
+warm,vest,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,sealskin,neg/pos,not_certain,wikipedia_sgns_model
+warm,linen,neg/pos,not_certain,wikipedia_sgns_model
+warm,shirt,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,sporran,neg/pos,not_certain,wikipedia_sgns_model
+warm,lapel,neg/pos,not_certain,wikipedia_sgns_model
+warm,topcoat,neg/pos,not_certain,wikipedia_sgns_model
+warm,handkerchief,neg/pos,not_certain,wikipedia_sgns_model
+warm,waistband,neg/pos,not_certain,wikipedia_sgns_model
+warm,overcoat,neg/pos,not_certain,wikipedia_sgns_model
+warm,loincloth,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,underwear,neg/pos,not_certain,wikipedia_sgns_model
+warm,undergarment,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,ankle,neg/pos,not_certain,wikipedia_sgns_model
+warm,calfskin,neg/pos,not_certain,wikipedia_sgns_model
+warm,waist,neg/pos,not_certain,wikipedia_sgns_model
+warm,cassock,neg/pos,not_certain,wikipedia_sgns_model
+warm,sheepskin,neg/pos,not_certain,wikipedia_sgns_model
+warm,deerskin,neg/pos,not_certain,wikipedia_sgns_model
+warm,nightgown,neg/pos,not_certain,wikipedia_sgns_model
+warm,undershirt,neg/pos,not_certain,wikipedia_sgns_model
+warm,flannel,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,neckerchief,neg/pos,not_certain,wikipedia_sgns_model
+warm,waistcoat,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,miniskirt,neg/pos,not_certain,wikipedia_sgns_model
+warm,suit,neg/pos,not_certain,wikipedia_sgns_model
+warm,uniform,neg/pos,not_certain,wikipedia_sgns_model
+warm,sandal,neg/pos,not_certain,wikipedia_sgns_model
+warm,hair,neg/pos,not_certain,wikipedia_sgns_model
+warm,blanket,neg/pos,not_certain,wikipedia_sgns_model
+warm,cincture,neg/pos,not_certain,wikipedia_sgns_model
+warm,trouser,neg/pos,not_certain,wikipedia_sgns_model
+warm,tailcoat,neg/pos,not_certain,wikipedia_sgns_model
+warm,bootie,neg/pos,not_certain,wikipedia_sgns_model
+warm,headgear,neg/pos,not_certain,wikipedia_sgns_model
+warm,shoe,neg/pos,not_certain,wikipedia_sgns_model
+warm,gown,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,epaulet,neg/pos,not_certain,wikipedia_sgns_model
+warm,bodice,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,clothing,neg/pos,not_certain,wikipedia_sgns_model
+warm,attire,neg/pos,not_certain,wikipedia_sgns_model
+warm,cloth,neg/pos,not_certain,wikipedia_sgns_model
+warm,bathrobe,neg/pos,not_certain,wikipedia_sgns_model
+warm,jean,neg/pos,not_certain,wikipedia_sgns_model
+warm,pullover,neg/pos,not_certain,wikipedia_sgns_model
+warm,leather,neg/pos,not_certain,wikipedia_sgns_model
+warm,feather,neg/pos,not_certain,wikipedia_sgns_model
+warm,coverall,neg/pos,not_certain,wikipedia_sgns_model
+warm,shalwar,neg/pos,not_certain,wikipedia_sgns_model
+warm,turban,neg/pos,not_certain,wikipedia_sgns_model
+warm,collar,neg/pos,not_certain,wikipedia_sgns_model
+warm,galosh,neg/pos,not_certain,wikipedia_sgns_model
+warm,earring,neg/pos,not_certain,wikipedia_sgns_model
+warm,necktie,neg/pos,not_certain,wikipedia_sgns_model
+warm,spandex,neg/pos,not_certain,wikipedia_sgns_model
+warm,shoulder,neg/pos,not_certain,wikipedia_sgns_model
+warm,headdress,neg/pos,not_certain,wikipedia_sgns_model
+warm,sleeve,neg/pos,not_certain,wikipedia_sgns_model
+warm,pantie,neg/pos,not_certain,wikipedia_sgns_model
+warm,mortarboard,neg/pos,not_certain,wikipedia_sgns_model
+warm,salwar,neg/pos,not_certain,wikipedia_sgns_model
+warm,corset,neg/pos,not_certain,wikipedia_sgns_model
+warm,denim,neg/pos,not_certain,wikipedia_sgns_model
+warm,legging,neg/pos,not_certain,wikipedia_sgns_model
+warm,outfit,neg/pos,not_certain,wikipedia_sgns_model
+warm,turtleneck,neg/pos,not_certain,wikipedia_sgns_model
+warm,kimono,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+warm,breech,neg/pos,not_certain,wikipedia_sgns_model
+warm,overall,neg/pos,not_certain,wikipedia_sgns_model
+warm,surcoat,neg/pos,not_certain,wikipedia_sgns_model
+warm,grosgrain,neg/pos,not_certain,wikipedia_sgns_model
+warm,sunglass,neg/pos,not_certain,wikipedia_sgns_model
+warm,pajama,neg/pos,not_certain,wikipedia_sgns_model
+warm,jumpsuit,neg/pos,not_certain,wikipedia_sgns_model
+warm,strap,neg/pos,not_certain,wikipedia_sgns_model
+warm,taffeta,neg/pos,not_certain,wikipedia_sgns_model
+warm,bandana,neg/pos,not_certain,wikipedia_sgns_model
+hot,table,neg,certain,manually_included
+hot,problem,neg,certain,manually_included
+hot,happiness,neg,certain,manually_included
+hot,puzzle,neg,certain,manually_included
+hot,beer,neg,not_certain,cslb
+hot,fridge,neg,not_certain,cslb
+hot,ice,neg,not_certain,conceptnet
+hot,tile,neg,not_certain,conceptnet
+hot,basement,neg,certain,mcrae
+hot,nose,neg,not_certain,conceptnet
+hot,moon,neg,not_certain,conceptnet
+hot,icicle,neg,not_certain,conceptnet
+hot,people,neg,not_certain,conceptnet
+hot,toe,neg,not_certain,conceptnet
+hot,winter,neg,not_certain,conceptnet
+hot,lemonade,neg,not_certain,cslb
+hot,space,neg,not_certain,conceptnet
+hot,water,neg,not_certain,conceptnet
+hot,vinyl,neg,not_certain,conceptnet
+hot,river,neg,not_certain,conceptnet
+hot,outfit,pos,certain,manually_included
+hot,tea,pos,certain,cslb manually_included
+hot,soup,pos,certain,cslb manually_included
+hot,heating,pos,certain,manually_included
+hot,fire,pos,certain,conceptnet manually_included
+hot,anger,pos,certain,manually_included
+hot,bikini,pos,certain,manually_included
+hot,argument,pos,certain,manually_included
+hot,coffee,pos,certain,cslb conceptnet manually_included
+hot,jungle,pos,not_certain,conceptnet
+hot,lightning,pos,not_certain,conceptnet
+hot,oven,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+hot,candle,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+hot,mug,pos,not_certain,cslb
+hot,toaster,pos,not_certain,cslb
+hot,stove,neg/pos/pos,uncertain,wikipedia_sgns_model cslb conceptnet wikipedia_sgns_model cslb conceptnet
+hot,steam,pos,not_certain,conceptnet
+hot,lava,pos,not_certain,conceptnet
+hot,summertime,pos,not_certain,conceptnet
+hot,bath,pos,not_certain,cslb
+hot,kettle,pos,not_certain,cslb
+hot,pie,neg/pos/pos,uncertain,cslb wikipedia_sgns_model cslb wikipedia_sgns_model
+hot,fireplace,neg/pos/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+hot,flame,pos,not_certain,conceptnet
+hot,spiciness,neg/pos,not_certain,wikipedia_sgns_model
+hot,glass,neg/pos,not_certain,wikipedia_sgns_model
+hot,freezer,neg/pos,not_certain,wikipedia_sgns_model
+hot,cake,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,shower,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,meat,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,lampshade,neg/pos,not_certain,wikipedia_sgns_model
+hot,jar,neg/pos,not_certain,wikipedia_sgns_model
+hot,enchiladas,neg/pos,not_certain,wikipedia_sgns_model
+hot,sauce,neg/pos,not_certain,wikipedia_sgns_model
+hot,heat,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,laundry,neg/pos,not_certain,wikipedia_sgns_model
+hot,furnace,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,lamp,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,firewood,neg/pos,not_certain,wikipedia_sgns_model
+hot,cooker,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,butter,neg/pos,not_certain,wikipedia_sgns_model
+hot,pot,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,quesadilla,neg/pos,not_certain,wikipedia_sgns_model
+hot,wok,neg/pos,not_certain,wikipedia_sgns_model
+hot,bathroom,neg/pos,not_certain,wikipedia_sgns_model
+hot,ingredient,neg/pos,not_certain,wikipedia_sgns_model
+hot,toast,neg/pos,not_certain,wikipedia_sgns_model
+hot,seasoning,neg/pos,not_certain,wikipedia_sgns_model
+hot,tortilla,neg/pos,not_certain,wikipedia_sgns_model
+hot,dough,neg/pos,not_certain,wikipedia_sgns_model
+hot,snack,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,dish,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,griddle,neg/pos,not_certain,wikipedia_sgns_model
+hot,grill,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,cooler,neg/pos,not_certain,wikipedia_sgns_model
+hot,kitchen,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,bottle,neg/pos,not_certain,wikipedia_sgns_model
+hot,soot,neg/pos,not_certain,wikipedia_sgns_model
+hot,juice,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,pasta,neg/pos,not_certain,wikipedia_sgns_model
+hot,jug,neg/pos,not_certain,wikipedia_sgns_model
+hot,tub,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,heater,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,custard,neg/pos,not_certain,wikipedia_sgns_model
+hot,barbecue,neg/pos,not_certain,wikipedia_sgns_model
+hot,boiler,neg/pos,not_certain,wikipedia_sgns_model
+hot,casserole,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,burner,neg/pos,not_certain,wikipedia_sgns_model
+hot,geyser,neg/pos,not_certain,wikipedia_sgns_model
+hot,chimney,neg/pos,not_certain,wikipedia_sgns_model
+hot,kerosene,neg/pos,not_certain,wikipedia_sgns_model
+hot,candy,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,smoke,neg/pos,not_certain,wikipedia_sgns_model
+hot,vegetable,neg/pos,not_certain,wikipedia_sgns_model
+hot,vaporizer,neg/pos,not_certain,wikipedia_sgns_model
+hot,skillet,neg/pos,not_certain,wikipedia_sgns_model
+hot,vapor,neg/pos,not_certain,wikipedia_sgns_model
+hot,pudding,neg/pos,not_certain,wikipedia_sgns_model
+hot,dessert,neg/pos,not_certain,wikipedia_sgns_model
+hot,chocolate,neg/pos,not_certain,wikipedia_sgns_model
+hot,yogurt,neg/pos,not_certain,wikipedia_sgns_model
+hot,chutney,neg/pos,not_certain,wikipedia_sgns_model
+hot,bread,neg/pos,not_certain,wikipedia_sgns_model
+hot,charcoal,neg/pos,not_certain,wikipedia_sgns_model
+hot,can,neg/pos,not_certain,wikipedia_sgns_model
+hot,hearth,neg/pos,not_certain,wikipedia_sgns_model
+hot,bathtub,neg/pos,not_certain,wikipedia_sgns_model
+hot,coal,neg/pos,not_certain,wikipedia_sgns_model
+hot,condiment,neg/pos,not_certain,wikipedia_sgns_model
+hot,tandoor,neg/pos,not_certain,wikipedia_sgns_model
+hot,pizza,neg/pos,not_certain,wikipedia_sgns_model
+hot,cream,neg/pos,not_certain,wikipedia_sgns_model
+hot,atole,neg/pos,not_certain,wikipedia_sgns_model
+hot,cheesecloth,neg/pos,not_certain,wikipedia_sgns_model
+hot,pancake,neg/pos,not_certain,wikipedia_sgns_model
+hot,flowerpot,neg/pos,not_certain,wikipedia_sgns_model
+hot,sundae,neg/pos,not_certain,wikipedia_sgns_model
+hot,firebox,neg/pos,not_certain,wikipedia_sgns_model
+hot,vinaigrette,neg/pos,not_certain,wikipedia_sgns_model
+hot,cookware,neg/pos,not_certain,wikipedia_sgns_model
+hot,sauna,neg/pos,not_certain,wikipedia_sgns_model
+hot,toilet,neg/pos,not_certain,wikipedia_sgns_model
+hot,campfire,neg/pos,not_certain,wikipedia_sgns_model
+hot,igniter,neg/pos,not_certain,wikipedia_sgns_model
+hot,kiln,neg/pos,not_certain,wikipedia_sgns_model
+hot,utensil,neg/pos,not_certain,wikipedia_sgns_model
+hot,noodle,neg/pos,not_certain,wikipedia_sgns_model
+hot,countertop,neg/pos,not_certain,wikipedia_sgns_model
+hot,garlic,neg/pos,not_certain,wikipedia_sgns_model
+hot,roast,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,flatbread,neg/pos,not_certain,wikipedia_sgns_model
+hot,pomade,neg/pos,not_certain,wikipedia_sgns_model
+hot,sandwich,neg/pos,not_certain,wikipedia_sgns_model
+hot,percolator,neg/pos,not_certain,wikipedia_sgns_model
+hot,tray,neg/pos,not_certain,wikipedia_sgns_model
+hot,pastry,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,refrigerator,neg/pos,not_certain,wikipedia_sgns_model
+hot,popcorn,neg/pos,not_certain,wikipedia_sgns_model
+hot,marinade,neg/pos,not_certain,wikipedia_sgns_model
+hot,fondue,neg/pos,not_certain,wikipedia_sgns_model
+hot,drink,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+hot,bulb,neg/pos,not_certain,wikipedia_sgns_model
+hot,cupcake,neg/pos,not_certain,wikipedia_sgns_model
+hot,syrup,neg/pos,not_certain,wikipedia_sgns_model
+hot,puree,neg/pos,not_certain,wikipedia_sgns_model
+hot,fume,neg/pos,not_certain,wikipedia_sgns_model
+hot,fruitcake,neg/pos,not_certain,wikipedia_sgns_model
+red,carrot,neg,certain,manually_included
+red,fear,neg,certain,manually_included
+red,blueberry,neg,certain,cslb conceptnet mcrae veale_simile manually_included
+red,pit,neg,not_certain,veale_simile
+red,lark,neg,not_certain,veale_simile
+red,miner,neg,not_certain,veale_simile
+red,broccoli,neg,certain,cslb conceptnet mcrae
+red,spinach,neg,not_certain,cslb
+red,artichoke,neg,not_certain,cslb conceptnet
+red,aubergine,neg,not_certain,cslb
+red,dog,neg,not_certain,conceptnet
+red,ring,neg,not_certain,conceptnet
+red,weed,neg,not_certain,conceptnet
+red,fir,neg,not_certain,cslb
+red,cockroach,neg,not_certain,cslb
+red,couch,neg,not_certain,conceptnet
+red,sycamore,neg,not_certain,cslb
+red,ink,neg,not_certain,conceptnet
+red,coffee,neg,not_certain,cslb
+red,crypt,neg,not_certain,veale_simile
+red,lime,neg,not_certain,conceptnet cslb
+red,cat,neg,not_certain,conceptnet
+red,gherkin,neg,not_certain,cslb
+red,football,neg,not_certain,cslb
+red,pansy,neg,not_certain,cslb
+red,banana,neg,certain,conceptnet cslb conceptnet mcrae veale_simile
+red,glass,neg,not_certain,conceptnet
+red,fern,neg,not_certain,cslb
+red,leafs,neg,not_certain,conceptnet
+red,rhino,neg,not_certain,cslb
+red,wand,neg,not_certain,cslb
+red,recorder,neg,not_certain,cslb
+red,dress,neg,not_certain,conceptnet
+red,melon,neg/neg/pos,uncertain,cslb wikipedia_sgns_model cslb wikipedia_sgns_model
+red,truffle,neg,not_certain,conceptnet
+red,oven,neg,not_certain,veale_simile
+red,jade,neg,not_certain,conceptnet
+red,elm,neg,not_certain,cslb
+red,tiger,neg,not_certain,cslb
+red,blackboard,neg,not_certain,veale_simile
+red,water,neg,not_certain,conceptnet
+red,daisy,neg,not_certain,cslb conceptnet
+red,celery,neg,not_certain,cslb
+red,frog,neg,not_certain,conceptnet cslb conceptnet
+red,clarinet,neg,not_certain,cslb
+red,slug,neg,not_certain,cslb
+red,crow,neg,not_certain,veale_simile
+red,night,neg,not_certain,conceptnet veale_simile
+red,sand,neg,not_certain,conceptnet
+red,magpie,neg,not_certain,cslb
+red,pot,neg,not_certain,veale_simile
+red,chameleon,neg,not_certain,conceptnet
+red,cheetah,neg,not_certain,cslb
+red,egg,neg,not_certain,conceptnet
+red,avocado,neg,certain,cslb mcrae
+red,pineapple,neg,not_certain,cslb
+red,corncob,neg,not_certain,conceptnet
+red,eye,neg,not_certain,cslb conceptnet
+red,gorilla,neg,not_certain,cslb
+red,limousine,neg,not_certain,cslb
+red,olive,neg/neg/pos,uncertain,cslb wikipedia_sgns_model cslb wikipedia_sgns_model
+red,tomato,pos,certain,conceptnet cslb veale_simile manually_included
+red,paint,pos,certain,manually_included
+red,strawberry,pos,certain,wikipedia_sgns_model cslb veale_simile manually_included
+red,anger,pos,certain,manually_included
+red,grapefruit,pos,not_certain,cslb
+red,car,pos,not_certain,conceptnet conceptnet
+red,lipstick,pos,not_certain,cslb
+red,cherry,neg/pos/pos,uncertain,cslb veale_simile wikipedia_sgns_model cslb veale_simile wikipedia_sgns_model
+red,wine,pos,not_certain,conceptnet cslb
+red,lip,pos,not_certain,cslb
+red,squirrel,pos,not_certain,cslb
+red,jam,pos,not_certain,cslb
+red,rooster,pos,not_certain,veale_simile
+red,ambulance,pos,certain,mcrae
+red,berry,neg/pos/pos,uncertain,veale_simile wikipedia_sgns_model veale_simile wikipedia_sgns_model
+red,balloon,pos,not_certain,conceptnet
+red,radish,pos,not_certain,cslb veale_simile
+red,cabbage,pos,certain,cslb mcrae
+red,flame,pos,not_certain,veale_simile
+red,ant,pos,certain,cslb mcrae
+red,robin,pos,not_certain,cslb
+red,ladybird,pos,not_certain,cslb
+red,flower,neg/pos,uncertain,conceptnet conceptnet
+red,tongue,pos,not_certain,cslb
+red,ketchup,pos,not_certain,cslb
+red,crab,pos,not_certain,cslb
+red,fox,pos,not_certain,cslb veale_simile
+red,currant,neg/pos/pos,uncertain,cslb wikipedia_sgns_model
+red,pomegranate,pos,not_certain,conceptnet veale_simile
+red,grape,pos,not_certain,cslb conceptnet conceptnet
+red,heart,pos,not_certain,cslb
+red,onion,neg/pos,uncertain,cslb conceptnet
+red,pepper,pos,not_certain,conceptnet conceptnet veale_simile
+red,hair,pos,not_certain,cslb
+red,watermelon,pos,not_certain,cslb
+red,herring,pos,not_certain,cslb veale_simile
+red,ruby,pos,not_certain,conceptnet veale_simile conceptnet
+red,raspberry,neg/pos/pos,uncertain,cslb veale_simile wikipedia_sgns_model cslb veale_simile wikipedia_sgns_model
+red,lobster,pos,not_certain,cslb veale_simile
+red,apple,pos,certain,cslb conceptnet mcrae veale_simile
+red,jeep,neg/pos,uncertain,conceptnet cslb
+red,clothing,pos,not_certain,conceptnet
+red,nectarine,pos,not_certain,cslb
+red,barn,pos,certain,mcrae
+red,bus,pos,certain,cslb mcrae cslb_crowd_pos
+red,brick,pos,certain,cslb mcrae
+red,carnation,pos,not_certain,cslb
+red,geranium,pos,not_certain,cslb
+red,beetroot,pos,not_certain,veale_simile
+red,peony,pos,not_certain,veale_simile
+red,bloodstone,pos,not_certain,conceptnet
+red,beet,pos,certain,veale_simile mcrae
+red,rhubarb,pos,not_certain,cslb
+red,potato,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+red,spice,neg/pos,not_certain,wikipedia_sgns_model
+red,echinocereus,neg/pos,not_certain,wikipedia_sgns_model
+red,mamey,neg/pos,not_certain,wikipedia_sgns_model
+red,lemon,neg/neg/pos,uncertain,wikipedia_sgns_model cslb veale_simile
+red,allspice,neg/pos,not_certain,wikipedia_sgns_model
+red,cream,neg/pos,not_certain,wikipedia_sgns_model
+red,cucurbit,neg/pos,not_certain,wikipedia_sgns_model
+red,sauce,neg/pos,not_certain,wikipedia_sgns_model
+red,vine,neg/pos,not_certain,wikipedia_sgns_model
+red,lentil,neg/pos,not_certain,wikipedia_sgns_model
+red,honey,neg/pos,not_certain,wikipedia_sgns_model
+red,wheat,neg/pos,not_certain,wikipedia_sgns_model
+red,lewisia,neg/pos,not_certain,wikipedia_sgns_model
+red,apricot,neg/neg/pos,uncertain,cslb wikipedia_sgns_model
+red,coconut,neg/pos,not_certain,wikipedia_sgns_model
+red,lingonberry,neg/pos,not_certain,wikipedia_sgns_model
+red,vanilla,neg/pos,not_certain,wikipedia_sgns_model
+red,pignut,neg/pos,not_certain,wikipedia_sgns_model
+red,candy,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+red,custard,neg/pos,not_certain,wikipedia_sgns_model
+red,blackberry,neg/pos,not_certain,wikipedia_sgns_model
+red,juice,neg/pos,not_certain,wikipedia_sgns_model
+red,mentzelia,neg/pos,not_certain,wikipedia_sgns_model
+red,shiitake,neg/pos,not_certain,wikipedia_sgns_model
+red,fenugreek,neg/pos,not_certain,wikipedia_sgns_model
+red,shallot,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+red,chicken,neg/pos,not_certain,wikipedia_sgns_model
+red,cowpeas,neg/pos,not_certain,wikipedia_sgns_model
+red,garlic,neg/pos,not_certain,wikipedia_sgns_model
+red,ginger,neg/pos,not_certain,wikipedia_sgns_model
+red,pistachio,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+red,chocolate,neg/pos,not_certain,wikipedia_sgns_model
+red,galangal,neg/pos,not_certain,wikipedia_sgns_model
+red,mango,neg/neg/pos,uncertain,cslb wikipedia_sgns_model
+red,hazelnut,neg/pos,not_certain,wikipedia_sgns_model
+red,vinegar,neg/pos,not_certain,wikipedia_sgns_model
+red,cereal,neg/pos,not_certain,wikipedia_sgns_model
+red,fruit,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+red,vegetable,neg/neg/pos,uncertain,wikipedia_sgns_model conceptnet
+red,guava,neg/pos,not_certain,wikipedia_sgns_model
+red,mangifera,neg/pos,not_certain,wikipedia_sgns_model
+red,peanut,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+red,cilantro,neg/pos,not_certain,wikipedia_sgns_model
+red,yogurt,neg/pos,not_certain,wikipedia_sgns_model
+red,pigweed,neg/pos,not_certain,wikipedia_sgns_model
+red,marinade,neg/pos,not_certain,wikipedia_sgns_model
+red,chutney,neg/pos,not_certain,wikipedia_sgns_model
+red,milk,neg/pos,not_certain,wikipedia_sgns_model
+red,cinnamon,neg/pos,not_certain,wikipedia_sgns_model
+red,bulgur,neg/pos,not_certain,wikipedia_sgns_model
+red,dogwood,neg/pos,not_certain,wikipedia_sgns_model
+red,ageratina,neg/pos,not_certain,wikipedia_sgns_model
+red,cake,neg/pos,not_certain,wikipedia_sgns_model
+red,chive,neg/pos,not_certain,wikipedia_sgns_model
+red,quesadilla,neg/pos,not_certain,wikipedia_sgns_model
+red,syrup,neg/pos,not_certain,wikipedia_sgns_model
+red,raisin,neg/neg/pos,uncertain,cslb wikipedia_sgns_model
+red,rhagoletis,neg/pos,not_certain,wikipedia_sgns_model
+red,chili,neg/pos,not_certain,wikipedia_sgns_model
+square,mug,neg,certain,manually_included
+square,pen,neg,certain,manually_included
+square,text,neg,certain,manually_included
+square,marble,neg,not_certain,conceptnet conceptnet
+square,circle,neg,not_certain,conceptnet conceptnet
+square,frisbee,neg,not_certain,conceptnet conceptnet
+square,tortilla,neg,not_certain,conceptnet
+square,table,pos,certain,conceptnet manually_included
+square,apple,neg,certain,mcrae
+square,orange,neg,not_certain,conceptnet
+square,ball,neg,certain,conceptnet mcrae
+square,disk,neg/pos,uncertain,conceptnet conceptnet conceptnet conceptnet
+square,bracelet,neg,certain,mcrae
+square,tart,neg,not_certain,conceptnet
+square,sphere,neg,not_certain,conceptnet
+square,cds,neg,not_certain,conceptnet
+square,barrel,neg,certain,mcrae
+square,bucket,neg,certain,mcrae
+square,button,neg,not_certain,conceptnet
+square,globe,neg,not_certain,conceptnet
+square,egg,neg,not_certain,conceptnet
+square,planet,neg,not_certain,conceptnet
+square,room,neg/neg/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+square,ashtray,neg,certain,mcrae
+square,wheel,neg,not_certain,conceptnet
+square,biscuit,neg,certain,mcrae
+square,desk,pos,certain,wikipedia_sgns_model manually_included
+square,newspaper,pos,certain,manually_included
+square,laptop,pos,certain,wikipedia_sgns_model manually_included
+square,book,pos,certain,manually_included
+square,dresser,pos,not_certain,conceptnet
+square,cube,neg/pos/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+square,bedroom,neg/pos/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+square,bookshelf,neg/pos,not_certain,wikipedia_sgns_model
+square,computer,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,bathroom,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,shelf,neg/pos,not_certain,wikipedia_sgns_model
+square,stairwell,neg/pos,not_certain,wikipedia_sgns_model
+square,card,neg/pos,not_certain,wikipedia_sgns_model
+square,closet,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,typewriter,neg/pos,not_certain,wikipedia_sgns_model
+square,notebook,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,apartment,neg/pos,not_certain,wikipedia_sgns_model
+square,file,neg/pos,not_certain,wikipedia_sgns_model
+square,tape,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,keypad,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,dining,neg/pos,not_certain,wikipedia_sgns_model
+square,mainframe,neg/pos,not_certain,wikipedia_sgns_model
+square,armrest,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,page,neg/pos,not_certain,wikipedia_sgns_model
+square,wallpaper,neg/pos,not_certain,wikipedia_sgns_model
+square,floor,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,basement,neg/pos,not_certain,wikipedia_sgns_model
+square,window,neg/pos,not_certain,wikipedia_sgns_model
+square,washroom,neg/pos,not_certain,wikipedia_sgns_model
+square,phone,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,balcony,neg/pos,not_certain,wikipedia_sgns_model
+square,fireplace,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,cubicle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,toilet,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,refrigerator,neg/pos,not_certain,wikipedia_sgns_model
+square,screen,neg/pos,not_certain,wikipedia_sgns_model
+square,door,neg/pos,not_certain,wikipedia_sgns_model
+square,tray,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,drawer,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,box,neg/pos,not_certain,wikipedia_sgns_model
+square,cafeteria,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,sharpener,neg/pos,not_certain,wikipedia_sgns_model
+square,locker,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,laundry,neg/pos,not_certain,wikipedia_sgns_model
+square,bookmark,neg/pos,not_certain,wikipedia_sgns_model
+square,recliner,neg/pos,not_certain,wikipedia_sgns_model
+square,cupboard,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,server,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,kitchenette,neg/pos,not_certain,wikipedia_sgns_model
+square,footrest,neg/pos,not_certain,wikipedia_sgns_model
+square,workstation,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,dongle,neg/pos,not_certain,wikipedia_sgns_model
+square,folder,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,foyer,neg/pos,not_certain,wikipedia_sgns_model
+square,workroom,neg/pos,not_certain,wikipedia_sgns_model
+square,armoire,neg/pos,not_certain,wikipedia_sgns_model
+square,suite,neg/pos,not_certain,wikipedia_sgns_model
+square,snack,neg/pos,not_certain,wikipedia_sgns_model
+square,desktop,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,hallway,neg/pos,not_certain,wikipedia_sgns_model
+square,kitchen,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,sideboard,neg/pos,not_certain,wikipedia_sgns_model
+square,rack,neg/pos,not_certain,wikipedia_sgns_model
+square,hardware,neg/pos,not_certain,wikipedia_sgns_model
+square,cabinet,neg/pos,not_certain,wikipedia_sgns_model
+square,clipboard,neg/pos,not_certain,wikipedia_sgns_model
+square,blackboard,neg/pos,not_certain,wikipedia_sgns_model
+square,console,neg/pos,not_certain,wikipedia_sgns_model
+square,carrel,neg/pos,not_certain,wikipedia_sgns_model
+square,parlor,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,playroom,neg/pos,not_certain,wikipedia_sgns_model
+square,countertop,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,floppy,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,classroom,neg/pos,not_certain,wikipedia_sgns_model
+square,pantry,neg/pos,not_certain,wikipedia_sgns_model
+square,doorbell,neg/pos,not_certain,wikipedia_sgns_model
+square,photocopier,neg/pos,not_certain,wikipedia_sgns_model
+square,gameboard,neg/pos,not_certain,wikipedia_sgns_model
+square,sunroom,neg/pos,not_certain,wikipedia_sgns_model
+square,pew,neg/pos,not_certain,wikipedia_sgns_model
+square,bookcase,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,restroom,neg/pos,not_certain,wikipedia_sgns_model
+square,lavatory,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,diskette,neg/pos,not_certain,wikipedia_sgns_model
+square,subdirectory,neg/pos,not_certain,wikipedia_sgns_model
+square,workspace,neg/pos,not_certain,wikipedia_sgns_model
+square,couch,neg/pos,not_certain,wikipedia_sgns_model
+square,macintosh,neg/pos,not_certain,wikipedia_sgns_model
+square,luggage,neg/pos,not_certain,wikipedia_sgns_model
+square,dumbwaiter,neg/pos,not_certain,wikipedia_sgns_model
+square,lounge,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+square,doorknob,neg/pos,not_certain,wikipedia_sgns_model
+square,rom,neg/pos,not_certain,wikipedia_sgns_model
+green,carrot,neg,certain,manually_included
+green,problem,neg,certain,manually_included
+green,daisy,neg,certain,cslb manually_included
+green,argument,neg,certain,manually_included
+green,world,neg,not_certain,conceptnet
+green,herring,neg,not_certain,cslb veale_simile
+green,tyre,neg,not_certain,cslb
+green,spider,neg,not_certain,cslb
+green,grapefruit,neg,not_certain,cslb
+green,recorder,neg,not_certain,cslb
+green,leopard,neg,not_certain,conceptnet cslb
+green,corn,neg,not_certain,cslb
+green,bloodstone,neg,not_certain,conceptnet
+green,currant,neg,not_certain,cslb
+green,flame,neg,not_certain,veale_simile
+green,housefly,neg,not_certain,cslb
+green,newspaper,neg,not_certain,cslb
+green,pyramid,neg,not_certain,cslb
+green,diamond,neg,not_certain,conceptnet
+green,crypt,neg,not_certain,veale_simile
+green,oven,neg,not_certain,veale_simile
+green,berry,neg/neg/pos,uncertain,veale_simile wikipedia_sgns_model veale_simile wikipedia_sgns_model
+green,calf,neg,not_certain,cslb
+green,tongue,neg,not_certain,cslb
+green,pepper,neg/pos,uncertain,conceptnet conceptnet veale_simile conceptnet conceptnet veale_simile
+green,night,neg,not_certain,conceptnet veale_simile
+green,champagne,neg,not_certain,cslb
+green,crab,neg,not_certain,cslb
+green,sun,neg,not_certain,veale_simile
+green,blueberry,neg,certain,cslb conceptnet mcrae veale_simile
+green,sand,neg,not_certain,conceptnet
+green,ketchup,neg,not_certain,cslb
+green,nightmare,neg,not_certain,veale_simile
+green,cider,neg,not_certain,cslb
+green,water,neg,not_certain,conceptnet
+green,buttercup,neg,not_certain,cslb veale_simile
+green,limousine,neg,not_certain,cslb
+green,wasp,neg,not_certain,cslb
+green,strawberry,neg/neg/pos,uncertain,cslb veale_simile wikipedia_sgns_model cslb veale_simile wikipedia_sgns_model
+green,raven,neg,not_certain,cslb veale_simile
+green,ink,neg,not_certain,conceptnet
+green,boot,neg,certain,mcrae
+green,piano,neg,not_certain,cslb
+green,jaguar,neg,not_certain,conceptnet
+green,cheese,neg,not_certain,cslb
+green,squirrel,neg,not_certain,cslb
+green,rice,neg,not_certain,conceptnet
+green,fox,neg,not_certain,cslb veale_simile
+green,iceberg,neg,not_certain,veale_simile
+green,dress,neg,not_certain,conceptnet
+green,dog,neg,not_certain,conceptnet
+green,beet,neg,certain,mcrae
+green,stocking,neg,not_certain,cslb
+green,nectarine,neg,not_certain,cslb
+green,pit,neg,not_certain,veale_simile
+green,human,neg,not_certain,conceptnet
+green,slug,neg,not_certain,cslb
+green,cherry,neg,not_certain,cslb veale_simile
+green,peony,neg,not_certain,veale_simile
+green,robin,neg,not_certain,cslb
+green,radish,neg,not_certain,cslb veale_simile
+green,grass,pos,certain,manually_included
+green,tomato,neg,certain,conceptnet cslb veale_simile manually_included
+green,paint,pos,certain,manually_included
+green,party,pos,certain,manually_included
+green,spinach,pos,certain,cslb manually_included
+green,policy,pos,certain,manually_included
+green,agenda,pos,certain,manually_included
+green,idea,pos,certain,manually_included
+green,broccoli,pos,certain,cslb conceptnet mcrae manually_included
+green,celery,pos,not_certain,cslb
+green,jeep,neg/pos,uncertain,conceptnet cslb
+green,parakeet,pos,not_certain,conceptnet
+green,seaweed,pos,not_certain,cslb
+green,lime,pos,not_certain,conceptnet cslb
+green,watermelon,pos,not_certain,cslb
+green,olive,pos,not_certain,cslb
+green,weed,pos,not_certain,conceptnet
+green,fir,pos,not_certain,cslb
+green,frog,pos,not_certain,cslb conceptnet conceptnet
+green,bottle,pos,certain,mcrae
+green,tortoise,pos,not_certain,cslb
+green,hose,pos,not_certain,cslb
+green,jade,pos,not_certain,conceptnet
+green,salad,pos,not_certain,conceptnet
+green,apple,pos,certain,cslb conceptnet mcrae veale_simile
+green,elm,pos,not_certain,cslb
+green,eye,pos,not_certain,cslb conceptnet
+green,melon,neg/pos/pos,uncertain,cslb wikipedia_sgns_model
+green,asparagus,pos,certain,cslb mcrae
+green,sycamore,pos,not_certain,cslb
+green,vegetable,neg/pos/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+green,eucalyptus,pos,not_certain,cslb
+green,toad,pos,not_certain,cslb
+green,crocodile,pos,not_certain,cslb
+green,grape,pos,not_certain,cslb conceptnet conceptnet
+green,iguana,pos,not_certain,cslb
+green,avocado,pos,certain,cslb mcrae
+green,pear,pos,not_certain,conceptnet cslb
+green,insect,pos,not_certain,conceptnet
+green,aubergine,pos,not_certain,cslb
+green,moss,pos,not_certain,cslb
+green,cabbage,pos,certain,cslb mcrae
+green,parka,pos,not_certain,cslb
+green,turtle,pos,not_certain,cslb
+green,cricket,pos,not_certain,cslb
+green,glass,pos,not_certain,conceptnet
+green,budgie,pos,certain,cslb mcrae
+green,kingfisher,pos,not_certain,cslb veale_simile
+green,caterpillar,pos,not_certain,cslb
+green,fern,pos,not_certain,cslb
+green,leafs,pos,not_certain,conceptnet
+green,pineapple,pos,not_certain,cslb
+green,rhubarb,pos,not_certain,cslb
+green,willow,pos,not_certain,cslb
+green,lawn,pos,not_certain,conceptnet
+green,mango,pos,not_certain,cslb
+green,banana,pos,certain,conceptnet cslb conceptnet mcrae veale_simile
+green,lettuce,pos,not_certain,cslb
+green,emerald,pos,not_certain,conceptnet
+green,tank,pos,not_certain,cslb
+green,pumpkin,neg/pos,not_certain,wikipedia_sgns_model
+green,potato,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+green,ageratina,neg/pos,not_certain,wikipedia_sgns_model
+green,shrub,neg/pos,not_certain,wikipedia_sgns_model
+green,shrimp,neg/pos,not_certain,wikipedia_sgns_model
+green,plantain,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+green,dogbane,neg/pos,not_certain,wikipedia_sgns_model
+green,maize,neg/pos,not_certain,wikipedia_sgns_model
+green,hibbertia,neg/pos,not_certain,wikipedia_sgns_model
+green,huckleberry,neg/pos,not_certain,wikipedia_sgns_model
+green,chicken,neg/pos,not_certain,wikipedia_sgns_model
+green,pignut,neg/pos,not_certain,wikipedia_sgns_model
+green,actinidia,neg/pos,not_certain,wikipedia_sgns_model
+green,dogwood,neg/pos,not_certain,wikipedia_sgns_model
+green,fenugreek,neg/pos,not_certain,wikipedia_sgns_model
+green,sauce,neg/pos,not_certain,wikipedia_sgns_model
+green,gaultheria,neg/pos,not_certain,wikipedia_sgns_model
+green,umbellifer,neg/pos,not_certain,wikipedia_sgns_model
+green,fruit,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+green,walnut,neg/pos,not_certain,wikipedia_sgns_model
+green,garlic,neg/pos,not_certain,wikipedia_sgns_model
+green,chutney,neg/pos,not_certain,wikipedia_sgns_model
+green,cilantro,neg/pos,not_certain,wikipedia_sgns_model
+green,lavandula,neg/pos,not_certain,wikipedia_sgns_model
+green,sterculia,neg/pos,not_certain,wikipedia_sgns_model
+green,herb,neg/pos,not_certain,wikipedia_sgns_model
+green,cucurbit,neg/pos,not_certain,wikipedia_sgns_model
+green,vinaigrette,neg/pos,not_certain,wikipedia_sgns_model
+green,lolium,neg/pos,not_certain,wikipedia_sgns_model
+green,shallot,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+green,coconut,neg/pos,not_certain,wikipedia_sgns_model
+green,plumeria,neg/pos,not_certain,wikipedia_sgns_model
+green,lewisia,neg/pos,not_certain,wikipedia_sgns_model
+green,mangifera,neg/pos,not_certain,wikipedia_sgns_model
+green,chive,neg/pos,not_certain,wikipedia_sgns_model
+green,cucumber,neg/pos/pos,uncertain,wikipedia_sgns_model cslb
+green,bulgur,neg/pos,not_certain,wikipedia_sgns_model
+green,palaquium,neg/pos,not_certain,wikipedia_sgns_model
+green,oregano,neg/pos,not_certain,wikipedia_sgns_model
+green,pecan,neg/pos,not_certain,wikipedia_sgns_model
+green,galangal,neg/pos,not_certain,wikipedia_sgns_model
+green,eggplant,neg/pos,not_certain,wikipedia_sgns_model
+green,cassava,neg/pos,not_certain,wikipedia_sgns_model
+green,manilkara,neg/pos,not_certain,wikipedia_sgns_model
+green,platanthera,neg/pos,not_certain,wikipedia_sgns_model
+green,blackberry,neg/pos,not_certain,wikipedia_sgns_model
+green,phaseolus,neg/pos,not_certain,wikipedia_sgns_model
+green,mushroom,neg/pos,not_certain,wikipedia_sgns_model
+green,quesadilla,neg/pos,not_certain,wikipedia_sgns_model
+green,colocasia,neg/pos,not_certain,wikipedia_sgns_model
+green,peanut,neg/pos,not_certain,wikipedia_sgns_model
+green,teucrium,neg/pos,not_certain,wikipedia_sgns_model
+green,serviceberry,neg/pos,not_certain,wikipedia_sgns_model
+green,guava,neg/pos,not_certain,wikipedia_sgns_model
+cold,tea,neg,certain,cslb manually_included
+cold,soup,neg,certain,cslb manually_included
+cold,heating,neg,certain,manually_included
+cold,fire,neg,certain,conceptnet manually_included
+cold,happiness,neg,certain,manually_included
+cold,love,neg,certain,manually_included
+cold,fireplace,neg,not_certain,conceptnet
+cold,toaster,neg,not_certain,cslb
+cold,oven,neg,not_certain,cslb
+cold,lava,neg,not_certain,conceptnet
+cold,stove,neg,not_certain,cslb conceptnet
+cold,summertime,neg,not_certain,conceptnet
+cold,lightning,neg,not_certain,conceptnet
+cold,flame,neg,not_certain,conceptnet
+cold,bath,neg,not_certain,cslb
+cold,coffee,neg,not_certain,cslb conceptnet
+cold,steam,neg,not_certain,conceptnet
+cold,jungle,neg,not_certain,conceptnet
+cold,pie,neg,not_certain,cslb
+cold,kettle,neg,not_certain,cslb
+cold,candle,neg,not_certain,cslb
+cold,mug,neg,not_certain,cslb
+cold,water,pos,certain,conceptnet manually_included
+cold,snow,pos,certain,manually_included
+cold,atmosphere,pos,certain,manually_included
+cold,hatred,pos,certain,manually_included
+cold,vinyl,pos,not_certain,conceptnet
+cold,toe,pos,not_certain,conceptnet
+cold,people,pos,not_certain,conceptnet
+cold,space,pos,not_certain,conceptnet
+cold,lemonade,pos,not_certain,cslb
+cold,icicle,pos,not_certain,conceptnet
+cold,moon,pos,not_certain,conceptnet
+cold,tile,pos,not_certain,conceptnet
+cold,ice,pos,not_certain,conceptnet
+cold,fridge,pos,not_certain,cslb
+cold,beer,pos,not_certain,cslb
+cold,basement,pos,certain,mcrae
+cold,winter,pos,not_certain,conceptnet
+cold,river,pos,not_certain,conceptnet
+cold,nose,neg/pos/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+cold,surface,neg/pos,not_certain,wikipedia_sgns_model
+cold,can,neg/pos,not_certain,wikipedia_sgns_model
+cold,freezer,neg/pos,not_certain,wikipedia_sgns_model
+cold,cream,neg/pos,not_certain,wikipedia_sgns_model
+cold,smoke,neg/pos,not_certain,wikipedia_sgns_model
+cold,sundae,neg/pos,not_certain,wikipedia_sgns_model
+cold,snowfall,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+cold,boot,neg/pos,not_certain,wikipedia_sgns_model
+cold,freshener,neg/pos,not_certain,wikipedia_sgns_model
+cold,skin,neg/pos,not_certain,wikipedia_sgns_model
+cold,topcoat,neg/pos,not_certain,wikipedia_sgns_model
+cold,slime,neg/pos,not_certain,wikipedia_sgns_model
+cold,finger,neg/pos,not_certain,wikipedia_sgns_model
+cold,cake,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+cold,dust,neg/pos,not_certain,wikipedia_sgns_model
+cold,snowfield,neg/pos,not_certain,wikipedia_sgns_model
+cold,forepaw,neg/pos,not_certain,wikipedia_sgns_model
+cold,shoe,neg/pos,not_certain,wikipedia_sgns_model
+cold,iceberg,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+cold,eggshell,neg/pos,not_certain,wikipedia_sgns_model
+cold,spray,neg/pos,not_certain,wikipedia_sgns_model
+cold,rock,neg/pos,not_certain,wikipedia_sgns_model
+cold,snowdrift,neg/pos,not_certain,wikipedia_sgns_model
+cold,dew,neg/pos,not_certain,wikipedia_sgns_model
+cold,tummy,neg/pos,not_certain,wikipedia_sgns_model
+cold,juice,neg/pos,not_certain,wikipedia_sgns_model
+cold,mud,neg/pos,not_certain,wikipedia_sgns_model
+cold,chocolate,neg/pos,not_certain,wikipedia_sgns_model
+cold,bottle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+cold,quesadilla,neg/pos,not_certain,wikipedia_sgns_model
+cold,udder,neg/pos,not_certain,wikipedia_sgns_model
+cold,berry,neg/pos,not_certain,wikipedia_sgns_model
+cold,balloon,neg/pos,not_certain,wikipedia_sgns_model
+cold,candy,neg/pos,not_certain,wikipedia_sgns_model
+cold,foam,neg/pos,not_certain,wikipedia_sgns_model
+cold,cirrocumulus,neg/pos,not_certain,wikipedia_sgns_model
+cold,tortilla,neg/pos,not_certain,wikipedia_sgns_model
+cold,permafrost,neg/pos,not_certain,wikipedia_sgns_model
+cold,sky,neg/pos,not_certain,wikipedia_sgns_model
+cold,dogwood,neg/pos,not_certain,wikipedia_sgns_model
+cold,iliamna,neg/pos,not_certain,wikipedia_sgns_model
+cold,spiciness,neg/pos,not_certain,wikipedia_sgns_model
+cold,puddle,neg/pos,not_certain,wikipedia_sgns_model
+cold,pillow,neg/pos,not_certain,wikipedia_sgns_model
+cold,lip,neg/pos,not_certain,wikipedia_sgns_model
+cold,cloud,neg/pos,not_certain,wikipedia_sgns_model
+cold,milk,neg/pos,not_certain,wikipedia_sgns_model
+cold,shelf,neg/pos,not_certain,wikipedia_sgns_model
+cold,rain,neg/pos,not_certain,wikipedia_sgns_model
+cold,snowbank,neg/pos,not_certain,wikipedia_sgns_model
+cold,forefoot,neg/pos,not_certain,wikipedia_sgns_model
+cold,casserole,neg/pos,not_certain,wikipedia_sgns_model
+cold,mentzelia,neg/pos,not_certain,wikipedia_sgns_model
+cold,glass,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+cold,boulder,neg/pos,not_certain,wikipedia_sgns_model
+cold,sunlight,neg/pos,not_certain,wikipedia_sgns_model
+cold,bubble,neg/pos,not_certain,wikipedia_sgns_model
+cold,pavement,neg/pos,not_certain,wikipedia_sgns_model
+cold,drink,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+cold,hair,neg/pos,not_certain,wikipedia_sgns_model
+cold,pomade,neg/pos,not_certain,wikipedia_sgns_model
+cold,doll,neg/pos,not_certain,wikipedia_sgns_model
+cold,toilet,neg/pos,not_certain,wikipedia_sgns_model
+cold,atole,neg/pos,not_certain,wikipedia_sgns_model
+cold,cheesecloth,neg/pos,not_certain,wikipedia_sgns_model
+cold,crack,neg/pos,not_certain,wikipedia_sgns_model
+cold,soda,neg/pos,not_certain,wikipedia_sgns_model
+cold,sawdust,neg/pos,not_certain,wikipedia_sgns_model
+cold,foot,neg/pos,not_certain,wikipedia_sgns_model
+cold,curd,neg/pos,not_certain,wikipedia_sgns_model
+cold,grate,neg/pos,not_certain,wikipedia_sgns_model
+cold,perithecia,neg/pos,not_certain,wikipedia_sgns_model
+cold,popsicle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+cold,seabed,neg/pos,not_certain,wikipedia_sgns_model
+cold,bentwood,neg/pos,not_certain,wikipedia_sgns_model
+cold,bathtub,neg/pos,not_certain,wikipedia_sgns_model
+cold,growler,neg/pos,not_certain,wikipedia_sgns_model
+cold,teliospore,neg/pos,not_certain,wikipedia_sgns_model
+cold,sniffle,neg/pos,not_certain,wikipedia_sgns_model
+cold,vapor,neg/pos,not_certain,wikipedia_sgns_model
+sweet,peeler,neg,certain,cslb_crowd_neg
+sweet,gesture,pos,certain,manually_included
+sweet,cake,pos,certain,cslb conceptnet manually_included
+sweet,baby,pos,certain,manually_included
+sweet,gift,pos,certain,manually_included
+sweet,desert,pos,certain,manually_included
+sweet,strawberry,pos,certain,wikipedia_sgns_model cslb wn_hypernym manually_included
+sweet,blueberry,pos,not_certain,cslb wn_hypernym
+sweet,tangerine,pos,not_certain,cslb wn_hypernym
+sweet,apricot,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+sweet,tomato,pos,not_certain,cslb wn_hypernym
+sweet,jam,pos,not_certain,cslb
+sweet,biscuit,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+sweet,grapefruit,pos,not_certain,cslb wn_hypernym
+sweet,peanut,pos,certain,wikipedia_sgns_model cslb wn_hypernym cslb_crowd_pos
+sweet,cider,pos,not_certain,cslb
+sweet,wine,neg/pos/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+sweet,melon,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+sweet,cherry,neg/pos/pos,uncertain,cslb wn_hypernym wikipedia_sgns_model
+sweet,apple,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym wikipedia_sgns_model cslb wn_hypernym
+sweet,date,pos,certain,wn_hypernym cslb cslb_crowd_pos
+sweet,donut,pos,not_certain,conceptnet
+sweet,lemonade,pos,not_certain,cslb
+sweet,nectarine,pos,not_certain,cslb wn_hypernym
+sweet,pineapple,pos,not_certain,cslb wn_hypernym
+sweet,watermelon,pos,certain,cslb wn_hypernym cslb_crowd_pos
+sweet,peach,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+sweet,currant,neg/pos/pos,uncertain,cslb wn_hypernym wikipedia_sgns_model
+sweet,satsuma,pos,not_certain,cslb wn_hypernym
+sweet,raspberry,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+sweet,ketchup,pos,not_certain,cslb
+sweet,pie,neg/pos/pos,uncertain,cslb wikipedia_sgns_model
+sweet,grape,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym wikipedia_sgns_model cslb wn_hypernym
+sweet,sugar,neg/pos/pos,uncertain,wikipedia_sgns_model cslb
+sweet,cookie,pos,not_certain,conceptnet
+sweet,doughnut,pos,not_certain,cslb
+sweet,raisin,neg/pos/pos,uncertain,cslb wn_hypernym wikipedia_sgns_model
+sweet,pear,pos,not_certain,cslb wn_hypernym
+sweet,mango,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+sweet,chocolate,pos,not_certain,cslb
+sweet,pea,pos/pos/neg,uncertain,wn_hypernym cslb wn_hypernym cslb
+sweet,pork,pos,not_certain,conceptnet
+sweet,dessert,neg/pos/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+sweet,sultana,pos,not_certain,cslb wn_hypernym
+sweet,rhubarb,pos,not_certain,cslb wn_hypernym
+sweet,cucumber,neg,certain,wn_hypernym manually_included
+sweet,cheese,neg,certain,cslb manually_included
+sweet,lime,neg,certain,wn_hypernym manually_included
+sweet,pomegranate,pos/neg,not_certain,wn_hypernym
+sweet,fruit,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
+sweet,tabasco,pos/neg,not_certain,wn_hypernym
+sweet,vinaigrette,neg/pos,not_certain,wikipedia_sgns_model
+sweet,pome,pos/neg,not_certain,wn_hypernym
+sweet,mussel,pos/neg,not_certain,cslb
+sweet,pumpkin,pos/neg,not_certain,wn_hypernym
+sweet,lentil,pos/neg,not_certain,wn_hypernym
+sweet,candy,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+sweet,avocado,pos/neg,not_certain,wn_hypernym
+sweet,cauliflower,pos/neg,not_certain,wn_hypernym
+sweet,legume,pos/neg,not_certain,wn_hypernym
+sweet,plum,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+sweet,mast,pos/neg,not_certain,wn_hypernym
+sweet,berry,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,kale,pos/neg,not_certain,wn_hypernym
+sweet,hazelnut,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,muscat,pos/neg,not_certain,wn_hypernym
+sweet,puree,neg/pos,not_certain,wikipedia_sgns_model
+sweet,buckeye,pos/neg,not_certain,wn_hypernym
+sweet,soy,pos/neg,not_certain,wn_hypernym
+sweet,squash,pos/neg,not_certain,wn_hypernym
+sweet,artichoke,pos/neg,not_certain,cslb wn_hypernym
+sweet,chickpea,pos/neg,not_certain,wn_hypernym
+sweet,lobster,pos/neg,not_certain,cslb
+sweet,lingonberry,pos/neg,not_certain,wn_hypernym
+sweet,acorn,pos/neg,not_certain,wn_hypernym
+sweet,lemon,pos/neg,not_certain,wn_hypernym
+sweet,walnut,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,rye,pos/neg,not_certain,wn_hypernym
+sweet,onion,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,shiitake,neg/pos,not_certain,wikipedia_sgns_model
+sweet,coffee,pos/neg,not_certain,wn_hypernym
+sweet,pulse,pos/neg,not_certain,wn_hypernym
+sweet,rutabaga,pos/neg,not_certain,wn_hypernym
+sweet,flavoring,neg/pos,not_certain,wikipedia_sgns_model
+sweet,linseed,pos/neg,not_certain,wn_hypernym
+sweet,lychee,pos/neg,not_certain,wn_hypernym
+sweet,edda,pos/neg,not_certain,wn_hypernym
+sweet,ginger,neg/pos,not_certain,wikipedia_sgns_model
+sweet,amaranth,pos/neg,not_certain,wn_hypernym
+sweet,oyster,pos/neg,not_certain,cslb
+sweet,rice,pos/neg,not_certain,cslb
+sweet,spike,pos/neg,not_certain,wn_hypernym
+sweet,sorrel,pos/neg,not_certain,wn_hypernym
+sweet,flavor,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+sweet,bacca,pos/neg,not_certain,wn_hypernym
+sweet,soybean,pos/neg,not_certain,wn_hypernym
+sweet,spinach,pos/neg,not_certain,cslb wn_hypernym
+sweet,pepperoni,neg/pos,not_certain,wikipedia_sgns_model
+sweet,yoghurt,pos/neg,not_certain,cslb
+sweet,breadfruit,pos/neg,not_certain,wn_hypernym
+sweet,huckleberry,pos/neg,not_certain,wn_hypernym
+sweet,salad,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+sweet,tamarind,pos/neg,not_certain,wn_hypernym
+sweet,radish,pos/neg,not_certain,wn_hypernym
+sweet,cabbage,pos/neg,not_certain,wn_hypernym
+sweet,jack,pos/neg,not_certain,wn_hypernym
+sweet,pod,pos/neg,not_certain,wn_hypernym
+sweet,tea,neg/pos,not_certain,wikipedia_sgns_model
+sweet,juice,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+sweet,asparagus,pos/neg,not_certain,wn_hypernym
+sweet,condiment,neg/pos,not_certain,wikipedia_sgns_model
+sweet,yogurt,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+sweet,iceberg,pos/neg,not_certain,wn_hypernym
+sweet,cottonseed,pos/neg,not_certain,wn_hypernym
+sweet,sardine,pos/neg,not_certain,cslb
+sweet,litchi,pos/neg,not_certain,wn_hypernym
+sweet,corn,pos/neg,not_certain,cslb wn_hypernym
+sweet,windfall,pos/neg,not_certain,wn_hypernym
+sweet,chilli,pos/neg,not_certain,wn_hypernym
+sweet,scallop,pos/neg,not_certain,cslb
+sweet,zucchini,pos/neg,not_certain,wn_hypernym
+sweet,parsnip,pos/neg,not_certain,wn_hypernym
+sweet,oilseed,pos/neg,not_certain,wn_hypernym
+sweet,cinnamon,neg/pos,not_certain,wikipedia_sgns_model
+sweet,pistachio,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,crab,pos/neg,not_certain,cslb
+sweet,loquat,pos/neg,not_certain,wn_hypernym
+sweet,honey,neg/pos,not_certain,wikipedia_sgns_model
+sweet,flageolet,pos/neg,not_certain,wn_hypernym
+sweet,tater,pos/neg,not_certain,wn_hypernym
+sweet,mangosteen,pos/neg,not_certain,wn_hypernym
+sweet,hackberry,pos/neg,not_certain,wn_hypernym
+sweet,fennel,pos/neg,not_certain,wn_hypernym
+sweet,pip,pos/neg,not_certain,wn_hypernym
+sweet,carrot,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,veg,pos/neg,not_certain,wn_hypernym
+sweet,banana,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
+sweet,soursop,pos/neg,not_certain,wn_hypernym
+sweet,pepper,pos/neg,not_certain,wn_hypernym
+sweet,beet,pos/neg,not_certain,wn_hypernym
+sweet,groundnut,pos/neg,not_certain,wn_hypernym
+sweet,plantain,pos/neg,not_certain,wn_hypernym
+sweet,coconut,pos/neg,not_certain,wn_hypernym
+sweet,orange,neg/pos/pos,uncertain,cslb wn_hypernym conceptnet wikipedia_sgns_model
+sweet,olive,pos/neg,not_certain,cslb wn_hypernym
+sweet,freestone,pos/neg,not_certain,wn_hypernym
+sweet,beetroot,pos/neg,not_certain,wn_hypernym
+sweet,fry,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,wintergreen,pos/neg,not_certain,wn_hypernym
+sweet,yam,pos/neg,not_certain,wn_hypernym
+sweet,achene,pos/neg,not_certain,wn_hypernym
+sweet,chicken,neg/pos,not_certain,wikipedia_sgns_model
+sweet,aniseed,neg/pos,not_certain,wikipedia_sgns_model
+sweet,bean,neg/pos/pos/neg,uncertain,cslb wn_hypernym wikipedia_sgns_model
+sweet,serviceberry,pos/neg,not_certain,wn_hypernym
+sweet,fenugreek,neg/pos,not_certain,wikipedia_sgns_model
+sweet,vegetable,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,taro,pos/neg,not_certain,wn_hypernym
+sweet,grain,pos/neg,not_certain,wn_hypernym
+sweet,butter,pos/neg,not_certain,cslb
+sweet,broccoli,pos/neg,not_certain,wn_hypernym
+sweet,soup,pos/neg,not_certain,cslb
+sweet,spud,pos/neg,not_certain,wn_hypernym
+sweet,nut,pos/neg,not_certain,cslb wn_hypernym
+sweet,emperor,pos/neg,not_certain,wn_hypernym
+sweet,hip,pos/neg,not_certain,wn_hypernym
+sweet,almond,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+sweet,cob,pos/neg,not_certain,wn_hypernym
+sweet,bacon,pos/neg,not_certain,cslb
+sweet,saskatoon,pos/neg,not_certain,wn_hypernym
+sweet,dewberry,pos/neg,not_certain,wn_hypernym
+sweet,bulgur,neg/pos,not_certain,wikipedia_sgns_model
+sweet,chipotle,pos/neg,not_certain,wn_hypernym
+sweet,allspice,neg/pos,not_certain,wikipedia_sgns_model
+blue,thought,neg,certain,manually_included
+blue,pond,neg,certain,manually_included
+blue,problem,neg,certain,manually_included
+blue,daisy,neg,certain,conceptnet cslb manually_included
+blue,dandelion,neg,certain,cslb veale_simile manually_included
+blue,strawberry,neg,certain,cslb veale_simile manually_included
+blue,frog,neg,not_certain,cslb conceptnet conceptnet
+blue,cabbage,neg,certain,cslb mcrae
+blue,miner,neg,not_certain,veale_simile
+blue,sandpaper,neg,not_certain,cslb
+blue,jade,neg,not_certain,conceptnet
+blue,onion,neg,not_certain,cslb conceptnet
+blue,zebra,neg,not_certain,cslb
+blue,peach,neg,not_certain,cslb
+blue,lime,neg,not_certain,conceptnet cslb
+blue,avocado,neg,certain,cslb mcrae
+blue,night,neg,not_certain,conceptnet veale_simile
+blue,moss,neg,not_certain,cslb
+blue,orchid,neg,not_certain,conceptnet
+blue,clothing,neg,not_certain,conceptnet
+blue,elm,neg,not_certain,cslb
+blue,broccoli,neg,certain,cslb conceptnet mcrae
+blue,cherry,neg,not_certain,cslb veale_simile
+blue,coal,neg,not_certain,veale_simile
+blue,crypt,neg,not_certain,veale_simile
+blue,pyramid,neg,not_certain,cslb
+blue,rooster,neg,not_certain,veale_simile
+blue,blackboard,neg,not_certain,veale_simile
+blue,truffle,neg,not_certain,conceptnet
+blue,dog,neg,not_certain,conceptnet
+blue,football,neg,not_certain,cslb
+blue,nectarine,neg,not_certain,cslb
+blue,fox,neg,not_certain,cslb veale_simile
+blue,beetle,neg,certain,cslb mcrae
+blue,cheetah,neg,not_certain,cslb
+blue,barn,neg,certain,mcrae
+blue,giraffe,neg,not_certain,cslb
+blue,beer,neg,not_certain,cslb
+blue,herring,neg,not_certain,cslb veale_simile
+blue,car,neg,not_certain,conceptnet conceptnet
+blue,cockroach,neg,not_certain,cslb
+blue,jaguar,neg,not_certain,conceptnet
+blue,goldfish,neg,not_certain,cslb
+blue,locust,neg,not_certain,cslb
+blue,ambulance,neg,certain,mcrae
+blue,crow,neg,not_certain,veale_simile
+blue,leopard,neg,not_certain,conceptnet cslb
+blue,fir,neg,not_certain,cslb
+blue,flower,neg/pos,uncertain,conceptnet conceptnet conceptnet conceptnet
+blue,buttercup,neg,not_certain,cslb veale_simile
+blue,olive,neg,not_certain,cslb
+blue,bottle,neg,certain,mcrae
+blue,currant,neg,not_certain,cslb
+blue,beet,neg,certain,veale_simile mcrae
+blue,raisin,neg,not_certain,cslb
+blue,gorilla,neg,not_certain,cslb
+blue,tarantula,neg,not_certain,cslb
+blue,cricket,neg,not_certain,cslb
+blue,marigold,neg,not_certain,cslb
+blue,balloon,neg,not_certain,conceptnet
+blue,glass,neg,not_certain,conceptnet
+blue,paint,pos,certain,manually_included
+blue,bellflower,pos,certain,manually_included
+blue,blueberry,pos,certain,cslb conceptnet mcrae veale_simile manually_included
+blue,sky,pos,certain,conceptnet veale_simile manually_included
+blue,feeling,pos,certain,manually_included
+blue,world,pos,not_certain,conceptnet
+blue,eye,pos,not_certain,cslb conceptnet
+blue,lark,pos,not_certain,veale_simile
+blue,iceberg,pos,not_certain,veale_simile
+blue,diamond,pos,not_certain,conceptnet
+blue,budgie,pos,certain,cslb mcrae
+blue,dress,pos,not_certain,conceptnet
+blue,chameleon,neg/pos/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+blue,sapphire,pos,not_certain,conceptnet
+blue,egg,pos,not_certain,conceptnet
+blue,water,pos,not_certain,conceptnet
+blue,umbrella,pos,not_certain,conceptnet
+blue,violet,neg/pos/pos,uncertain,wikipedia_sgns_model conceptnet wikipedia_sgns_model conceptnet
+blue,ring,pos,not_certain,conceptnet
+blue,peacock,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+blue,lagoon,pos,not_certain,veale_simile
+blue,whale,pos,not_certain,cslb
+blue,kingfisher,pos,not_certain,cslb veale_simile
+blue,dolphin,pos,not_certain,cslb veale_simile
+blue,jean,pos,not_certain,cslb
+blue,avocet,neg/pos,not_certain,wikipedia_sgns_model
+blue,snake,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+blue,pleuronectidae,neg/pos,not_certain,wikipedia_sgns_model
+blue,feather,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+blue,yellowthroat,neg/pos,not_certain,wikipedia_sgns_model
+blue,shark,neg/pos,not_certain,wikipedia_sgns_model
+blue,flamingo,neg/pos,not_certain,wikipedia_sgns_model
+blue,anhinga,neg/pos,not_certain,wikipedia_sgns_model
+blue,trogon,neg/pos,not_certain,wikipedia_sgns_model
+blue,beak,neg/pos,not_certain,wikipedia_sgns_model
+blue,gorgonian,neg/pos,not_certain,wikipedia_sgns_model
+blue,quail,neg/pos,not_certain,wikipedia_sgns_model
+blue,lizard,neg/neg/pos,uncertain,cslb wikipedia_sgns_model
+blue,turtle,neg/neg/pos,uncertain,wikipedia_sgns_model cslb
+blue,nuthatch,neg/pos,not_certain,wikipedia_sgns_model
+blue,bluebird,neg/pos,not_certain,wikipedia_sgns_model
+blue,plumage,neg/pos,not_certain,wikipedia_sgns_model
+blue,fringillidae,neg/pos,not_certain,wikipedia_sgns_model
+blue,blossom,neg/pos,not_certain,wikipedia_sgns_model
+blue,parrot,neg/pos,not_certain,wikipedia_sgns_model
+blue,bird,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+blue,grackle,neg/pos,not_certain,wikipedia_sgns_model
+blue,crab,neg/neg/pos,uncertain,cslb wikipedia_sgns_model
+blue,wagtail,neg/pos,not_certain,wikipedia_sgns_model
+blue,platanthera,neg/pos,not_certain,wikipedia_sgns_model
+blue,monkey,neg/pos,not_certain,wikipedia_sgns_model
+blue,thornbill,neg/pos,not_certain,wikipedia_sgns_model
+blue,pipefish,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+blue,paridae,neg/pos,not_certain,wikipedia_sgns_model
+blue,mentzelia,neg/pos,not_certain,wikipedia_sgns_model
+blue,frogmouth,neg/pos,not_certain,wikipedia_sgns_model
+blue,lorikeet,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+blue,scaup,neg/pos,not_certain,wikipedia_sgns_model
+blue,bowerbird,neg/pos,not_certain,wikipedia_sgns_model
+blue,fish,neg/pos,not_certain,wikipedia_sgns_model
+blue,pratincole,neg/pos,not_certain,wikipedia_sgns_model
+blue,spathe,neg/pos,not_certain,wikipedia_sgns_model
+blue,toucanet,neg/pos,not_certain,wikipedia_sgns_model
+blue,bushbaby,neg/pos,not_certain,wikipedia_sgns_model
+blue,tropicbird,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+blue,frogfish,neg/pos,not_certain,wikipedia_sgns_model
+blue,turaco,neg/pos,not_certain,wikipedia_sgns_model
+blue,grosbeak,neg/pos,not_certain,wikipedia_sgns_model
+blue,dogwood,neg/pos,not_certain,wikipedia_sgns_model
+blue,coucal,neg/pos,not_certain,wikipedia_sgns_model
+blue,sapsucker,neg/pos,not_certain,wikipedia_sgns_model
+blue,dogbane,neg/pos,not_certain,wikipedia_sgns_model
+blue,snailfish,neg/pos,not_certain,wikipedia_sgns_model
+blue,scorpionfish,neg/pos,not_certain,wikipedia_sgns_model
+blue,charadrius,neg/pos,not_certain,wikipedia_sgns_model
+blue,seedpod,neg/pos,not_certain,wikipedia_sgns_model
+blue,merganser,neg/pos,not_certain,wikipedia_sgns_model
+blue,crossbill,neg/pos,not_certain,wikipedia_sgns_model
+blue,chickadee,neg/pos,not_certain,wikipedia_sgns_model
+blue,cardamine,neg/pos,not_certain,wikipedia_sgns_model
+blue,parrotfish,neg/pos,not_certain,wikipedia_sgns_model
+blue,currawong,neg/pos,not_certain,wikipedia_sgns_model
+yellow,bottle,neg,certain,mcrae
+yellow,cloak,neg,certain,cslb
+yellow,car,neg,certain,conceptnet
+yellow,alligator,neg,certain,cslb mcrae
+yellow,grape,neg,certain,cslb conceptnet
+yellow,willow,neg,certain,cslb
+yellow,cricket,neg,certain,cslb
+yellow,flame,neg,certain,veale_simile
+yellow,kingfisher,neg,certain,cslb veale_simile
+yellow,oven,neg,certain,veale_simile
+yellow,truffle,neg,certain,conceptnet
+yellow,fir,neg,certain,cslb
+yellow,skunk,neg,certain,cslb
+yellow,jean,neg,certain,cslb
+yellow,brick,neg,certain,cslb mcrae
+yellow,calf,neg,certain,cslb
+yellow,salad,neg,certain,conceptnet
+yellow,jade,neg,certain,conceptnet
+yellow,dog,neg,certain,conceptnet
+yellow,clarinet,neg,certain,cslb
+yellow,insect,neg,certain,conceptnet
+yellow,vegetable,neg/pos,certain,wikipedia_sgns_model
+yellow,chameleon,neg,certain,conceptnet
+yellow,fox,neg,certain,cslb veale_simile
+yellow,millipede,neg,certain,cslb
+yellow,pepper,neg,certain,conceptnet
+yellow,tire,neg,certain,conceptnet
+yellow,night,neg,certain,conceptnet veale_simile
+yellow,gorilla,neg,certain,cslb
+yellow,lagoon,neg,certain,veale_simile
+yellow,lime,neg,certain,conceptnet
+yellow,crow,neg,certain,veale_simile
+yellow,cannon,neg,certain,mcrae
+yellow,football,neg,certain,cslb
+yellow,miner,neg,certain,veale_simile
+yellow,ring,neg,certain,conceptnet
+yellow,bean,neg,certain,cslb
+yellow,lobster,neg,certain,cslb veale_simile
+yellow,slug,neg,certain,cslb
+yellow,piano,neg,certain,cslb
+yellow,seaweed,neg,certain,cslb
+yellow,tank,neg,certain,cslb
+yellow,thundercloud,neg,certain,veale_simile
+yellow,eucalyptus,neg,certain,cslb
+yellow,spinach,neg,certain,cslb
+yellow,water,neg,certain,conceptnet
+yellow,peacock,neg,certain,cslb
+yellow,herring,neg,certain,cslb veale_simile
+yellow,jam,neg,certain,cslb
+yellow,umbrella,neg,certain,conceptnet
+yellow,human,neg,certain,conceptnet
+yellow,hair,neg,certain,cslb
+yellow,radish,neg,certain,cslb veale_simile
+yellow,sheep,neg,certain,cslb
+yellow,boot,neg,certain,mcrae
+yellow,emerald,neg,certain,conceptnet
+yellow,gherkin,neg,certain,cslb
+yellow,couch,neg,certain,conceptnet
+yellow,aubergine,neg,certain,cslb
+yellow,tomato,neg,certain,conceptnet
+yellow,frog,neg,certain,conceptnet
+yellow,pineapple,pos,certain,cslb manually_included
+yellow,paint,pos,certain,manually_included
+yellow,marigold,pos,certain,cslb manually_included
+yellow,lemon,pos,certain,cslb veale_simile manually_included
+yellow,crane,pos,certain,manually_included
+yellow,lion,pos,certain,cslb
+yellow,nectarine,pos,certain,cslb
+yellow,bus,pos,certain,cslb mcrae
+yellow,daffodil,pos,certain,cslb veale_simile
+yellow,flower,pos,certain,conceptnet
+yellow,peach,pos,certain,cslb
+yellow,cider,pos,certain,cslb cslb_crowd_pos
+yellow,corn,pos,certain,cslb
+yellow,sunflower,pos,certain,conceptnet
+yellow,pyramid,pos,certain,cslb
+yellow,mustard,pos,certain,conceptnet
+yellow,dandelion,pos,certain,cslb veale_simile
+yellow,apple,pos,certain,cslb conceptnet mcrae veale_simile
+yellow,corncob,pos,certain,conceptnet
+yellow,taxi,pos,certain,cslb
+yellow,beer,pos,certain,cslb cslb_crowd_pos
+yellow,mango,neg/pos,certain,wikipedia_sgns_model
+yellow,leopard,neg,certain,conceptnet
+yellow,banana,pos,certain,conceptnet
+yellow,goldfish,pos,certain,cslb
+yellow,saffron,pos,certain,veale_simile
+yellow,sun,pos,certain,veale_simile
+yellow,wasp,pos,certain,cslb
+yellow,orchid,pos,certain,conceptnet
+yellow,sandpaper,pos,certain,cslb cslb_crowd_pos
+yellow,apricot,neg/pos,certain,wikipedia_sgns_model
+yellow,buttercup,pos,certain,cslb veale_simile
+yellow,butter,pos,certain,cslb conceptnet
+yellow,lemonade,pos,certain,cslb_crowd_pos
+yellow,budgie,pos,certain,cslb mcrae
+yellow,melon,neg/pos,certain,wikipedia_sgns_model
+yellow,daisy,pos,certain,cslb
+yellow,grapefruit,pos,certain,cslb
+yellow,giraffe,pos,certain,cslb
+yellow,cheetah,pos,certain,cslb
+yellow,yolk,pos,certain,conceptnet
+yellow,pansy,pos,certain,cslb
+yellow,hornet,pos,certain,cslb
+yellow,locust,pos,certain,cslb
+yellow,cheese,pos,certain,cslb
+yellow,champagne,pos,certain,cslb
+yellow,bee,pos,certain,cslb
+yellow,sunbeam,pos,certain,veale_simile
+yellow,pistachio,neg/pos,certain,wikipedia_sgns_model
+yellow,fruit,neg/pos,certain,wikipedia_sgns_model
+yellow,walnut,neg/pos,certain,wikipedia_sgns_model
+yellow,plantain,neg/pos,certain,wikipedia_sgns_model
+yellow,ginger,neg/pos,certain,wikipedia_sgns_model
+yellow,herb,neg/pos,certain,wikipedia_sgns_model
+yellow,plumeria,neg/pos,certain,wikipedia_sgns_model
+yellow,potato,neg/pos,certain,wikipedia_sgns_model
+yellow,mamey,neg/pos,certain,wikipedia_sgns_model
+yellow,cream,neg/pos,certain,wikipedia_sgns_model
+yellow,gentianella,neg/pos,certain,wikipedia_sgns_model
+yellow,antennaria,neg/pos,certain,wikipedia_sgns_model
+yellow,chocolate,neg/pos,certain,wikipedia_sgns_model
+yellow,citrus,neg/pos,certain,wikipedia_sgns_model
+yellow,drupe,neg/pos,certain,wikipedia_sgns_model
+yellow,colocasia,neg/pos,certain,wikipedia_sgns_model
+yellow,candy,neg/pos,certain,wikipedia_sgns_model
+yellow,guava,neg/pos,certain,wikipedia_sgns_model
+yellow,cactus,neg/pos,certain,wikipedia_sgns_model
+yellow,milk,neg/pos,certain,wikipedia_sgns_model
+yellow,pumpkin,neg/pos,certain,wikipedia_sgns_model
+yellow,crassula,neg/pos,certain,wikipedia_sgns_model
+yellow,barley,neg/pos,certain,wikipedia_sgns_model
+yellow,lavandula,neg/pos,certain,wikipedia_sgns_model
+yellow,soursop,neg/pos,certain,wikipedia_sgns_model
+yellow,honey,neg/pos,certain,wikipedia_sgns_model
+yellow,custard,neg/pos,certain,wikipedia_sgns_model
+yellow,plum,pos,certain,cslb
+yellow,blossom,neg/pos,certain,wikipedia_sgns_model
+yellow,chive,neg/pos,certain,wikipedia_sgns_model
+yellow,geranium,neg,certain,cslb
+yellow,pawpaw,neg/pos,certain,wikipedia_sgns_model
+yellow,juice,neg/pos,certain,wikipedia_sgns_model
+yellow,ageratina,neg/pos,certain,wikipedia_sgns_model
+yellow,allspice,neg/pos,certain,wikipedia_sgns_model
+yellow,echinocereus,neg/pos,certain,wikipedia_sgns_model
+yellow,pigweed,neg/pos,certain,wikipedia_sgns_model
+yellow,cereal,neg/pos,certain,wikipedia_sgns_model
+yellow,cucurbit,neg/pos,certain,wikipedia_sgns_model
+yellow,garlic,neg/pos,certain,wikipedia_sgns_model
+yellow,raspberry,neg,certain,cslb veale_simile
+yellow,palaquium,neg/pos,certain,wikipedia_sgns_model
+yellow,syrup,neg/pos,certain,wikipedia_sgns_model
+yellow,lemongrass,neg/pos,certain,wikipedia_sgns_model
+yellow,serviceberry,neg/pos,certain,wikipedia_sgns_model
+yellow,toadflax,neg/pos,certain,wikipedia_sgns_model
+yellow,meconopsis,neg/pos,certain,wikipedia_sgns_model
+yellow,peanut,neg/pos,certain,wikipedia_sgns_model
+yellow,pecan,neg/pos,certain,wikipedia_sgns_model
+yellow,dogwood,neg/pos,certain,wikipedia_sgns_model
+yellow,umbellifer,neg/pos,certain,wikipedia_sgns_model
+yellow,quesadilla,neg/pos,certain,wikipedia_sgns_model
+yellow,gooseberry,neg/pos,certain,wikipedia_sgns_model
+yellow,actinidia,neg/pos,certain,wikipedia_sgns_model
+yellow,carrot,neg/pos,certain,wikipedia_sgns_model
+yellow,cherry,neg,certain,cslb veale_simile
+yellow,vanilla,neg/pos,certain,wikipedia_sgns_model
+yellow,platanthera,neg/pos,certain,wikipedia_sgns_model
+yellow,huckleberry,neg/pos,certain,wikipedia_sgns_model
+yellow,photinia,neg/pos,certain,wikipedia_sgns_model
+yellow,dogbane,neg/pos,certain,wikipedia_sgns_model
+yellow,orange,neg/pos,certain,wikipedia_sgns_model
+yellow,berry,neg,certain,veale_simile
+yellow,loquat,neg/pos,certain,wikipedia_sgns_model
+yellow,shiitake,neg/pos,certain,wikipedia_sgns_model
+round,disk,neg/pos,uncertain,conceptnet conceptnet conceptnet conceptnet
+round,cube,neg/neg/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+round,bedroom,neg,not_certain,conceptnet
+round,dresser,neg,not_certain,conceptnet
+round,pen,pos,certain,manually_included
+round,apple,pos,certain,mcrae manually_included
+round,lemon,pos,certain,manually_included
+round,candle,pos,certain,wikipedia_sgns_model manually_included
+round,world,pos,not_certain,conceptnet
+round,orange,pos,not_certain,conceptnet
+round,button,pos,not_certain,conceptnet
+round,tart,pos,not_certain,conceptnet
+round,barrel,pos,certain,mcrae
+round,room,pos,not_certain,conceptnet
+round,ashtray,pos,certain,mcrae
+round,sphere,pos,not_certain,conceptnet
+round,planet,pos,not_certain,conceptnet
+round,cds,pos,not_certain,conceptnet
+round,marble,pos,not_certain,conceptnet conceptnet
+round,baton,pos,certain,mcrae
+round,egg,pos,not_certain,conceptnet
+round,bowl,pos,certain,mcrae
+round,frisbee,pos,not_certain,conceptnet conceptnet
+round,globe,pos,not_certain,conceptnet
+round,ball,pos,certain,conceptnet mcrae
+round,beet,pos,certain,mcrae
+round,football,pos,not_certain,conceptnet
+round,circle,pos,not_certain,conceptnet conceptnet
+round,tortilla,pos,not_certain,conceptnet
+round,table,pos,not_certain,conceptnet
+round,banana,pos,certain,mcrae
+round,baseball,pos,not_certain,conceptnet
+round,banjo,pos,certain,mcrae
+round,bucket,pos,certain,wikipedia_sgns_model mcrae
+round,bracelet,pos,certain,mcrae
+round,basketball,pos,not_certain,conceptnet
+round,blueberry,pos,certain,mcrae
+round,biscuit,pos,certain,wikipedia_sgns_model mcrae
+round,wheel,pos,not_certain,conceptnet
+round,cabbage,pos,certain,mcrae
+round,cantaloupe,pos,certain,mcrae
+round,vinaigrette,neg/pos,not_certain,wikipedia_sgns_model
+round,cheese,neg/pos,not_certain,wikipedia_sgns_model
+round,shape,neg/pos,not_certain,wikipedia_sgns_model
+round,disc,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,pastry,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,sapodilla,neg/pos,not_certain,wikipedia_sgns_model
+round,box,neg/pos,not_certain,wikipedia_sgns_model
+round,plunger,neg/pos,not_certain,wikipedia_sgns_model
+round,custard,neg/pos,not_certain,wikipedia_sgns_model
+round,melon,neg/pos,not_certain,wikipedia_sgns_model
+round,mayonnaise,neg/pos,not_certain,wikipedia_sgns_model
+round,chicken,neg/pos,not_certain,wikipedia_sgns_model
+round,tomato,neg/pos,not_certain,wikipedia_sgns_model
+round,juice,neg/pos,not_certain,wikipedia_sgns_model
+round,dough,neg/pos,not_certain,wikipedia_sgns_model
+round,marzipan,neg/pos,not_certain,wikipedia_sgns_model
+round,bean,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,pecan,neg/pos,not_certain,wikipedia_sgns_model
+round,lolly,neg/pos,not_certain,wikipedia_sgns_model
+round,popsicle,neg/pos,not_certain,wikipedia_sgns_model
+round,pizza,neg/pos,not_certain,wikipedia_sgns_model
+round,pilaf,neg/pos,not_certain,wikipedia_sgns_model
+round,popcorn,neg/pos,not_certain,wikipedia_sgns_model
+round,butter,neg/pos,not_certain,wikipedia_sgns_model
+round,bread,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,onion,neg/pos,not_certain,wikipedia_sgns_model
+round,salad,neg/pos,not_certain,wikipedia_sgns_model
+round,sundae,neg/pos,not_certain,wikipedia_sgns_model
+round,cake,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,pineapple,neg/pos,not_certain,wikipedia_sgns_model
+round,potato,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,candy,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model wikipedia_sgns_model
+round,gourd,neg/pos,not_certain,wikipedia_sgns_model
+round,cheesecloth,neg/pos,not_certain,wikipedia_sgns_model
+round,fruit,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,dessert,neg/pos,not_certain,wikipedia_sgns_model
+round,samosa,neg/pos,not_certain,wikipedia_sgns_model
+round,hubcap,neg/pos,not_certain,wikipedia_sgns_model
+round,tray,neg/pos,not_certain,wikipedia_sgns_model
+round,drumstick,neg/pos,not_certain,wikipedia_sgns_model
+round,spoon,neg/pos,not_certain,wikipedia_sgns_model
+round,pudding,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,cream,neg/pos,not_certain,wikipedia_sgns_model
+round,chocolate,neg/pos,not_certain,wikipedia_sgns_model
+round,creamer,neg/pos,not_certain,wikipedia_sgns_model
+round,casserole,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,shoe,neg/pos,not_certain,wikipedia_sgns_model
+round,omelette,neg/pos,not_certain,wikipedia_sgns_model
+round,bottle,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,seedpod,neg/pos,not_certain,wikipedia_sgns_model
+round,fritter,neg/pos,not_certain,wikipedia_sgns_model
+round,curd,neg/pos,not_certain,wikipedia_sgns_model
+round,condiment,neg/pos,not_certain,wikipedia_sgns_model
+round,cornmeal,neg/pos,not_certain,wikipedia_sgns_model
+round,quesadilla,neg/pos,not_certain,wikipedia_sgns_model
+round,fondant,neg/pos,not_certain,wikipedia_sgns_model
+round,chive,neg/pos,not_certain,wikipedia_sgns_model
+round,puree,neg/pos,not_certain,wikipedia_sgns_model
+round,sauce,neg/pos,not_certain,wikipedia_sgns_model
+round,breadcrumb,neg/pos,not_certain,wikipedia_sgns_model
+round,peanut,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,soup,neg/pos,not_certain,wikipedia_sgns_model
+round,pomade,neg/pos,not_certain,wikipedia_sgns_model
+round,pumpkin,neg/pos,not_certain,wikipedia_sgns_model
+round,coconut,neg/pos,not_certain,wikipedia_sgns_model
+round,doughnut,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+round,berry,neg/pos,not_certain,wikipedia_sgns_model
+round,ketchup,neg/pos,not_certain,wikipedia_sgns_model
+round,scone,neg/pos,not_certain,wikipedia_sgns_model
+round,matzah,neg/pos,not_certain,wikipedia_sgns_model
+round,snack,neg/pos,not_certain,wikipedia_sgns_model
+round,watermelon,neg/pos,not_certain,wikipedia_sgns_model
+round,nutlet,neg/pos,not_certain,wikipedia_sgns_model
+round,almond,neg/pos,not_certain,wikipedia_sgns_model
+round,cookie,neg/pos,not_certain,wikipedia_sgns_model
+round,mentzelia,neg/pos,not_certain,wikipedia_sgns_model
+round,corkscrew,neg/pos,not_certain,wikipedia_sgns_model
+round,can,neg/pos,not_certain,wikipedia_sgns_model
+round,pasta,neg/pos,not_certain,wikipedia_sgns_model
+round,atole,neg/pos,not_certain,wikipedia_sgns_model
+round,coleslaw,neg/pos,not_certain,wikipedia_sgns_model
+round,syrup,neg/pos,not_certain,wikipedia_sgns_model
+round,cherry,neg/pos,not_certain,wikipedia_sgns_model
+round,vegetable,neg/pos,not_certain,wikipedia_sgns_model
+round,donut,neg/pos,not_certain,wikipedia_sgns_model
+round,bulgur,neg/pos,not_certain,wikipedia_sgns_model
+round,nut,neg/pos,not_certain,wikipedia_sgns_model
+round,cucurbit,neg/pos,not_certain,wikipedia_sgns_model
+round,patty,neg/pos,not_certain,wikipedia_sgns_model
+round,soursop,neg/pos,not_certain,wikipedia_sgns_model
+round,cheeseburger,neg/pos,not_certain,wikipedia_sgns_model
+round,pie,neg/pos,not_certain,wikipedia_sgns_model
+round,seasoning,neg/pos,not_certain,wikipedia_sgns_model
+round,enchiladas,neg/pos,not_certain,wikipedia_sgns_model
+round,sausage,neg/pos,not_certain,wikipedia_sgns_model
+round,mozzarella,neg/pos,not_certain,wikipedia_sgns_model
+round,pancake,neg/pos,not_certain,wikipedia_sgns_model
+round,marshmallow,neg/pos,not_certain,wikipedia_sgns_model
+round,pepperoni,neg/pos,not_certain,wikipedia_sgns_model
+black,sun,neg,certain,veale_simile manually_included
+black,supermarket,neg,certain,manually_included
+black,milk,neg,certain,manually_included
+black,rain,neg,certain,manually_included
+black,pear,neg,not_certain,conceptnet cslb
+black,lime,neg,not_certain,conceptnet cslb
+black,dolphin,neg,not_certain,cslb veale_simile
+black,insect,neg/neg/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+black,brick,neg,certain,cslb mcrae
+black,hose,neg,not_certain,cslb
+black,balloon,neg,not_certain,conceptnet
+black,buttercup,neg,not_certain,cslb veale_simile
+black,peacock,neg,not_certain,cslb
+black,fir,neg,not_certain,cslb
+black,dress,neg,not_certain,conceptnet
+black,crocodile,neg,not_certain,cslb
+black,car,neg,not_certain,conceptnet conceptnet
+black,carnation,neg,not_certain,cslb
+black,wine,neg,not_certain,conceptnet cslb
+black,jade,neg,not_certain,conceptnet
+black,bottle,neg,certain,mcrae
+black,umbrella,neg,not_certain,conceptnet
+black,bus,neg,certain,cslb mcrae
+black,pea,neg,not_certain,cslb conceptnet
+black,frog,neg,not_certain,conceptnet cslb conceptnet
+black,raspberry,neg,not_certain,cslb veale_simile
+black,butter,neg,not_certain,cslb conceptnet
+black,aubergine,neg,not_certain,cslb
+black,cucumber,neg,not_certain,cslb
+black,eye,neg,not_certain,cslb conceptnet
+black,flower,neg,not_certain,conceptnet conceptnet
+black,radish,neg,not_certain,cslb veale_simile
+black,lion,neg,not_certain,cslb
+black,cherry,neg,not_certain,cslb veale_simile
+black,ring,neg,not_certain,conceptnet
+black,parka,neg,not_certain,cslb
+black,heart,neg,not_certain,cslb
+black,cider,neg,not_certain,cslb
+black,lizard,neg/neg/pos,uncertain,wikipedia_sgns_model cslb wikipedia_sgns_model cslb
+black,alligator,neg,certain,cslb mcrae
+black,corn,neg,not_certain,cslb
+black,avocado,neg,certain,cslb mcrae
+black,onion,neg,not_certain,conceptnet cslb
+black,bean,neg,certain,mcrae
+black,apple,neg,certain,conceptnet cslb conceptnet mcrae veale_simile
+black,lark,neg,not_certain,veale_simile
+black,beet,neg,certain,mcrae
+black,glass,neg,not_certain,conceptnet
+black,giraffe,neg,not_certain,cslb
+black,pyramid,neg,not_certain,cslb
+black,tomato,neg,not_certain,conceptnet cslb veale_simile
+black,lobster,neg,not_certain,cslb veale_simile
+black,pansy,neg,not_certain,cslb
+black,fox,neg,not_certain,cslb veale_simile
+black,gherkin,neg,not_certain,cslb
+black,sky,neg,not_certain,conceptnet veale_simile
+black,weed,neg,not_certain,conceptnet
+black,elm,neg,not_certain,cslb
+black,grape,neg,not_certain,cslb conceptnet conceptnet
+black,ketchup,neg,not_certain,cslb
+black,market,pos,certain,manually_included
+black,day,pos,certain,manually_included
+black,pupil,pos,certain,manually_included
+black,paint,pos,certain,manually_included
+black,hair,pos,certain,cslb manually_included
+black,cloud,pos,certain,manually_included
+black,humor,pos,certain,manually_included
+black,death,pos,certain,manually_included
+black,coffee,pos,certain,cslb manually_included
+black,coal,pos,certain,veale_simile manually_included
+black,satire,pos,certain,manually_included
+black,human,pos,not_certain,conceptnet
+black,panther,pos,not_certain,cslb veale_simile
+black,tyre,pos,not_certain,cslb
+black,oven,pos,not_certain,veale_simile
+black,cat,neg/pos/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+black,pit,pos,not_certain,veale_simile
+black,gorilla,pos,not_certain,cslb
+black,blackboard,pos,not_certain,veale_simile
+black,sheep,pos,not_certain,cslb
+black,stocking,pos,not_certain,cslb
+black,jean,pos,not_certain,cslb
+black,penguin,pos,not_certain,cslb
+black,leopard,pos,not_certain,conceptnet cslb
+black,olive,pos,not_certain,cslb
+black,pot,pos,not_certain,veale_simile
+black,crypt,pos,not_certain,veale_simile
+black,truffle,pos,not_certain,conceptnet
+black,nightmare,pos,not_certain,veale_simile
+black,raccoon,pos,not_certain,cslb
+black,crow,pos,not_certain,veale_simile
+black,hornet,pos,not_certain,cslb
+black,bra,pos,certain,mcrae
+black,night,pos,not_certain,conceptnet veale_simile
+black,mussel,pos,not_certain,cslb
+black,bear,pos,certain,cslb mcrae
+black,pelican,pos,not_certain,cslb
+black,magpie,pos,not_certain,cslb
+black,calf,pos,not_certain,cslb
+black,rice,pos,not_certain,conceptnet
+black,sand,pos,not_certain,conceptnet
+black,starling,pos,not_certain,cslb
+black,tar,pos,not_certain,conceptnet
+black,ladybird,pos,not_certain,cslb
+black,zebra,pos,not_certain,cslb
+black,bat,pos,not_certain,veale_simile
+black,raisin,pos,not_certain,cslb
+black,recorder,pos,not_certain,cslb
+black,millipede,pos,not_certain,cslb
+black,miner,pos,not_certain,veale_simile
+black,cow,pos,not_certain,cslb
+black,cockroach,pos,not_certain,cslb
+black,gown,pos,not_certain,cslb
+black,lantern,pos,not_certain,cslb
+black,housefly,pos,not_certain,cslb
+black,suit,pos,not_certain,cslb
+black,rhino,pos,not_certain,cslb
+black,football,pos,not_certain,cslb
+black,dog,pos,not_certain,conceptnet
+black,beetle,pos,certain,wikipedia_sgns_model cslb mcrae
+black,skunk,pos,not_certain,cslb
+black,acaridae,neg/pos,not_certain,wikipedia_sgns_model
+black,pig,neg/pos,not_certain,wikipedia_sgns_model
+black,crassula,neg/pos,not_certain,wikipedia_sgns_model
+black,opossum,neg/pos,not_certain,wikipedia_sgns_model
+black,dogbane,neg/pos,not_certain,wikipedia_sgns_model
+black,parrot,neg/pos,not_certain,wikipedia_sgns_model
+black,owl,neg/pos,not_certain,wikipedia_sgns_model
+black,coatis,neg/pos,not_certain,wikipedia_sgns_model
+black,bird,neg/pos,not_certain,wikipedia_sgns_model
+black,monkey,neg/pos,not_certain,wikipedia_sgns_model
+black,snake,neg/pos,not_certain,wikipedia_sgns_model
+black,pipefish,neg/pos,not_certain,wikipedia_sgns_model
+black,sapsucker,neg/pos,not_certain,wikipedia_sgns_model
+black,thornbill,neg/pos,not_certain,wikipedia_sgns_model
+black,rabbit,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+black,mentzelia,neg/pos,not_certain,wikipedia_sgns_model
+black,honey,neg/pos,not_certain,wikipedia_sgns_model
+black,weasel,neg/pos,not_certain,wikipedia_sgns_model
+black,rat,neg/pos,not_certain,wikipedia_sgns_model
+black,woodpecker,neg/pos,not_certain,wikipedia_sgns_model
+black,civet,neg/pos,not_certain,wikipedia_sgns_model
+black,echinocereus,neg/pos,not_certain,wikipedia_sgns_model
+black,frogmouth,neg/pos,not_certain,wikipedia_sgns_model
+black,viscacha,neg/pos,not_certain,wikipedia_sgns_model
+black,paridae,neg/pos,not_certain,wikipedia_sgns_model
+black,combretum,neg/pos,not_certain,wikipedia_sgns_model
+black,toucanet,neg/pos,not_certain,wikipedia_sgns_model
+black,currawong,neg/pos,not_certain,wikipedia_sgns_model
+black,forepaw,neg/pos,not_certain,wikipedia_sgns_model
+black,potoroo,neg/pos,not_certain,wikipedia_sgns_model
+black,rhagoletis,neg/pos,not_certain,wikipedia_sgns_model
+juicy,emotion,neg,certain,manually_included
+juicy,cookie,neg,not_certain,conceptnet
+juicy,dessert,neg/neg/pos,uncertain,conceptnet wikipedia_sgns_model conceptnet wikipedia_sgns_model
+juicy,pork,neg,not_certain,conceptnet
+juicy,wine,neg,not_certain,conceptnet
+juicy,cake,neg,not_certain,conceptnet conceptnet
+juicy,donut,neg,not_certain,conceptnet
+juicy,burger,pos,certain,manually_included
+juicy,pineapple,pos,certain,wikipedia_sgns_model cslb wn_hypernym manually_included
+juicy,steak,pos,certain,manually_included
+juicy,report,pos,certain,manually_included
+juicy,shrimp,pos,certain,cslb cslb_crowd_pos manually_included
+juicy,rumor,pos,certain,manually_included
+juicy,story,pos,certain,manually_included
+juicy,meat,pos,certain,manually_included
+juicy,lime,pos,not_certain,cslb wn_hypernym
+juicy,pear,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+juicy,tangerine,pos,not_certain,cslb wn_hypernym
+juicy,strawberry,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+juicy,tomato,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym wikipedia_sgns_model cslb wn_hypernym
+juicy,satsuma,pos,not_certain,cslb wn_hypernym
+juicy,melon,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+juicy,nectarine,pos,not_certain,cslb wn_hypernym
+juicy,peach,pos,not_certain,conceptnet cslb wn_hypernym
+juicy,beet,pos,certain,wn_hypernym mcrae
+juicy,mango,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+juicy,blueberry,pos,certain,wikipedia_sgns_model cslb wn_hypernym mcrae
+juicy,grape,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym wikipedia_sgns_model cslb wn_hypernym
+juicy,cantaloupe,pos,certain,wn_hypernym mcrae
+juicy,cherry,pos,certain,wikipedia_sgns_model wn_hypernym cslb_crowd_pos
+juicy,watermelon,pos,not_certain,cslb wn_hypernym
+juicy,raspberry,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym
+juicy,lemon,neg/pos/pos,uncertain,wikipedia_sgns_model cslb wn_hypernym wikipedia_sgns_model cslb wn_hypernym
+juicy,grapefruit,pos,not_certain,cslb wn_hypernym
+juicy,currant,pos,certain,wikipedia_sgns_model cslb wn_hypernym cslb_crowd_pos
+juicy,banana,neg,certain,wikipedia_sgns_model wn_hypernym manually_included
+juicy,potato,neg,certain,wikipedia_sgns_model cslb wn_hypernym manually_included
+juicy,honey,neg/pos,not_certain,wikipedia_sgns_model
+juicy,almond,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,saskatoon,pos/neg,not_certain,wn_hypernym
+juicy,yam,pos/neg,not_certain,wn_hypernym
+juicy,oregano,neg/pos,not_certain,wikipedia_sgns_model
+juicy,okra,pos/neg,not_certain,wn_hypernym
+juicy,spike,pos/neg,not_certain,wn_hypernym
+juicy,rutabaga,pos/neg,not_certain,wn_hypernym
+juicy,calabash,pos/neg,not_certain,wn_hypernym
+juicy,ham,pos/neg,not_certain,cslb
+juicy,lingonberry,pos/neg,not_certain,wn_hypernym
+juicy,maize,neg/pos,not_certain,wikipedia_sgns_model
+juicy,mast,pos/neg,not_certain,wn_hypernym
+juicy,coffee,pos/neg,not_certain,wn_hypernym
+juicy,gooseberry,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,legume,pos/neg,not_certain,wn_hypernym
+juicy,fruit,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
+juicy,cultivar,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+juicy,kale,pos/neg,not_certain,wn_hypernym
+juicy,apple,neg/pos,not_certain,wikipedia_sgns_model
+juicy,hazelnut,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,mangold,pos/neg,not_certain,wn_hypernym
+juicy,oyster,pos/neg,not_certain,cslb
+juicy,broccoli,pos/neg,not_certain,wn_hypernym
+juicy,date,pos/neg,not_certain,wn_hypernym
+juicy,chocolate,pos/neg,not_certain,cslb
+juicy,spinach,pos/neg,not_certain,cslb wn_hypernym
+juicy,mandarin,pos/neg,not_certain,wn_hypernym
+juicy,onion,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
+juicy,pepperoni,neg/pos,not_certain,wikipedia_sgns_model
+juicy,olive,pos/neg,not_certain,cslb wn_hypernym
+juicy,berry,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,pomegranate,pos/neg,not_certain,wn_hypernym
+juicy,barleycorn,pos/neg,not_certain,wn_hypernym
+juicy,jack,pos/neg,not_certain,wn_hypernym
+juicy,colocasia,neg/pos,not_certain,wikipedia_sgns_model
+juicy,wintergreen,pos/neg,not_certain,wn_hypernym
+juicy,corn,pos/neg,not_certain,cslb wn_hypernym
+juicy,veggie,pos/neg,not_certain,wn_hypernym
+juicy,pudding,neg/pos,not_certain,wikipedia_sgns_model
+juicy,cauliflower,pos/neg,not_certain,wn_hypernym
+juicy,truffle,pos/neg,not_certain,wn_hypernym
+juicy,ginger,neg/pos,not_certain,wikipedia_sgns_model
+juicy,guava,pos/neg,not_certain,wn_hypernym
+juicy,pepper,pos/neg,not_certain,wn_hypernym
+juicy,cilantro,neg/pos,not_certain,wikipedia_sgns_model
+juicy,bulgur,neg/pos,not_certain,wikipedia_sgns_model
+juicy,fennel,pos/neg,not_certain,wn_hypernym
+juicy,hip,pos/neg,not_certain,wn_hypernym
+juicy,cabbage,pos/neg,not_certain,wn_hypernym
+juicy,pumpkin,pos/neg,not_certain,wn_hypernym
+juicy,custard,neg/pos,not_certain,wikipedia_sgns_model
+juicy,kernel,pos/neg,not_certain,wn_hypernym
+juicy,eggplant,pos/neg,not_certain,wn_hypernym
+juicy,sardine,pos/neg,not_certain,cslb
+juicy,chicken,neg/pos,not_certain,wikipedia_sgns_model
+juicy,leucaena,neg/pos,not_certain,wikipedia_sgns_model
+juicy,green,pos/neg,not_certain,wn_hypernym wn_hypernym
+juicy,freestone,pos/neg,not_certain,wn_hypernym
+juicy,tamarind,pos/neg,not_certain,wn_hypernym
+juicy,asparagus,pos/neg,not_certain,wn_hypernym
+juicy,veg,pos/neg,not_certain,wn_hypernym
+juicy,pulse,pos/neg,not_certain,wn_hypernym
+juicy,cocoanut,pos/neg,not_certain,wn_hypernym
+juicy,papaya,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
+juicy,salad,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+juicy,chickpea,pos/neg,not_certain,wn_hypernym
+juicy,butter,pos/neg,not_certain,cslb
+juicy,maraschino,neg/pos,not_certain,wikipedia_sgns_model
+juicy,apricot,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,pistachio,pos/neg,not_certain,wn_hypernym
+juicy,oilseed,pos/neg,not_certain,wn_hypernym
+juicy,tabasco,pos/neg,not_certain,wn_hypernym
+juicy,grain,pos/neg,not_certain,wn_hypernym
+juicy,puree,neg/pos,not_certain,wikipedia_sgns_model
+juicy,kumquat,pos/neg,not_certain,wn_hypernym
+juicy,rye,pos/neg,not_certain,wn_hypernym
+juicy,linseed,pos/neg,not_certain,wn_hypernym
+juicy,emperor,pos/neg,not_certain,wn_hypernym
+juicy,aubergine,pos/neg,not_certain,wn_hypernym
+juicy,crab,pos/neg,not_certain,cslb
+juicy,cinnamon,neg/pos,not_certain,wikipedia_sgns_model
+juicy,doughnut,pos/neg,not_certain,cslb
+juicy,clementine,pos/neg,not_certain,wn_hypernym
+juicy,mulberry,pos/neg,not_certain,wn_hypernym
+juicy,citrus,pos/neg,not_certain,wn_hypernym
+juicy,scallion,pos/neg,not_certain,wn_hypernym
+juicy,squash,pos/neg,not_certain,wn_hypernym
+juicy,bacca,pos/neg,not_certain,wn_hypernym
+juicy,bacon,pos/neg,not_certain,cslb
+juicy,rice,pos/neg,not_certain,cslb
+juicy,artichoke,pos/neg,not_certain,cslb wn_hypernym
+juicy,yogurt,neg/pos,not_certain,wikipedia_sgns_model
+juicy,damson,pos/neg,not_certain,wn_hypernym
+juicy,sugar,neg/pos,not_certain,wikipedia_sgns_model
+juicy,flageolet,pos/neg,not_certain,wn_hypernym
+juicy,cumin,pos/neg,not_certain,wn_hypernym
+juicy,groundnut,pos/neg,not_certain,wn_hypernym
+juicy,plantain,pos/neg,not_certain,wn_hypernym
+juicy,tater,pos/neg,not_certain,wn_hypernym
+juicy,mangosteen,pos/neg,not_certain,wn_hypernym
+juicy,fenugreek,neg/pos,not_certain,wikipedia_sgns_model
+juicy,blackberry,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,cocoa,neg/pos,not_certain,wikipedia_sgns_model
+juicy,conker,pos/neg,not_certain,wn_hypernym
+juicy,marrow,pos/neg,not_certain,wn_hypernym
+juicy,nut,pos/neg,not_certain,cslb wn_hypernym
+juicy,carrot,neg/pos/pos/neg,uncertain,wn_hypernym wikipedia_sgns_model
+juicy,pip,pos/neg,not_certain,wn_hypernym
+juicy,tamarindo,pos/neg,not_certain,wn_hypernym
+juicy,cheese,pos/neg,not_certain,cslb
+juicy,mussel,pos/neg,not_certain,cslb
+juicy,cucurbit,neg/pos,not_certain,wikipedia_sgns_model
+juicy,sapodilla,pos/neg,not_certain,wn_hypernym
+juicy,pyxis,pos/neg,not_certain,wn_hypernym
+juicy,orange,neg/pos/pos,uncertain,cslb wn_hypernym conceptnet wikipedia_sgns_model
+juicy,scallop,pos/neg,not_certain,cslb
+juicy,gumbo,pos/neg,not_certain,wn_hypernym
+juicy,citron,pos/neg,not_certain,wn_hypernym
+juicy,biscuit,pos/neg,not_certain,cslb
+juicy,sauce,neg/pos,not_certain,wikipedia_sgns_model
+juicy,buckeye,pos/neg,not_certain,wn_hypernym
+juicy,bread,pos/neg,not_certain,cslb
+juicy,spud,pos/neg,not_certain,wn_hypernym
+juicy,windfall,pos/neg,not_certain,wn_hypernym
+juicy,seed,pos/neg,not_certain,wn_hypernym
+juicy,bean,neg/pos/pos/neg,uncertain,cslb wn_hypernym wikipedia_sgns_model
+juicy,cottonseed,pos/neg,not_certain,wn_hypernym
+juicy,pie,pos/neg,not_certain,cslb
+juicy,iceberg,pos/neg,not_certain,wn_hypernym
+juicy,peanut,neg/pos/pos/neg,uncertain,wikipedia_sgns_model cslb wn_hypernym
+juicy,candy,neg/pos,not_certain,wikipedia_sgns_model wikipedia_sgns_model
+juicy,hackberry,pos/neg,not_certain,wn_hypernym
+juicy,actinidia,neg/pos,not_certain,wikipedia_sgns_model
+juicy,elderberry,pos/neg,not_certain,wn_hypernym
+juicy,cashews,neg/pos,not_certain,wikipedia_sgns_model
+juicy,coconut,neg/pos/pos/neg,uncertain,wikipedia_sgns_model wn_hypernym
