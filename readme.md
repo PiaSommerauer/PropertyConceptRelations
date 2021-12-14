@@ -1,10 +1,10 @@
-This repository contains a diagnostic dataset of properties, concepts, and relations. 
+This repository contains a diagnostic dataset of properties, concepts, and relations.
 
 The dataset characterizes property-concept pairs in terms of their relations. An overview of relations and examples are shown below:
 
 
 
-![](../images/relations.png)
+![Relations](images/relations.png)
 
 
 Property-concept pairs have been annotated by means of a crowd annotation task. The task, framework, and an early version of the dataset are introduced in the following publications:
@@ -67,6 +67,3 @@ Cleaned crowd annotations (according to procedure introduced in Sommerauer et. a
 Aggregated data (pilot blackbox and diagnostic): `data/aggregated`
 
 Candidate data for annotation: `data/candidate`
-
-
-
